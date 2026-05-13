@@ -1,0 +1,50 @@
+{
+  "company_name": "Composio",
+  "slug": "composio",
+  "metadata": {
+    "location": "Bengaluru",
+    "role_title": "Python Engineer / Software Engineer (Agent Infrastructure)",
+    "salary_range_lpa": "28-45 LPA",
+    "funding_stage": "",
+    "recent_signal": "",
+    "match_reason": "$25M-$29M Series A led by Lightspeed (2025);  building skill/tool layer for AI agents  — core fit for Amit's LLM orchestration + Python + production AI; agents interact with 150+ apps  using GPT-4o/Gemini/Llama.",
+    "company_url": "https://composio.dev",
+    "careers_page": "https://jobs.ashbyhq.com/composio",
+    "linkedin_company_page": "https://www.linkedin.com/company/composiohq/",
+    "contact_page": "https://composio.dev/contact",
+    "job_url": "https://composio.dev/hiring-3722/python-engineer",
+    "hiring_status": "actively hiring",
+    "priority_score": 94,
+    "cold_outreach_angle": "",
+    "notes": "YC + a16z-adjacent; ~59 employees,  hiring fast. Founded 2023 by IIT alums.  Cold email: emphasize agent tool-calling, MCP, GPT-4o/Gemini production.",
+    "_source_csv": "company_data_1.csv"
+  },
+  "research_status": "not_started",
+  "research_summary": "",
+  "jd_full_text": "",
+  "resume_latex_path": "./resume.tex",
+  "resume_pdf_path": "./resume.pdf",
+  "tailoring_notes": "",
+  "contacts": [
+    {
+      "contact_name": "",
+      "contact_role": "",
+      "tier": "",
+      "to": "",
+      "cc": [],
+      "linkedin": "",
+      "research_hook": "",
+      "subject": "",
+      "content": "",
+      "date_sent": "",
+      "follow_up_1_subject": "",
+      "follow_up_1_content": "",
+      "follow_up_1_date": "",
+      "follow_up_2_subject": "",
+      "follow_up_2_content": "",
+      "follow_up_2_date": "",
+      "status": "queued",
+      "response_notes": ""
+    }
+  ]
+}

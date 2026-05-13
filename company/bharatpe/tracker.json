@@ -1,0 +1,50 @@
+{
+  "company_name": "BharatPe",
+  "slug": "bharatpe",
+  "metadata": {
+    "location": "Gurgaon",
+    "role_title": "Software Developer - AI",
+    "salary_range_lpa": "18-26 LPA",
+    "funding_stage": "",
+    "recent_signal": "",
+    "match_reason": "Open 'Software Developer – AI' role in Gurgaon; merchant lending = invoice/doc OCR, fraud, conversational AI.",
+    "company_url": "https://bharatpe.com",
+    "careers_page": "https://bharatpe.com/career/",
+    "linkedin_company_page": "https://in.linkedin.com/company/bharatpe",
+    "contact_page": "https://bharatpe.com/contact-us",
+    "job_url": "https://unstop.com/jobs/software-developer-ai-bharatpe-1550223",
+    "hiring_status": "likely hiring",
+    "priority_score": 68,
+    "cold_outreach_angle": "",
+    "notes": "NCR location satisfies filter; ran AWS x BharatPe Hackathon.",
+    "_source_csv": "company_data_1.csv"
+  },
+  "research_status": "not_started",
+  "research_summary": "",
+  "jd_full_text": "",
+  "resume_latex_path": "./resume.tex",
+  "resume_pdf_path": "./resume.pdf",
+  "tailoring_notes": "",
+  "contacts": [
+    {
+      "contact_name": "",
+      "contact_role": "",
+      "tier": "",
+      "to": "",
+      "cc": [],
+      "linkedin": "",
+      "research_hook": "",
+      "subject": "",
+      "content": "",
+      "date_sent": "",
+      "follow_up_1_subject": "",
+      "follow_up_1_content": "",
+      "follow_up_1_date": "",
+      "follow_up_2_subject": "",
+      "follow_up_2_content": "",
+      "follow_up_2_date": "",
+      "status": "queued",
+      "response_notes": ""
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "company_name": "Perfios",
+  "slug": "perfios",
+  "metadata": {
+    "location": "Bengaluru",
+    "role_title": "AI/ML Engineer - Document AI",
+    "salary_range_lpa": "20-28 LPA",
+    "funding_stage": "",
+    "recent_signal": "",
+    "match_reason": "Core product is OCR/document-AI for BFSI (bank statement, KYC, ITR, PAN, Aadhaar parsing)  — direct match to Amit's gov-doc OCR experience; recently launched KScan AI and GenAI BFSI platform.",
+    "company_url": "https://perfios.ai",
+    "careers_page": "https://perfios.ai/careers/",
+    "linkedin_company_page": "https://www.linkedin.com/company/perfios",
+    "contact_page": "https://perfios.ai/contact-us/",
+    "job_url": "https://www.naukri.com/perfios-software-solutions-jobs-careers-2359128",
+    "hiring_status": "actively hiring",
+    "priority_score": 93,
+    "cold_outreach_angle": "",
+    "notes": "18+ roles on Naukri; ISO 42001 AI mgmt certified;  strongest fintech OCR/doc-AI overlap.",
+    "_source_csv": "company_data_1.csv"
+  },
+  "research_status": "not_started",
+  "research_summary": "",
+  "jd_full_text": "",
+  "resume_latex_path": "./resume.tex",
+  "resume_pdf_path": "./resume.pdf",
+  "tailoring_notes": "",
+  "contacts": [
+    {
+      "contact_name": "",
+      "contact_role": "",
+      "tier": "",
+      "to": "",
+      "cc": [],
+      "linkedin": "",
+      "research_hook": "",
+      "subject": "",
+      "content": "",
+      "date_sent": "",
+      "follow_up_1_subject": "",
+      "follow_up_1_content": "",
+      "follow_up_1_date": "",
+      "follow_up_2_subject": "",
+      "follow_up_2_content": "",
+      "follow_up_2_date": "",
+      "status": "queued",
+      "response_notes": ""
+    }
+  ]
+}

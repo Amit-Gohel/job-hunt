@@ -1,0 +1,50 @@
+{
+  "company_name": "NxtWave",
+  "slug": "nxtwave",
+  "metadata": {
+    "location": "Hyderabad (Gachibowli)",
+    "role_title": "Lead AI/ML Curriculum Developer / Applied AI Eng",
+    "salary_range_lpa": "18-30",
+    "funding_stage": "Series A ($33M; Greater Pacific Capital, Orios)",
+    "recent_signal": "WEF Tech Pioneer 2024; Forbes 30U30 founders; Telangana Govt MoU for GenAI upskilling of 1L students",
+    "match_reason": "Edtech with AI/ML curriculum + India AI Impact Summit GenAI buildathon winners",
+    "company_url": "https://www.ccbp.in/",
+    "careers_page": "https://www.ccbp.in/careers",
+    "linkedin_company_page": "https://in.linkedin.com/company/nxtwave-disruptive-technologies",
+    "contact_page": "https://www.ccbp.in/",
+    "job_url": "https://www.linkedin.com/jobs/nxtwave-jobs-worldwide",
+    "hiring_status": "actively hiring",
+    "priority_score": 70,
+    "cold_outreach_angle": "'Saw your GenAI buildathon + Telangana MoU — I run prod RAG at 50K q/mo and would love to help build the Applied-AI track or internal AI tooling.'",
+    "notes": "Founders Rahul Attuluri (ex-Amazon, IIIT-H), Sashank Reddy (IIT-B), Anupam Pedarla (IIT-KGP)",
+    "_source_csv": "company_data_2.csv"
+  },
+  "research_status": "not_started",
+  "research_summary": "",
+  "jd_full_text": "",
+  "resume_latex_path": "./resume.tex",
+  "resume_pdf_path": "./resume.pdf",
+  "tailoring_notes": "",
+  "contacts": [
+    {
+      "contact_name": "",
+      "contact_role": "",
+      "tier": "",
+      "to": "",
+      "cc": [],
+      "linkedin": "",
+      "research_hook": "",
+      "subject": "",
+      "content": "",
+      "date_sent": "",
+      "follow_up_1_subject": "",
+      "follow_up_1_content": "",
+      "follow_up_1_date": "",
+      "follow_up_2_subject": "",
+      "follow_up_2_content": "",
+      "follow_up_2_date": "",
+      "status": "queued",
+      "response_notes": ""
+    }
+  ]
+}

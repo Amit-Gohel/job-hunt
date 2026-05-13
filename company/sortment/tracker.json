@@ -1,0 +1,50 @@
+{
+  "company_name": "Sortment",
+  "slug": "sortment",
+  "metadata": {
+    "location": "Bengaluru",
+    "role_title": "AI Engineer (Agentic Marketing)",
+    "salary_range_lpa": "20-40",
+    "funding_stage": "Seed (undisclosed; ajvc-backed)",
+    "recent_signal": "Google for Startups AI First India 2025; public launch Q3 2025; Soundverse AI early customer",
+    "match_reason": "Agentic AI for lifecycle marketing — strategy + content + QA + analyst agents  over customer data",
+    "company_url": "https://sortment.com/",
+    "careers_page": "https://sortment.com/",
+    "linkedin_company_page": "https://www.linkedin.com/company/sortment",
+    "contact_page": "https://sortment.com/",
+    "job_url": "https://sortment.com/",
+    "hiring_status": "likely  hiring",
+    "priority_score": 87,
+    "cold_outreach_angle": "'Your strategy→content→QA→analyst agent loop is the same evaluation harness I built for a 95% MRR RAG. Would love to plug FastAPI + Qdrant + multi-model routing into Sortment.'",
+    "notes": "Founder Ankur Banga (ex-Uber growth/data); ~10-20 ppl",
+    "_source_csv": "company_data_2.csv"
+  },
+  "research_status": "not_started",
+  "research_summary": "",
+  "jd_full_text": "",
+  "resume_latex_path": "./resume.tex",
+  "resume_pdf_path": "./resume.pdf",
+  "tailoring_notes": "",
+  "contacts": [
+    {
+      "contact_name": "",
+      "contact_role": "",
+      "tier": "",
+      "to": "",
+      "cc": [],
+      "linkedin": "",
+      "research_hook": "",
+      "subject": "",
+      "content": "",
+      "date_sent": "",
+      "follow_up_1_subject": "",
+      "follow_up_1_content": "",
+      "follow_up_1_date": "",
+      "follow_up_2_subject": "",
+      "follow_up_2_content": "",
+      "follow_up_2_date": "",
+      "status": "queued",
+      "response_notes": ""
+    }
+  ]
+}

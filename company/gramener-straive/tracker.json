@@ -1,0 +1,50 @@
+{
+  "company_name": "Gramener (Straive)",
+  "slug": "gramener-straive",
+  "metadata": {
+    "location": "Hyderabad",
+    "role_title": "Generative AI Engineer / Gen AI Architect (Python, PyTorch, LLM, RAG)",
+    "salary_range_lpa": "17-26 LPA",
+    "funding_stage": "",
+    "recent_signal": "",
+    "match_reason": "Explicit Gen AI Engineer JD requires Python+PyTorch+LLMs+RAG+vector DBs+AWS/Azure;  Hyderabad is first-preference office; LLM/Agentic/MCP work.",
+    "company_url": "https://gramener.com",
+    "careers_page": "https://gramener.com/careers/",
+    "linkedin_company_page": "https://in.linkedin.com/company/gramener",
+    "contact_page": "https://gramener.com/contact-us/",
+    "job_url": "https://gramener.com/careers/generative-ai-engineer/",
+    "hiring_status": "actively hiring",
+    "priority_score": 77,
+    "cold_outreach_angle": "",
+    "notes": "Hyderabad+Bengaluru offices both in scope; Nasscom Responsible AI award 2024.",
+    "_source_csv": "company_data_1.csv"
+  },
+  "research_status": "not_started",
+  "research_summary": "",
+  "jd_full_text": "",
+  "resume_latex_path": "./resume.tex",
+  "resume_pdf_path": "./resume.pdf",
+  "tailoring_notes": "",
+  "contacts": [
+    {
+      "contact_name": "",
+      "contact_role": "",
+      "tier": "",
+      "to": "",
+      "cc": [],
+      "linkedin": "",
+      "research_hook": "",
+      "subject": "",
+      "content": "",
+      "date_sent": "",
+      "follow_up_1_subject": "",
+      "follow_up_1_content": "",
+      "follow_up_1_date": "",
+      "follow_up_2_subject": "",
+      "follow_up_2_content": "",
+      "follow_up_2_date": "",
+      "status": "queued",
+      "response_notes": ""
+    }
+  ]
+}

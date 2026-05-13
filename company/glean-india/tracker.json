@@ -1,0 +1,50 @@
+{
+  "company_name": "Glean (India)",
+  "slug": "glean-india",
+  "metadata": {
+    "location": "Bengaluru",
+    "role_title": "Senior SWE / Applied AI Engineer",
+    "salary_range_lpa": "35-75",
+    "funding_stage": "Series F (2025, ~$7.2B val; Kleiner Perkins, Lightspeed, GC)",
+    "recent_signal": "First Bengaluru office opened 2023, growing rapidly; median SWE TC ~₹99.8L per Levels.fyi",
+    "match_reason": "Enterprise RAG + work assistant + agent orchestration with MCP = closest commercial product to Amit's RAG/multi-model production work",
+    "company_url": "https://www.glean.com/",
+    "careers_page": "https://www.glean.com/careers",
+    "linkedin_company_page": "https://www.linkedin.com/company/gleanwork",
+    "contact_page": "https://www.glean.com/contact",
+    "job_url": "https://www.linkedin.com/company/gleanwork/jobs",
+    "hiring_status": "actively hiring",
+    "priority_score": 91,
+    "cold_outreach_angle": "'Glean's MCP server + skills + memory architecture = what I'm already building. Cite my FastAPI + vector DB + multi-LLM eval experience.'",
+    "notes": "Founder Arvind Jain  (IIT Delhi, ex-Google, ex-Rubrik);  India team led by Vish (IIT Delhi)",
+    "_source_csv": "company_data_2.csv"
+  },
+  "research_status": "not_started",
+  "research_summary": "",
+  "jd_full_text": "",
+  "resume_latex_path": "./resume.tex",
+  "resume_pdf_path": "./resume.pdf",
+  "tailoring_notes": "",
+  "contacts": [
+    {
+      "contact_name": "",
+      "contact_role": "",
+      "tier": "",
+      "to": "",
+      "cc": [],
+      "linkedin": "",
+      "research_hook": "",
+      "subject": "",
+      "content": "",
+      "date_sent": "",
+      "follow_up_1_subject": "",
+      "follow_up_1_content": "",
+      "follow_up_1_date": "",
+      "follow_up_2_subject": "",
+      "follow_up_2_content": "",
+      "follow_up_2_date": "",
+      "status": "queued",
+      "response_notes": ""
+    }
+  ]
+}

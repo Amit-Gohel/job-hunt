@@ -1,0 +1,50 @@
+{
+  "company_name": "Drishya AI Labs",
+  "slug": "drishya-ai-labs",
+  "metadata": {
+    "location": "Bengaluru (Chamarajpete)",
+    "role_title": "Senior Data Scientist / AI Engineer (Generative + Agentic)",
+    "salary_range_lpa": "18-35",
+    "funding_stage": "Early/Growth (NASSCOM Emerge 50 deep-tech)",
+    "recent_signal": "Featured at ENRich 2025 + DigiOil 2023; expanding agentic AI for industrial assets",
+    "match_reason": "Industrial agentic AI + RAG over engineering docs (P&IDs, ISOs) = contextual-graph + LLM eval",
+    "company_url": "https://www.drishya.ai/",
+    "careers_page": "https://www.drishya.ai/contact-us",
+    "linkedin_company_page": "https://www.linkedin.com/company/drishya-ai/",
+    "contact_page": "https://www.drishya.ai/contact-us",
+    "job_url": "https://www.linkedin.com/company/drishya-ai/jobs",
+    "hiring_status": "likely hiring",
+    "priority_score": 69,
+    "cold_outreach_angle": "'Frame OCR/doc-AI + vector search as directly applicable to P&ID → contextual-graph;  highlight LangGraph/CrewAI experience.'",
+    "notes": "CEO Amardeep Sibia; energy-transition focus",
+    "_source_csv": "company_data_2.csv"
+  },
+  "research_status": "not_started",
+  "research_summary": "",
+  "jd_full_text": "",
+  "resume_latex_path": "./resume.tex",
+  "resume_pdf_path": "./resume.pdf",
+  "tailoring_notes": "",
+  "contacts": [
+    {
+      "contact_name": "",
+      "contact_role": "",
+      "tier": "",
+      "to": "",
+      "cc": [],
+      "linkedin": "",
+      "research_hook": "",
+      "subject": "",
+      "content": "",
+      "date_sent": "",
+      "follow_up_1_subject": "",
+      "follow_up_1_content": "",
+      "follow_up_1_date": "",
+      "follow_up_2_subject": "",
+      "follow_up_2_content": "",
+      "follow_up_2_date": "",
+      "status": "queued",
+      "response_notes": ""
+    }
+  ]
+}

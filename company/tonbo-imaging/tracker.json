@@ -1,0 +1,50 @@
+{
+  "company_name": "Tonbo Imaging",
+  "slug": "tonbo-imaging",
+  "metadata": {
+    "location": "Bengaluru",
+    "role_title": "Computer Vision / Deep Learning Engineer (2-4 yrs)",
+    "salary_range_lpa": "18-30 LPA",
+    "funding_stage": "",
+    "recent_signal": "",
+    "match_reason": "Defense CV/ML; profitable scale-up; ML/CNN/3D-geometry roles; supplies India MoD + exports.",
+    "company_url": "https://tonboimaging.com",
+    "careers_page": "https://tonboimaging.com/defense/careers/",
+    "linkedin_company_page": "https://www.linkedin.com/company/tonbo-imaging",
+    "contact_page": "https://tonboimaging.com/contact",
+    "job_url": "https://www.jobaaj.com/company/tonbo-imaging-careers",
+    "hiring_status": "actively hiring",
+    "priority_score": 60,
+    "cold_outreach_angle": "",
+    "notes": "Stack C++/CUDA/CV not Python/RAG — partial fit. Hires from IIT/IISc.",
+    "_source_csv": "company_data_1.csv"
+  },
+  "research_status": "not_started",
+  "research_summary": "",
+  "jd_full_text": "",
+  "resume_latex_path": "./resume.tex",
+  "resume_pdf_path": "./resume.pdf",
+  "tailoring_notes": "",
+  "contacts": [
+    {
+      "contact_name": "",
+      "contact_role": "",
+      "tier": "",
+      "to": "",
+      "cc": [],
+      "linkedin": "",
+      "research_hook": "",
+      "subject": "",
+      "content": "",
+      "date_sent": "",
+      "follow_up_1_subject": "",
+      "follow_up_1_content": "",
+      "follow_up_1_date": "",
+      "follow_up_2_subject": "",
+      "follow_up_2_content": "",
+      "follow_up_2_date": "",
+      "status": "queued",
+      "response_notes": ""
+    }
+  ]
+}

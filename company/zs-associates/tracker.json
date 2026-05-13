@@ -1,0 +1,50 @@
+{
+  "company_name": "ZS Associates",
+  "slug": "zs-associates",
+  "metadata": {
+    "location": "Bengaluru",
+    "role_title": "AI Engineer - Machine Learning (Max.AI team, 1-3 yrs)",
+    "salary_range_lpa": "18-28 LPA",
+    "funding_stage": "",
+    "recent_signal": "",
+    "match_reason": "Dedicated Max.AI engineering unit building GenAI products; Job ID 32712 Bengaluru 1-3 yrs ML;  Python + MLOps (MLflow) + production ML pipelines;  also Pune & Gurgaon offices.",
+    "company_url": "https://www.zs.com",
+    "careers_page": "https://jobs.zs.com/all/jobs",
+    "linkedin_company_page": "https://in.linkedin.com/company/zs-associates",
+    "contact_page": "https://www.zs.com/contact-us",
+    "job_url": "https://jobs.zs.com/all/jobs",
+    "hiring_status": "actively hiring",
+    "priority_score": 93,
+    "cold_outreach_angle": "",
+    "notes": "127 ZS Associates jobs on Naukri; large GenAI practice across pharma/healthcare.",
+    "_source_csv": "company_data_1.csv"
+  },
+  "research_status": "not_started",
+  "research_summary": "",
+  "jd_full_text": "",
+  "resume_latex_path": "./resume.tex",
+  "resume_pdf_path": "./resume.pdf",
+  "tailoring_notes": "",
+  "contacts": [
+    {
+      "contact_name": "",
+      "contact_role": "",
+      "tier": "",
+      "to": "",
+      "cc": [],
+      "linkedin": "",
+      "research_hook": "",
+      "subject": "",
+      "content": "",
+      "date_sent": "",
+      "follow_up_1_subject": "",
+      "follow_up_1_content": "",
+      "follow_up_1_date": "",
+      "follow_up_2_subject": "",
+      "follow_up_2_content": "",
+      "follow_up_2_date": "",
+      "status": "queued",
+      "response_notes": ""
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "company_name": "Yellow.ai",
+  "slug": "yellow-ai",
+  "metadata": {
+    "location": "Bengaluru",
+    "role_title": "AI/ML Engineer / Machine Learning Engineer (NLP, GenAI)",
+    "salary_range_lpa": "20-32 LPA",
+    "funding_stage": "",
+    "recent_signal": "",
+    "match_reason": "Multi-LLM Dynamic Automation Platform handling 2B+ conversations/qtr;  uses 15+ LLMs — direct match for GPT-4o/Gemini/Llama + conversational AI experience.",
+    "company_url": "https://yellow.ai",
+    "careers_page": "https://yellow.ai/career/",
+    "linkedin_company_page": "https://www.linkedin.com/company/yellowdotai/",
+    "contact_page": "https://yellow.ai/contact/",
+    "job_url": "https://www.instahyre.com/job-167897-machine-learning-engineer-at-yellow-bangalore/",
+    "hiring_status": "actively hiring",
+    "priority_score": 84,
+    "cold_outreach_angle": "",
+    "notes": "$102M+ raised; Gartner Challenger 2023.  Stack: Python, PyTorch, TF, NLP, multi-LLM orchestration.",
+    "_source_csv": "company_data_1.csv"
+  },
+  "research_status": "not_started",
+  "research_summary": "",
+  "jd_full_text": "",
+  "resume_latex_path": "./resume.tex",
+  "resume_pdf_path": "./resume.pdf",
+  "tailoring_notes": "",
+  "contacts": [
+    {
+      "contact_name": "",
+      "contact_role": "",
+      "tier": "",
+      "to": "",
+      "cc": [],
+      "linkedin": "",
+      "research_hook": "",
+      "subject": "",
+      "content": "",
+      "date_sent": "",
+      "follow_up_1_subject": "",
+      "follow_up_1_content": "",
+      "follow_up_1_date": "",
+      "follow_up_2_subject": "",
+      "follow_up_2_content": "",
+      "follow_up_2_date": "",
+      "status": "queued",
+      "response_notes": ""
+    }
+  ]
+}

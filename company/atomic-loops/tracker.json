@@ -1,0 +1,50 @@
+{
+  "company_name": "Atomic Loops",
+  "slug": "atomic-loops",
+  "metadata": {
+    "location": "Pune",
+    "role_title": "AI/ML Engineer (1-3 yrs)",
+    "salary_range_lpa": "12-22 LPA",
+    "funding_stage": "",
+    "recent_signal": "",
+    "match_reason": "Boutique GenAI/ML consultancy serving global clients (200+ AI deployments); FastAPI/Python/LLM expertise.",
+    "company_url": "https://www.atomicloops.com",
+    "careers_page": "https://www.atomicloops.com/careers",
+    "linkedin_company_page": "https://in.linkedin.com/company/atomicloops",
+    "contact_page": "https://www.atomicloops.com/contact",
+    "job_url": "https://cutshort.io/job/AI-ML-Intern-Pune-AccioJob-RMTnpiK5",
+    "hiring_status": "actively hiring",
+    "priority_score": 55,
+    "cold_outreach_angle": "",
+    "notes": "Pune location box-tick. Smaller/services orientation — backup.",
+    "_source_csv": "company_data_1.csv"
+  },
+  "research_status": "not_started",
+  "research_summary": "",
+  "jd_full_text": "",
+  "resume_latex_path": "./resume.tex",
+  "resume_pdf_path": "./resume.pdf",
+  "tailoring_notes": "",
+  "contacts": [
+    {
+      "contact_name": "",
+      "contact_role": "",
+      "tier": "",
+      "to": "",
+      "cc": [],
+      "linkedin": "",
+      "research_hook": "",
+      "subject": "",
+      "content": "",
+      "date_sent": "",
+      "follow_up_1_subject": "",
+      "follow_up_1_content": "",
+      "follow_up_1_date": "",
+      "follow_up_2_subject": "",
+      "follow_up_2_content": "",
+      "follow_up_2_date": "",
+      "status": "queued",
+      "response_notes": ""
+    }
+  ]
+}

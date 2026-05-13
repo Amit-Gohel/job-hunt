@@ -1,0 +1,50 @@
+{
+  "company_name": "ShareChat / Mohalla Tech",
+  "slug": "sharechat-mohalla-tech",
+  "metadata": {
+    "location": "Bengaluru",
+    "role_title": "ML Engineer / Staff MLE - Feed AI / Ads ML",
+    "salary_range_lpa": "22-36 LPA",
+    "funding_stage": "",
+    "recent_signal": "",
+    "match_reason": "325M MAU;  ML powers feed ranking, candidate gen, ads CTR/CVR, recsys at 100M+ user scale; Staff MLE Feed AI  and Ads MLE actively posted.",
+    "company_url": "https://sharechat.com",
+    "careers_page": "https://sharechat.com/careers",
+    "linkedin_company_page": "https://www.linkedin.com/company/sharechat",
+    "contact_page": "https://sharechat.com/contact",
+    "job_url": "https://in.linkedin.com/jobs/sharechat-jobs",
+    "hiring_status": "actively hiring",
+    "priority_score": 87,
+    "cold_outreach_angle": "",
+    "notes": "Heavy recsys/ranking focus rather than RAG/LLM. TF/PyTorch + Kafka/Spark/Databricks.",
+    "_source_csv": "company_data_1.csv"
+  },
+  "research_status": "not_started",
+  "research_summary": "",
+  "jd_full_text": "",
+  "resume_latex_path": "./resume.tex",
+  "resume_pdf_path": "./resume.pdf",
+  "tailoring_notes": "",
+  "contacts": [
+    {
+      "contact_name": "",
+      "contact_role": "",
+      "tier": "",
+      "to": "",
+      "cc": [],
+      "linkedin": "",
+      "research_hook": "",
+      "subject": "",
+      "content": "",
+      "date_sent": "",
+      "follow_up_1_subject": "",
+      "follow_up_1_content": "",
+      "follow_up_1_date": "",
+      "follow_up_2_subject": "",
+      "follow_up_2_content": "",
+      "follow_up_2_date": "",
+      "status": "queued",
+      "response_notes": ""
+    }
+  ]
+}

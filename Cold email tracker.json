@@ -1,0 +1,117 @@
+{
+  "OpenAI": {
+    "resume_latex_path": "./resumes/openai/resume.tex",
+    "resume_pdf_path": "./resumes/openai/resume.pdf",
+    "tailoring_notes": "Emphasized RAG + multi-tenant + scale numbers. Dropped IoT/hardware projects. Reordered skills to put vector DBs first.",
+    "contacts": [
+      {
+        "contact_name": "Jane Doe",
+        "contact_role": "ML Engineering Manager",
+        "to": "jane@openai.com",
+        "cc": ["recruiter@openai.com"],
+        "linkedin": "https://linkedin.com/in/janedoe",
+        "research_hook": "Posted on X about scaling Milvus past 100M vectors",
+
+        "subject": "question about OpenAI's retrieval stack",
+        "content": "Hi Jane,\n\nRead your X thread on scaling Milvus past 100M vectors last week. The bit about HNSW parameter tuning matched something I ran into rebuilding our chatbot infra at Vivansh...\n\nAmit",
+        "date_sent": "2026-05-13",
+
+        "follow_up_1_subject": "re: question about OpenAI's retrieval stack",
+        "follow_up_1_content": "Hi Jane,\n\nBumping this up. Since I sent the last email, I published the BGE-M3 vs Stella benchmark I mentioned...\n\nAmit",
+        "follow_up_1_date": "2026-05-16",
+
+        "follow_up_2_subject": "re: question about OpenAI's retrieval stack",
+        "follow_up_2_content": "Hi Jane,\n\nLast note from me on this. If OpenAI isn't hiring on ML right now, totally understood...\n\nAmit",
+        "follow_up_2_date": "2026-05-23",
+
+        "status": "no_response",
+        "response_notes": ""
+      },
+      {
+        "contact_name": "John Smith",
+        "contact_role": "AI Researcher",
+        "to": "john@openai.com",
+        "cc": [],
+        "linkedin": "",
+        "research_hook": "",
+
+        "subject": "",
+        "content": "",
+        "date_sent": "",
+
+        "follow_up_1_subject": "",
+        "follow_up_1_content": "",
+        "follow_up_1_date": "",
+
+        "follow_up_2_subject": "",
+        "follow_up_2_content": "",
+        "follow_up_2_date": "",
+
+        "status": "queued",
+        "response_notes": ""
+      }
+    ]
+  },
+
+  "Anthropic": {
+    "resume_latex_path": "./resumes/anthropic/resume.tex",
+    "resume_pdf_path": "./resumes/anthropic/resume.pdf",
+    "tailoring_notes": "",
+    "contacts": [
+      {
+        "contact_name": "",
+        "contact_role": "",
+        "to": "",
+        "cc": [],
+        "linkedin": "",
+        "research_hook": "",
+
+        "subject": "",
+        "content": "",
+        "date_sent": "",
+
+        "follow_up_1_subject": "",
+        "follow_up_1_content": "",
+        "follow_up_1_date": "",
+
+        "follow_up_2_subject": "",
+        "follow_up_2_content": "",
+        "follow_up_2_date": "",
+
+        "status": "queued",
+        "response_notes": ""
+      }
+    ]
+  },
+
+  "Perplexity": {
+    "resume_latex_path": "./resumes/perplexity/resume.tex",
+    "resume_pdf_path": "./resumes/perplexity/resume.pdf",
+    "tailoring_notes": "",
+    "contacts": [
+      {
+        "contact_name": "",
+        "contact_role": "",
+        "to": "",
+        "cc": [],
+        "linkedin": "",
+        "research_hook": "",
+
+        "subject": "",
+        "content": "",
+        "date_sent": "",
+
+        "follow_up_1_subject": "",
+        "follow_up_1_content": "",
+        "follow_up_1_date": "",
+
+        "follow_up_2_subject": "",
+        "follow_up_2_content": "",
+        "follow_up_2_date": "",
+
+        "status": "queued",
+        "response_notes": ""
+      }
+    ]
+  }
+}

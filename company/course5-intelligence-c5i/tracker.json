@@ -1,0 +1,50 @@
+{
+  "company_name": "Course5 Intelligence (C5i)",
+  "slug": "course5-intelligence-c5i",
+  "metadata": {
+    "location": "Bengaluru",
+    "role_title": "Data Scientist - GenAI / LLM Engineer (Python, NLP, BFSI)",
+    "salary_range_lpa": "17-26 LPA",
+    "funding_stage": "",
+    "recent_signal": "",
+    "match_reason": "Active 'Data Scientist with Python, GenAI, LLMs' postings  on c5i.ai/careers; Brigade Tech Gardens Bengaluru;  Everest PEAK Matrix 2024 Major Contender.",
+    "company_url": "https://www.c5i.ai",
+    "careers_page": "https://www.c5i.ai/careers/",
+    "linkedin_company_page": "https://in.linkedin.com/company/course5i/",
+    "contact_page": "https://www.c5i.ai/contact-us/",
+    "job_url": "https://www.c5i.ai/careers/",
+    "hiring_status": "actively hiring",
+    "priority_score": 80,
+    "cold_outreach_angle": "",
+    "notes": "Multiple GenAI/LLM JDs; Glassdoor 4.4/5;  PE-backed (360 ONE, Carnelian).",
+    "_source_csv": "company_data_1.csv"
+  },
+  "research_status": "not_started",
+  "research_summary": "",
+  "jd_full_text": "",
+  "resume_latex_path": "./resume.tex",
+  "resume_pdf_path": "./resume.pdf",
+  "tailoring_notes": "",
+  "contacts": [
+    {
+      "contact_name": "",
+      "contact_role": "",
+      "tier": "",
+      "to": "",
+      "cc": [],
+      "linkedin": "",
+      "research_hook": "",
+      "subject": "",
+      "content": "",
+      "date_sent": "",
+      "follow_up_1_subject": "",
+      "follow_up_1_content": "",
+      "follow_up_1_date": "",
+      "follow_up_2_subject": "",
+      "follow_up_2_content": "",
+      "follow_up_2_date": "",
+      "status": "queued",
+      "response_notes": ""
+    }
+  ]
+}

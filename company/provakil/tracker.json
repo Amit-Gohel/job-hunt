@@ -1,0 +1,50 @@
+{
+  "company_name": "Provakil",
+  "slug": "provakil",
+  "metadata": {
+    "location": "Pune",
+    "role_title": "Senior ML Engineer / Backend Engineer (Document AI)",
+    "salary_range_lpa": "18-32",
+    "funding_stage": "Bootstrapped (10+yrs operating, 250+ enterprise customers)",
+    "recent_signal": "2025: 10-yr anniversary; ALB Mumbai/Riyadh/APAC; hiring Eng Manager; AI extracts clauses/risks/summaries across 19K court forums",
+    "match_reason": "Enterprise legal-ops with AI clause extraction, contract summarization, 8000+ courts data — pure doc-AI + RAG fit",
+    "company_url": "https://provakil.com/",
+    "careers_page": "https://provakil.com/careers/",
+    "linkedin_company_page": "https://in.linkedin.com/company/provakil",
+    "contact_page": "https://provakil.com/",
+    "job_url": "https://provakil.com/openings/",
+    "hiring_status": "actively hiring",
+    "priority_score": 94,
+    "cold_outreach_angle": "'Your CLM extracts clauses across 1L+ contracts and 50L+ notices/month — I built a 50K queries/mo RAG over messy docs with Milvus/Qdrant; let's discuss scaling your IP-watch/clause-extraction pipelines.'",
+    "notes": "Founders Pulkit & Akshat Anand; HQ Baner, Pune",
+    "_source_csv": "company_data_2.csv"
+  },
+  "research_status": "not_started",
+  "research_summary": "",
+  "jd_full_text": "",
+  "resume_latex_path": "./resume.tex",
+  "resume_pdf_path": "./resume.pdf",
+  "tailoring_notes": "",
+  "contacts": [
+    {
+      "contact_name": "",
+      "contact_role": "",
+      "tier": "",
+      "to": "",
+      "cc": [],
+      "linkedin": "",
+      "research_hook": "",
+      "subject": "",
+      "content": "",
+      "date_sent": "",
+      "follow_up_1_subject": "",
+      "follow_up_1_content": "",
+      "follow_up_1_date": "",
+      "follow_up_2_subject": "",
+      "follow_up_2_content": "",
+      "follow_up_2_date": "",
+      "status": "queued",
+      "response_notes": ""
+    }
+  ]
+}

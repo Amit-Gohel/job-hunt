@@ -1,0 +1,50 @@
+{
+  "company_name": "CleverTap",
+  "slug": "clevertap",
+  "metadata": {
+    "location": "Bengaluru",
+    "role_title": "Senior Backend Engineer / Staff Engineer (Clever.AI)",
+    "salary_range_lpa": "25-38 LPA",
+    "funding_stage": "",
+    "recent_signal": "",
+    "match_reason": "Clever.AI + CleverAI Decisioning Engine + TesseractDB;  Gartner Magic Quadrant Leader 2026 for Personalization;  agentic AI/ML systems.",
+    "company_url": "https://clevertap.com",
+    "careers_page": "https://clevertap.com/careers/",
+    "linkedin_company_page": "https://www.linkedin.com/company/clevertap",
+    "contact_page": "https://clevertap.com/contact-us/",
+    "job_url": "https://careers.kula.ai/clevertap",
+    "hiring_status": "actively hiring",
+    "priority_score": 82,
+    "cold_outreach_angle": "",
+    "notes": "HQ Mumbai but 88+ Bengaluru roles open on LinkedIn  — confirm Bengaluru location at apply.",
+    "_source_csv": "company_data_1.csv"
+  },
+  "research_status": "not_started",
+  "research_summary": "",
+  "jd_full_text": "",
+  "resume_latex_path": "./resume.tex",
+  "resume_pdf_path": "./resume.pdf",
+  "tailoring_notes": "",
+  "contacts": [
+    {
+      "contact_name": "",
+      "contact_role": "",
+      "tier": "",
+      "to": "",
+      "cc": [],
+      "linkedin": "",
+      "research_hook": "",
+      "subject": "",
+      "content": "",
+      "date_sent": "",
+      "follow_up_1_subject": "",
+      "follow_up_1_content": "",
+      "follow_up_1_date": "",
+      "follow_up_2_subject": "",
+      "follow_up_2_content": "",
+      "follow_up_2_date": "",
+      "status": "queued",
+      "response_notes": ""
+    }
+  ]
+}

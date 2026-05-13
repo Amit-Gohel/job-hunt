@@ -1,0 +1,50 @@
+{
+  "company_name": "Acko",
+  "slug": "acko",
+  "metadata": {
+    "location": "Bengaluru",
+    "role_title": "ML Engineer / AI Engineer",
+    "salary_range_lpa": "20-30 LPA",
+    "funding_stage": "",
+    "recent_signal": "",
+    "match_reason": "Digital-first insurance with active ML/AI roles (claims fraud, doc verification, image-based assessments); insurance claim OCR overlaps with gov-doc OCR.",
+    "company_url": "https://www.acko.com",
+    "careers_page": "https://www.acko.com/careers/jobs/",
+    "linkedin_company_page": "https://in.linkedin.com/company/ackoinsurance",
+    "contact_page": "https://www.acko.com/contact-us/",
+    "job_url": "https://www.instahyre.com/job-220942-ml-engineer-at-acko-bangalore/",
+    "hiring_status": "actively hiring",
+    "priority_score": 80,
+    "cold_outreach_angle": "",
+    "notes": "3-7 yr ML Engineer JD on Instahyre.",
+    "_source_csv": "company_data_1.csv"
+  },
+  "research_status": "not_started",
+  "research_summary": "",
+  "jd_full_text": "",
+  "resume_latex_path": "./resume.tex",
+  "resume_pdf_path": "./resume.pdf",
+  "tailoring_notes": "",
+  "contacts": [
+    {
+      "contact_name": "",
+      "contact_role": "",
+      "tier": "",
+      "to": "",
+      "cc": [],
+      "linkedin": "",
+      "research_hook": "",
+      "subject": "",
+      "content": "",
+      "date_sent": "",
+      "follow_up_1_subject": "",
+      "follow_up_1_content": "",
+      "follow_up_1_date": "",
+      "follow_up_2_subject": "",
+      "follow_up_2_content": "",
+      "follow_up_2_date": "",
+      "status": "queued",
+      "response_notes": ""
+    }
+  ]
+}

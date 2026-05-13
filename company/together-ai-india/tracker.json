@@ -1,0 +1,50 @@
+{
+  "company_name": "Together AI (India)",
+  "slug": "together-ai-india",
+  "metadata": {
+    "location": "Bengaluru",
+    "role_title": "Customer Support Engineer GPU Cluster / Solutions Architect",
+    "salary_range_lpa": "20-40",
+    "funding_stage": "Series B ($300M+; Salesforce Ventures + Coatue + NVIDIA)",
+    "recent_signal": "Bengaluru role on Levels.fyi ~1 month ago; Forbes AI 50 (2 yrs); 60K+ developers on Together API",
+    "match_reason": "Open-source AI inference cloud + vector + RAG infra; Qwen/Llama serving",
+    "company_url": "https://www.together.ai/",
+    "careers_page": "https://www.together.ai/careers",
+    "linkedin_company_page": "https://www.linkedin.com/company/togethercomputer",
+    "contact_page": "https://www.together.ai/contact",
+    "job_url": "https://job-boards.greenhouse.io/togetherai",
+    "hiring_status": "likely hiring",
+    "priority_score": 72,
+    "cold_outreach_angle": "'Highlight running Qwen + Llama in production via Together API style — your stack is a clear talking point.'",
+    "notes": "India presence small; emphasize willingness to help build Bengaluru team",
+    "_source_csv": "company_data_2.csv"
+  },
+  "research_status": "not_started",
+  "research_summary": "",
+  "jd_full_text": "",
+  "resume_latex_path": "./resume.tex",
+  "resume_pdf_path": "./resume.pdf",
+  "tailoring_notes": "",
+  "contacts": [
+    {
+      "contact_name": "",
+      "contact_role": "",
+      "tier": "",
+      "to": "",
+      "cc": [],
+      "linkedin": "",
+      "research_hook": "",
+      "subject": "",
+      "content": "",
+      "date_sent": "",
+      "follow_up_1_subject": "",
+      "follow_up_1_content": "",
+      "follow_up_1_date": "",
+      "follow_up_2_subject": "",
+      "follow_up_2_content": "",
+      "follow_up_2_date": "",
+      "status": "queued",
+      "response_notes": ""
+    }
+  ]
+}

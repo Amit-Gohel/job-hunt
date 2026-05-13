@@ -1,0 +1,50 @@
+{
+  "company_name": "Hasura (PromptQL)",
+  "slug": "hasura-promptql",
+  "metadata": {
+    "location": "Bengaluru",
+    "role_title": "Software Engineer - PromptQL AI",
+    "salary_range_lpa": "28-40 LPA",
+    "funding_stage": "",
+    "recent_signal": "",
+    "match_reason": "PromptQL is Hasura's flagship enterprise GenAI/RAG platform on Hasura DDN; team hires across LLM agents, retrieval, runtime infra  — Amit's Milvus/Qdrant/RAG/Python is exact match.",
+    "company_url": "https://hasura.io",
+    "careers_page": "https://hasura.io/careers/",
+    "linkedin_company_page": "https://www.linkedin.com/company/hasura",
+    "contact_page": "https://hasura.io/contact-us",
+    "job_url": "https://hasura.freshteam.com/jobs",
+    "hiring_status": "actively hiring",
+    "priority_score": 97,
+    "cold_outreach_angle": "",
+    "notes": "PromptQL is Hasura's strategic 2025-26 bet. Bengaluru + SF.  Watch Freshteam closely for mid-level backfills.",
+    "_source_csv": "company_data_1.csv"
+  },
+  "research_status": "not_started",
+  "research_summary": "",
+  "jd_full_text": "",
+  "resume_latex_path": "./resume.tex",
+  "resume_pdf_path": "./resume.pdf",
+  "tailoring_notes": "",
+  "contacts": [
+    {
+      "contact_name": "",
+      "contact_role": "",
+      "tier": "",
+      "to": "",
+      "cc": [],
+      "linkedin": "",
+      "research_hook": "",
+      "subject": "",
+      "content": "",
+      "date_sent": "",
+      "follow_up_1_subject": "",
+      "follow_up_1_content": "",
+      "follow_up_1_date": "",
+      "follow_up_2_subject": "",
+      "follow_up_2_content": "",
+      "follow_up_2_date": "",
+      "status": "queued",
+      "response_notes": ""
+    }
+  ]
+}

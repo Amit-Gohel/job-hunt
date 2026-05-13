@@ -1,0 +1,50 @@
+{
+  "company_name": "CodeAnt AI",
+  "slug": "codeant-ai",
+  "metadata": {
+    "location": "Bengaluru (JP Nagar)",
+    "role_title": "Senior SWE / ML Engineer (Code Review Agents)",
+    "salary_range_lpa": "25-45",
+    "funding_stage": "Seed ($2.51M; YC W24, Uncorrelated, VitalStage)",
+    "recent_signal": "Customers Commvault, Akasa Air, Kore AI, Sanas; launched AI Pentesting + Developer 360 2025-26; uncovered CVE-2026-29000",
+    "match_reason": "Agentic code-security: LLM + static analysis hybrid; Python/AST/AI agents — benefits from multi-model orchestration",
+    "company_url": "https://www.codeant.ai/",
+    "careers_page": "https://www.codeant.ai/career",
+    "linkedin_company_page": "https://in.linkedin.com/company/codeantai",
+    "contact_page": "https://www.codeant.ai/contact",
+    "job_url": "https://www.ycombinator.com/companies/codeant-ai/jobs",
+    "hiring_status": "actively hiring",
+    "priority_score": 85,
+    "cold_outreach_angle": "'Agentic code-security = orchestrating LLM calls under reliability constraints. I've done that with multi-model routing at 50K+ q/mo. Happy to share my eval framework.'",
+    "notes": "Founders Amartya Jha (ex-Zeta, ex-ShareChat), Chinmay Bharti (IIT Bombay,  ex-Zevi); 25-person team",
+    "_source_csv": "company_data_2.csv"
+  },
+  "research_status": "not_started",
+  "research_summary": "",
+  "jd_full_text": "",
+  "resume_latex_path": "./resume.tex",
+  "resume_pdf_path": "./resume.pdf",
+  "tailoring_notes": "",
+  "contacts": [
+    {
+      "contact_name": "",
+      "contact_role": "",
+      "tier": "",
+      "to": "",
+      "cc": [],
+      "linkedin": "",
+      "research_hook": "",
+      "subject": "",
+      "content": "",
+      "date_sent": "",
+      "follow_up_1_subject": "",
+      "follow_up_1_content": "",
+      "follow_up_1_date": "",
+      "follow_up_2_subject": "",
+      "follow_up_2_content": "",
+      "follow_up_2_date": "",
+      "status": "queued",
+      "response_notes": ""
+    }
+  ]
+}

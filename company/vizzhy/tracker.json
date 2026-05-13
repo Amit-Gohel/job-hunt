@@ -1,0 +1,50 @@
+{
+  "company_name": "Vizzhy",
+  "slug": "vizzhy",
+  "metadata": {
+    "location": "Bengaluru (HQ Texas, India eng in Bengaluru)",
+    "role_title": "ML / NLP Research Engineer (healthcare LLM)",
+    "salary_range_lpa": "18-40",
+    "funding_stage": "Self-funded / Strategic (₹100Cr+ committed; UPitt + UIUC partnerships)",
+    "recent_signal": "GAINMED platform launched May 2025 with UPitt; imported NVIDIA DGX H100 + 256 GPUs; 40 data scientists in Bengaluru",
+    "match_reason": "Multi-omics healthcare LLM lab — multimodal (text/image/audio/video); Indic coverage with IIT-B",
+    "company_url": "https://www.vizzhy.com/",
+    "careers_page": "https://www.vizzhy.com/",
+    "linkedin_company_page": "https://www.linkedin.com/company/vizzhy",
+    "contact_page": "https://www.vizzhy.com/",
+    "job_url": "https://www.vizzhy.com/careers",
+    "hiring_status": "outreach target",
+    "priority_score": 72,
+    "cold_outreach_angle": "'A multi-modal healthcare LLM with Indic-language coverage is the multi-model + LLM-eval challenge I've productionised at 95% MRR / 50K q/mo.'",
+    "notes": "Founder Dr Vishnu Vardhan Pogunulu (MIT MS + MBA); 40+ data scientists Bengaluru",
+    "_source_csv": "company_data_2.csv"
+  },
+  "research_status": "not_started",
+  "research_summary": "",
+  "jd_full_text": "",
+  "resume_latex_path": "./resume.tex",
+  "resume_pdf_path": "./resume.pdf",
+  "tailoring_notes": "",
+  "contacts": [
+    {
+      "contact_name": "",
+      "contact_role": "",
+      "tier": "",
+      "to": "",
+      "cc": [],
+      "linkedin": "",
+      "research_hook": "",
+      "subject": "",
+      "content": "",
+      "date_sent": "",
+      "follow_up_1_subject": "",
+      "follow_up_1_content": "",
+      "follow_up_1_date": "",
+      "follow_up_2_subject": "",
+      "follow_up_2_content": "",
+      "follow_up_2_date": "",
+      "status": "queued",
+      "response_notes": ""
+    }
+  ]
+}

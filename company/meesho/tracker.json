@@ -1,0 +1,50 @@
+{
+  "company_name": "Meesho",
+  "slug": "meesho",
+  "metadata": {
+    "location": "Bengaluru",
+    "role_title": "Data Scientist II / III, ML Engineer",
+    "salary_range_lpa": "20-34 LPA",
+    "funding_stage": "",
+    "recent_signal": "",
+    "match_reason": "Chief Data Scientist Debdoot Mukherjee (ex-ShareChat) leads Bharat-scale AI;  GenAI catalog automation widely covered; ML for fraud, pricing, vernacular content.",
+    "company_url": "https://www.meesho.com",
+    "careers_page": "https://www.meesho.io/jobs",
+    "linkedin_company_page": "https://www.linkedin.com/company/meesho",
+    "contact_page": "https://www.meesho.io/contact",
+    "job_url": "https://www.meesho.io/jobs/data-scientist-iii?id=489fe662-5d28-4305-953e-91ee21e8538c",
+    "hiring_status": "actively hiring",
+    "priority_score": 91,
+    "cold_outreach_angle": "",
+    "notes": "Strong tech blog (meesho.io/tech); Bharat-focused vernacular AI angle. Python/SQL/Spark.",
+    "_source_csv": "company_data_1.csv"
+  },
+  "research_status": "not_started",
+  "research_summary": "",
+  "jd_full_text": "",
+  "resume_latex_path": "./resume.tex",
+  "resume_pdf_path": "./resume.pdf",
+  "tailoring_notes": "",
+  "contacts": [
+    {
+      "contact_name": "",
+      "contact_role": "",
+      "tier": "",
+      "to": "",
+      "cc": [],
+      "linkedin": "",
+      "research_hook": "",
+      "subject": "",
+      "content": "",
+      "date_sent": "",
+      "follow_up_1_subject": "",
+      "follow_up_1_content": "",
+      "follow_up_1_date": "",
+      "follow_up_2_subject": "",
+      "follow_up_2_content": "",
+      "follow_up_2_date": "",
+      "status": "queued",
+      "response_notes": ""
+    }
+  ]
+}

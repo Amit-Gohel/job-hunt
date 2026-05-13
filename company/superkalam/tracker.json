@@ -1,0 +1,50 @@
+{
+  "company_name": "SuperKalam",
+  "slug": "superkalam",
+  "metadata": {
+    "location": "Bengaluru",
+    "role_title": "AI Backend Engineer (RAG, Vector DB)",
+    "salary_range_lpa": "20-34",
+    "funding_stage": "Seed (YC W23; Google for Startups)",
+    "recent_signal": "D30 retention 'amongst highest in India'; 4.7+ on app stores;  founders publicly building 'new category' AI learning",
+    "match_reason": "Job spec verbatim: LLMs, RAG, vector DBs, Python/Node  — exact Amit stack",
+    "company_url": "https://www.superkalam.com/",
+    "careers_page": "https://www.ycombinator.com/companies/superkalam/jobs",
+    "linkedin_company_page": "https://in.linkedin.com/company/superkalam",
+    "contact_page": "https://www.superkalam.com/",
+    "job_url": "https://www.ycombinator.com/companies/superkalam/jobs/DKwCjWa-ai-ml-research-internship",
+    "hiring_status": "actively hiring",
+    "priority_score": 88,
+    "cold_outreach_angle": "'Shipped RAG at 95% MRR / 50K+ q/mo with Milvus + multi-model routing — your AI-mentor at 12K UPSC students/mo is exactly the latency/retrieval challenge I want to own.'",
+    "notes": "Founders Aseem Gupta  (ex-Razorpay), Vimal Singh Rathore (ex-Unacademy); uses Claude Code, Cursor, custom agents",
+    "_source_csv": "company_data_2.csv"
+  },
+  "research_status": "not_started",
+  "research_summary": "",
+  "jd_full_text": "",
+  "resume_latex_path": "./resume.tex",
+  "resume_pdf_path": "./resume.pdf",
+  "tailoring_notes": "",
+  "contacts": [
+    {
+      "contact_name": "",
+      "contact_role": "",
+      "tier": "",
+      "to": "",
+      "cc": [],
+      "linkedin": "",
+      "research_hook": "",
+      "subject": "",
+      "content": "",
+      "date_sent": "",
+      "follow_up_1_subject": "",
+      "follow_up_1_content": "",
+      "follow_up_1_date": "",
+      "follow_up_2_subject": "",
+      "follow_up_2_content": "",
+      "follow_up_2_date": "",
+      "status": "queued",
+      "response_notes": ""
+    }
+  ]
+}

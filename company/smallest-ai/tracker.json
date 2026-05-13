@@ -1,0 +1,50 @@
+{
+  "company_name": "Smallest.ai",
+  "slug": "smallest-ai",
+  "metadata": {
+    "location": "Bengaluru",
+    "role_title": "AI Engineer - Voice / Backend (1-4 yrs)",
+    "salary_range_lpa": "22-42 LPA",
+    "funding_stage": "",
+    "recent_signal": "",
+    "match_reason": "Oversubscribed $8M seed Oct 2025 (Sierra Ventures, 3one4, Better Capital);  proprietary Lightning V2 TTS in 16+ Indian languages  + Sapien sales-agent.",
+    "company_url": "https://smallest.ai",
+    "careers_page": "https://smallest.ai/careers",
+    "linkedin_company_page": "https://www.linkedin.com/company/smallest-ai",
+    "contact_page": "https://smallest.ai/contact",
+    "job_url": "https://www.linkedin.com/company/smallest-ai/jobs",
+    "hiring_status": "actively hiring",
+    "priority_score": 85,
+    "cold_outreach_angle": "",
+    "notes": "Founders ex-Bosch.  AWS GenAI Accelerator 2025. Voice agents + Python backend core stack.",
+    "_source_csv": "company_data_1.csv"
+  },
+  "research_status": "not_started",
+  "research_summary": "",
+  "jd_full_text": "",
+  "resume_latex_path": "./resume.tex",
+  "resume_pdf_path": "./resume.pdf",
+  "tailoring_notes": "",
+  "contacts": [
+    {
+      "contact_name": "",
+      "contact_role": "",
+      "tier": "",
+      "to": "",
+      "cc": [],
+      "linkedin": "",
+      "research_hook": "",
+      "subject": "",
+      "content": "",
+      "date_sent": "",
+      "follow_up_1_subject": "",
+      "follow_up_1_content": "",
+      "follow_up_1_date": "",
+      "follow_up_2_subject": "",
+      "follow_up_2_content": "",
+      "follow_up_2_date": "",
+      "status": "queued",
+      "response_notes": ""
+    }
+  ]
+}

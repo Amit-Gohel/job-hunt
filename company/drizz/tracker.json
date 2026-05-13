@@ -1,0 +1,50 @@
+{
+  "company_name": "Drizz",
+  "slug": "drizz",
+  "metadata": {
+    "location": "Bengaluru (HSR Layout)",
+    "role_title": "ML/AI Engineer (Vision AI, multimodal)",
+    "salary_range_lpa": "20-35",
+    "funding_stage": "Seed ($2.7M Jul 2025, Stellaris + Shastra)",
+    "recent_signal": "Emerged from stealth Jul 2025 with $2.7M; serves global unicorns; 97% test accuracy",
+    "match_reason": "Multimodal Vision AI agent that 'interprets UI visually' = multimodal orchestration; self-healing test automation  = LLM eval",
+    "company_url": "https://www.drizz.dev/",
+    "careers_page": "https://www.drizz.dev/newsroom",
+    "linkedin_company_page": "https://www.linkedin.com/company/drizz-dev",
+    "contact_page": "Founders via LinkedIn",
+    "job_url": "https://www.linkedin.com/company/drizz-dev",
+    "hiring_status": "actively hiring",
+    "priority_score": 88,
+    "cold_outreach_angle": "'Stealth exit Jul 2025 + multimodal Vision AI agent = same multimodal orchestration pattern I use. Asad (ex-Coinbase PM) and Yash (ex-Amazon) will value my production 50K q/mo metric.'",
+    "notes": "Founders Asad Abrar, Partha Mohanty, Yash Varyani; tiny team ~15-25",
+    "_source_csv": "company_data_2.csv"
+  },
+  "research_status": "not_started",
+  "research_summary": "",
+  "jd_full_text": "",
+  "resume_latex_path": "./resume.tex",
+  "resume_pdf_path": "./resume.pdf",
+  "tailoring_notes": "",
+  "contacts": [
+    {
+      "contact_name": "",
+      "contact_role": "",
+      "tier": "",
+      "to": "",
+      "cc": [],
+      "linkedin": "",
+      "research_hook": "",
+      "subject": "",
+      "content": "",
+      "date_sent": "",
+      "follow_up_1_subject": "",
+      "follow_up_1_content": "",
+      "follow_up_1_date": "",
+      "follow_up_2_subject": "",
+      "follow_up_2_content": "",
+      "follow_up_2_date": "",
+      "status": "queued",
+      "response_notes": ""
+    }
+  ]
+}

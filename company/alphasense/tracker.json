@@ -1,0 +1,50 @@
+{
+  "company_name": "AlphaSense",
+  "slug": "alphasense",
+  "metadata": {
+    "location": "Bengaluru",
+    "role_title": "AI Research Engineer II / Senior Software Engineer (AI Applications)",
+    "salary_range_lpa": "22-40 LPA",
+    "funding_stage": "",
+    "recent_signal": "",
+    "match_reason": "NLP/RAG/Generative AI search platform (post-Tegus); JD lists FastAPI, LangChain, Docker, K8s, Python, HuggingFace;  AI Research Engineer role in Bengaluru is direct match.",
+    "company_url": "https://www.alpha-sense.com",
+    "careers_page": "https://www.alpha-sense.com/careers/india/",
+    "linkedin_company_page": "https://www.linkedin.com/company/alphasense",
+    "contact_page": "https://www.alpha-sense.com/contact/",
+    "job_url": "https://boards.greenhouse.io/alphasense/jobs/7177064002",
+    "hiring_status": "actively hiring",
+    "priority_score": 90,
+    "cold_outreach_angle": "",
+    "notes": "Product company premium pay band; multiple Bengaluru, Pune, Delhi AI roles.",
+    "_source_csv": "company_data_1.csv"
+  },
+  "research_status": "not_started",
+  "research_summary": "",
+  "jd_full_text": "",
+  "resume_latex_path": "./resume.tex",
+  "resume_pdf_path": "./resume.pdf",
+  "tailoring_notes": "",
+  "contacts": [
+    {
+      "contact_name": "",
+      "contact_role": "",
+      "tier": "",
+      "to": "",
+      "cc": [],
+      "linkedin": "",
+      "research_hook": "",
+      "subject": "",
+      "content": "",
+      "date_sent": "",
+      "follow_up_1_subject": "",
+      "follow_up_1_content": "",
+      "follow_up_1_date": "",
+      "follow_up_2_subject": "",
+      "follow_up_2_content": "",
+      "follow_up_2_date": "",
+      "status": "queued",
+      "response_notes": ""
+    }
+  ]
+}

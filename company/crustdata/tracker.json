@@ -1,0 +1,50 @@
+{
+  "company_name": "Crustdata",
+  "slug": "crustdata",
+  "metadata": {
+    "location": "Bengaluru",
+    "role_title": "Backend / Full-Stack Engineer (Data + AI Agents)",
+    "salary_range_lpa": "20-40",
+    "funding_stage": "Seed ($6M; YC + GC + SV Angel + A.Capital, 2025)",
+    "recent_signal": "Hosted ContextCon Apr 2025 — first YC India hackathon; 200+ AI-native products use their data incl. YC, MNTN, Agent.ai",
+    "match_reason": "Real-time B2B + web-search API for AI agents = retrieval optimization + entity-linking = Amit's RAG domain",
+    "company_url": "https://crustdata.com/",
+    "careers_page": "https://www.workatastartup.com/companies/30076",
+    "linkedin_company_page": "https://www.linkedin.com/company/crustdata",
+    "contact_page": "https://crustdata.com/",
+    "job_url": "https://www.ycombinator.com/companies/crustdata/jobs",
+    "hiring_status": "actively hiring",
+    "priority_score": 78,
+    "cold_outreach_angle": "'You're building a structured-retrieval engine for agents — exactly the retrieval-optimization problem I solved getting to 95% MRR. Let's discuss your Web Search API indexing.'",
+    "notes": "Co-founders Abhilash Chowdhary  (Bengaluru), Manmohit Grewal, Chris Pisarski; 10+ open roles",
+    "_source_csv": "company_data_2.csv"
+  },
+  "research_status": "not_started",
+  "research_summary": "",
+  "jd_full_text": "",
+  "resume_latex_path": "./resume.tex",
+  "resume_pdf_path": "./resume.pdf",
+  "tailoring_notes": "",
+  "contacts": [
+    {
+      "contact_name": "",
+      "contact_role": "",
+      "tier": "",
+      "to": "",
+      "cc": [],
+      "linkedin": "",
+      "research_hook": "",
+      "subject": "",
+      "content": "",
+      "date_sent": "",
+      "follow_up_1_subject": "",
+      "follow_up_1_content": "",
+      "follow_up_1_date": "",
+      "follow_up_2_subject": "",
+      "follow_up_2_content": "",
+      "follow_up_2_date": "",
+      "status": "queued",
+      "response_notes": ""
+    }
+  ]
+}

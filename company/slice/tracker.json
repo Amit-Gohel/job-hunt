@@ -1,0 +1,50 @@
+{
+  "company_name": "Slice",
+  "slug": "slice",
+  "metadata": {
+    "location": "Bengaluru",
+    "role_title": "ML Infrastructure / ML Engineer",
+    "salary_range_lpa": "22-30 LPA",
+    "funding_stage": "",
+    "recent_signal": "",
+    "match_reason": "Small-finance bank building AI-first banking stack;  ML infra, LLM/SLM deployment, doc-OCR for KYC and risk.",
+    "company_url": "https://www.slice.bank.in",
+    "careers_page": "https://slice.bank.in/careers/",
+    "linkedin_company_page": "https://in.linkedin.com/company/sliceit",
+    "contact_page": "https://slice.bank.in/help",
+    "job_url": "https://in.talent.com/view?id=ce528b0da726",
+    "hiring_status": "actively hiring",
+    "priority_score": 75,
+    "cold_outreach_angle": "",
+    "notes": "ML Infra role is sr-level; for 2+ yrs target ML Engineer I/II.",
+    "_source_csv": "company_data_1.csv"
+  },
+  "research_status": "not_started",
+  "research_summary": "",
+  "jd_full_text": "",
+  "resume_latex_path": "./resume.tex",
+  "resume_pdf_path": "./resume.pdf",
+  "tailoring_notes": "",
+  "contacts": [
+    {
+      "contact_name": "",
+      "contact_role": "",
+      "tier": "",
+      "to": "",
+      "cc": [],
+      "linkedin": "",
+      "research_hook": "",
+      "subject": "",
+      "content": "",
+      "date_sent": "",
+      "follow_up_1_subject": "",
+      "follow_up_1_content": "",
+      "follow_up_1_date": "",
+      "follow_up_2_subject": "",
+      "follow_up_2_content": "",
+      "follow_up_2_date": "",
+      "status": "queued",
+      "response_notes": ""
+    }
+  ]
+}

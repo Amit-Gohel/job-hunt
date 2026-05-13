@@ -1,0 +1,50 @@
+{
+  "company_name": "Protecto",
+  "slug": "protecto",
+  "metadata": {
+    "location": "Bengaluru (Whitefield) + San Jose",
+    "role_title": "ML / Backend Engineer (AI Security)",
+    "salary_range_lpa": "20-40",
+    "funding_stage": "Seed ($5M total; $4M Together Fund)",
+    "recent_signal": "Google for Startups AI First India 2025; Vault GA on Google Cloud Marketplace 2025; new Context-Based Access Control for agents",
+    "match_reason": "Privacy/RAG security layer: PII detection, RAG pipeline masking,  vector-DB-aware policy enforcement = Amit's RAG + vector + eval",
+    "company_url": "https://www.protecto.ai/",
+    "careers_page": "https://www.protecto.ai/careers/",
+    "linkedin_company_page": "https://www.linkedin.com/company/protectoai",
+    "contact_page": "https://www.protecto.ai/contact",
+    "job_url": "https://www.protecto.ai/careers/",
+    "hiring_status": "actively hiring",
+    "priority_score": 92,
+    "cold_outreach_angle": "'Your CBAC sits exactly where my Milvus/Qdrant + FastAPI RAG runs in prod — I've shipped PII-aware retrieval with multi-model routing at 50K q/mo & 95% MRR. Happy to dig into your context-security pipeline.'",
+    "notes": "Founder Amar Kanagaraj (ex-Microsoft Search/AI); Brigade IRV Whitefield;  ~50 ppl",
+    "_source_csv": "company_data_2.csv"
+  },
+  "research_status": "not_started",
+  "research_summary": "",
+  "jd_full_text": "",
+  "resume_latex_path": "./resume.tex",
+  "resume_pdf_path": "./resume.pdf",
+  "tailoring_notes": "",
+  "contacts": [
+    {
+      "contact_name": "",
+      "contact_role": "",
+      "tier": "",
+      "to": "",
+      "cc": [],
+      "linkedin": "",
+      "research_hook": "",
+      "subject": "",
+      "content": "",
+      "date_sent": "",
+      "follow_up_1_subject": "",
+      "follow_up_1_content": "",
+      "follow_up_1_date": "",
+      "follow_up_2_subject": "",
+      "follow_up_2_content": "",
+      "follow_up_2_date": "",
+      "status": "queued",
+      "response_notes": ""
+    }
+  ]
+}

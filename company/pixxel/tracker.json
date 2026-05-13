@@ -1,0 +1,50 @@
+{
+  "company_name": "Pixxel",
+  "slug": "pixxel",
+  "metadata": {
+    "location": "Bengaluru",
+    "role_title": "ML / Geospatial Engineer (1-4 yrs)",
+    "salary_range_lpa": "22-38 LPA",
+    "funding_stage": "",
+    "recent_signal": "",
+    "match_reason": "Series B ($36M, Google+Radical+Lightspeed); hyperspectral satellite constellation; partnering with Sarvam for orbital data-centre satellite; Python/ML for geospatial + foundation models.",
+    "company_url": "https://www.pixxel.space",
+    "careers_page": "https://www.pixxel.space/careers",
+    "linkedin_company_page": "https://in.linkedin.com/company/pixxelspace",
+    "contact_page": "https://www.pixxel.space/contact",
+    "job_url": "https://in.linkedin.com/jobs/pixxel-jobs",
+    "hiring_status": "actively hiring",
+    "priority_score": 83,
+    "cold_outreach_angle": "",
+    "notes": "Geospatial/satellite ML differs from RAG/LLM; suits if Amit has CV/remote-sensing curiosity.",
+    "_source_csv": "company_data_1.csv"
+  },
+  "research_status": "not_started",
+  "research_summary": "",
+  "jd_full_text": "",
+  "resume_latex_path": "./resume.tex",
+  "resume_pdf_path": "./resume.pdf",
+  "tailoring_notes": "",
+  "contacts": [
+    {
+      "contact_name": "",
+      "contact_role": "",
+      "tier": "",
+      "to": "",
+      "cc": [],
+      "linkedin": "",
+      "research_hook": "",
+      "subject": "",
+      "content": "",
+      "date_sent": "",
+      "follow_up_1_subject": "",
+      "follow_up_1_content": "",
+      "follow_up_1_date": "",
+      "follow_up_2_subject": "",
+      "follow_up_2_content": "",
+      "follow_up_2_date": "",
+      "status": "queued",
+      "response_notes": ""
+    }
+  ]
+}

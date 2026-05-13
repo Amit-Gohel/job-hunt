@@ -1,0 +1,50 @@
+{
+  "company_name": "CARPL.ai",
+  "slug": "carpl-ai",
+  "metadata": {
+    "location": "New Delhi (Hauz Khas)",
+    "role_title": "Backend/ML Engineer (RAG, document AI)",
+    "salary_range_lpa": "18-32",
+    "funding_stage": "Seed ($6M Feb 2024, Stellaris)",
+    "recent_signal": "2025  partnerships with DeepHealth (NASDAQ:RDNT), Intelerad, NTT DATA + Royal Marsden NHS;  250+ AI apps from 95+ vendors",
+    "match_reason": "Vendor-neutral  radiology AI marketplace  = orchestration of 250+ models across modalities; PACS/RIS integration = OCR + doc AI on radiology reports",
+    "company_url": "https://carpl.ai/",
+    "careers_page": "https://carpl.ai/about-us",
+    "linkedin_company_page": "https://www.linkedin.com/company/carpl-ai",
+    "contact_page": "Vidur Mahajan via LinkedIn",
+    "job_url": "https://www.linkedin.com/company/carpl-ai",
+    "hiring_status": "likely hiring",
+    "priority_score": 83,
+    "cold_outreach_angle": "'Your multi-model orchestration (250+ radiology models) maps 1:1 to my GPT-4o/Gemini/Qwen/Llama stack — pitch myself as the orchestration engineer for your next-gen AI control system with DeepHealth.'",
+    "notes": "Founder Vidur Mahajan MD MBA;  K-18 Hauz Khas Enclave;  FY24 rev ₹10.9Cr; 64 employees Apr 2025",
+    "_source_csv": "company_data_2.csv"
+  },
+  "research_status": "not_started",
+  "research_summary": "",
+  "jd_full_text": "",
+  "resume_latex_path": "./resume.tex",
+  "resume_pdf_path": "./resume.pdf",
+  "tailoring_notes": "",
+  "contacts": [
+    {
+      "contact_name": "",
+      "contact_role": "",
+      "tier": "",
+      "to": "",
+      "cc": [],
+      "linkedin": "",
+      "research_hook": "",
+      "subject": "",
+      "content": "",
+      "date_sent": "",
+      "follow_up_1_subject": "",
+      "follow_up_1_content": "",
+      "follow_up_1_date": "",
+      "follow_up_2_subject": "",
+      "follow_up_2_content": "",
+      "follow_up_2_date": "",
+      "status": "queued",
+      "response_notes": ""
+    }
+  ]
+}

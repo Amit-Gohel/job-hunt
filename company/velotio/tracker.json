@@ -1,0 +1,50 @@
+{
+  "company_name": "Velotio",
+  "slug": "velotio",
+  "metadata": {
+    "location": "Pune",
+    "role_title": "GenAI Engineer / Senior Engineer (Python + LangGraph)",
+    "salary_range_lpa": "20-32 LPA",
+    "funding_stage": "",
+    "recent_signal": "",
+    "match_reason": "Multiple active GenAI engineer roles in Pune; LangChain/LangGraph/Pinecone/Chroma/OpenAI/Claude work  for enterprise customers; strong Python backend focus.",
+    "company_url": "https://www.velotio.com",
+    "careers_page": "https://www.velotio.com/careers",
+    "linkedin_company_page": "https://www.linkedin.com/company/velotio-technologies",
+    "contact_page": "https://www.velotio.com/contact-us",
+    "job_url": "https://www.instahyre.com/jobs-at-velotio-technologies/",
+    "hiring_status": "actively hiring",
+    "priority_score": 90,
+    "cold_outreach_angle": "",
+    "notes": "Pune-based; services firm but real GenAI work. Great Place to Work certified.",
+    "_source_csv": "company_data_1.csv"
+  },
+  "research_status": "not_started",
+  "research_summary": "",
+  "jd_full_text": "",
+  "resume_latex_path": "./resume.tex",
+  "resume_pdf_path": "./resume.pdf",
+  "tailoring_notes": "",
+  "contacts": [
+    {
+      "contact_name": "",
+      "contact_role": "",
+      "tier": "",
+      "to": "",
+      "cc": [],
+      "linkedin": "",
+      "research_hook": "",
+      "subject": "",
+      "content": "",
+      "date_sent": "",
+      "follow_up_1_subject": "",
+      "follow_up_1_content": "",
+      "follow_up_1_date": "",
+      "follow_up_2_subject": "",
+      "follow_up_2_content": "",
+      "follow_up_2_date": "",
+      "status": "queued",
+      "response_notes": ""
+    }
+  ]
+}

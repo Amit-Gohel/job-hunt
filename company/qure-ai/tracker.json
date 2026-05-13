@@ -1,0 +1,50 @@
+{
+  "company_name": "Qure.ai",
+  "slug": "qure-ai",
+  "metadata": {
+    "location": "Bengaluru",
+    "role_title": "LLM Engineer / AI Engineer",
+    "salary_range_lpa": "25-40 LPA",
+    "funding_stage": "",
+    "recent_signal": "",
+    "match_reason": "Posted LLM Engineer role in Bengaluru explicitly building GenAI on AWS/GCP;  medical imaging + LLM document understanding aligns with Amit's vision/OCR/RAG profile.",
+    "company_url": "https://www.qure.ai",
+    "careers_page": "https://career.qure.ai/jobs/Careers",
+    "linkedin_company_page": "https://www.linkedin.com/company/qure-ai",
+    "contact_page": "https://www.qure.ai/contact",
+    "job_url": "https://jobs.weekday.works/qure.ai-artificial-intelligence-engineer",
+    "hiring_status": "actively hiring",
+    "priority_score": 92,
+    "cold_outreach_angle": "",
+    "notes": "Mumbai HQ but Bengaluru office confirmed (LLM Engineer + Sr AI Eng Fullstack both Bengaluru);  JD asks 3+ yrs.",
+    "_source_csv": "company_data_1.csv"
+  },
+  "research_status": "not_started",
+  "research_summary": "",
+  "jd_full_text": "",
+  "resume_latex_path": "./resume.tex",
+  "resume_pdf_path": "./resume.pdf",
+  "tailoring_notes": "",
+  "contacts": [
+    {
+      "contact_name": "",
+      "contact_role": "",
+      "tier": "",
+      "to": "",
+      "cc": [],
+      "linkedin": "",
+      "research_hook": "",
+      "subject": "",
+      "content": "",
+      "date_sent": "",
+      "follow_up_1_subject": "",
+      "follow_up_1_content": "",
+      "follow_up_1_date": "",
+      "follow_up_2_subject": "",
+      "follow_up_2_content": "",
+      "follow_up_2_date": "",
+      "status": "queued",
+      "response_notes": ""
+    }
+  ]
+}

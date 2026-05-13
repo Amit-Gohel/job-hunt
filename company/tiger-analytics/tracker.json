@@ -1,0 +1,50 @@
+{
+  "company_name": "Tiger Analytics",
+  "slug": "tiger-analytics",
+  "metadata": {
+    "location": "Bengaluru",
+    "role_title": "AI/ML Engineer / Sr. AIML Engineer (GenAI/Vertex AI)",
+    "salary_range_lpa": "17-28 LPA",
+    "funding_stage": "",
+    "recent_signal": "",
+    "match_reason": "Open roles for AI/ML Engineer specializing in GenAI/NLP/Agentic AI with Vertex AI; 83+ open positions;  Python+LLM+production code stack matches.",
+    "company_url": "https://www.tigeranalytics.com",
+    "careers_page": "https://tiger-analytics.sensehq.com/careers",
+    "linkedin_company_page": "https://in.linkedin.com/company/tiger-analytics",
+    "contact_page": "https://www.tigeranalytics.com/contact-us/",
+    "job_url": "https://tiger-analytics.sensehq.com/careers/jobs/55448",
+    "hiring_status": "actively hiring",
+    "priority_score": 90,
+    "cold_outreach_angle": "",
+    "notes": "Sensehq careers filterable by Bengaluru; Architect/Sr. Architect GenAI roles too.",
+    "_source_csv": "company_data_1.csv"
+  },
+  "research_status": "not_started",
+  "research_summary": "",
+  "jd_full_text": "",
+  "resume_latex_path": "./resume.tex",
+  "resume_pdf_path": "./resume.pdf",
+  "tailoring_notes": "",
+  "contacts": [
+    {
+      "contact_name": "",
+      "contact_role": "",
+      "tier": "",
+      "to": "",
+      "cc": [],
+      "linkedin": "",
+      "research_hook": "",
+      "subject": "",
+      "content": "",
+      "date_sent": "",
+      "follow_up_1_subject": "",
+      "follow_up_1_content": "",
+      "follow_up_1_date": "",
+      "follow_up_2_subject": "",
+      "follow_up_2_content": "",
+      "follow_up_2_date": "",
+      "status": "queued",
+      "response_notes": ""
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "company_name": "5C Network",
+  "slug": "5c-network",
+  "metadata": {
+    "location": "Bengaluru",
+    "role_title": "Applied Scientist / ML Engineer - Computer Vision",
+    "salary_range_lpa": "20-40",
+    "funding_stage": "Growth (Tata, Capria, Celesta, Axilor)",
+    "recent_signal": "Feb 2026: 12 open roles incl. senior CV scientist for CT/MRI/X-ray; processes 10K+ scans/day",
+    "match_reason": "250+ CV models + 100+ clinical LLMs (Bionic AI); DICOM ingestion + structured report generation = multi-model orchestration + OCR",
+    "company_url": "https://www.5cnetwork.com/",
+    "careers_page": "https://www.5cnetwork.com/careers",
+    "linkedin_company_page": "https://in.linkedin.com/company/5c-network",
+    "contact_page": "https://www.5cnetwork.com/about",
+    "job_url": "https://www.5cnetwork.com/careers",
+    "hiring_status": "actively hiring",
+    "priority_score": 95,
+    "cold_outreach_angle": "'You ship daily into 1500+ hospitals — I run 95% MRR RAG with multi-model orchestration (GPT-4o/Gemini/Qwen/Llama); would love to plug into your Bionic Report eval/QC layer.'",
+    "notes": "Founders Kalyan Sivasailam, Syed Ahmed; HQ BTM Layout; PyTorch+DICOM+LLMs",
+    "_source_csv": "company_data_2.csv"
+  },
+  "research_status": "not_started",
+  "research_summary": "",
+  "jd_full_text": "",
+  "resume_latex_path": "./resume.tex",
+  "resume_pdf_path": "./resume.pdf",
+  "tailoring_notes": "",
+  "contacts": [
+    {
+      "contact_name": "",
+      "contact_role": "",
+      "tier": "",
+      "to": "",
+      "cc": [],
+      "linkedin": "",
+      "research_hook": "",
+      "subject": "",
+      "content": "",
+      "date_sent": "",
+      "follow_up_1_subject": "",
+      "follow_up_1_content": "",
+      "follow_up_1_date": "",
+      "follow_up_2_subject": "",
+      "follow_up_2_content": "",
+      "follow_up_2_date": "",
+      "status": "queued",
+      "response_notes": ""
+    }
+  ]
+}

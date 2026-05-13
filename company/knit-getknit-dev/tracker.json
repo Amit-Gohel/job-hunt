@@ -1,0 +1,50 @@
+{
+  "company_name": "Knit (getknit.dev)",
+  "slug": "knit-getknit-dev",
+  "metadata": {
+    "location": "Bengaluru (HQ DE)",
+    "role_title": "Backend / Integrations Engineer (AI agent tooling)",
+    "salary_range_lpa": "18-32",
+    "funding_stage": "Seed (~$2M; reported $16.1M Series A Aug 2025 — unverified)",
+    "recent_signal": "Google for Startups AI First India 2025; expanded MCP server catalog 2025",
+    "match_reason": "Integration layer for AI agents to connect MCPs/APIs/enterprise data  = RAG + AI workflows + FastAPI fit",
+    "company_url": "https://www.getknit.dev/",
+    "careers_page": "https://www.getknit.dev/about",
+    "linkedin_company_page": "https://www.linkedin.com/company/getknit/",
+    "contact_page": "https://www.getknit.dev/about",
+    "job_url": "https://www.linkedin.com/jobs/getknit",
+    "hiring_status": "actively hiring",
+    "priority_score": 91,
+    "cold_outreach_angle": "'I've shipped RAG with Milvus/Qdrant feeding multi-model agents at 50K+ q/mo — your unified MCP/API layer is exactly the integration plane I want at production scale.'",
+    "notes": "Founders Aneesh Dhawan + 3; ~49 employees; Endiya, Axilor;  Pavillion Church Street, Bengaluru",
+    "_source_csv": "company_data_2.csv"
+  },
+  "research_status": "not_started",
+  "research_summary": "",
+  "jd_full_text": "",
+  "resume_latex_path": "./resume.tex",
+  "resume_pdf_path": "./resume.pdf",
+  "tailoring_notes": "",
+  "contacts": [
+    {
+      "contact_name": "",
+      "contact_role": "",
+      "tier": "",
+      "to": "",
+      "cc": [],
+      "linkedin": "",
+      "research_hook": "",
+      "subject": "",
+      "content": "",
+      "date_sent": "",
+      "follow_up_1_subject": "",
+      "follow_up_1_content": "",
+      "follow_up_1_date": "",
+      "follow_up_2_subject": "",
+      "follow_up_2_content": "",
+      "follow_up_2_date": "",
+      "status": "queued",
+      "response_notes": ""
+    }
+  ]
+}

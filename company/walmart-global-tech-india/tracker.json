@@ -1,0 +1,50 @@
+{
+  "company_name": "Walmart Global Tech India",
+  "slug": "walmart-global-tech-india",
+  "metadata": {
+    "location": "Bengaluru",
+    "role_title": "Software Engineer III / ML Engineer (GenAI)",
+    "salary_range_lpa": "30-45 LPA",
+    "funding_stage": "",
+    "recent_signal": "",
+    "match_reason": "Internal teams use the exact stack: LangGraph, RAG, Milvus, FastAPI, Azure SQL for customer-support chatbot. Active SE III postings with GenAI/LLM/Agentic AI requirements.",
+    "company_url": "https://tech.walmart.com",
+    "careers_page": "https://careers.walmart.com/results?q=software%20engineer&page=1&sort=date&jobCity=Bengaluru&type=jobs",
+    "linkedin_company_page": "https://www.linkedin.com/company/walmartglobaltechindia",
+    "contact_page": "https://tech.walmart.com/content/walmart-global-tech/en_us/contact-us.html",
+    "job_url": "https://in.linkedin.com/company/walmartglobaltechindia/jobs",
+    "hiring_status": "actively hiring",
+    "priority_score": 96,
+    "cold_outreach_angle": "",
+    "notes": "Stack match is unusually exact (Milvus + FastAPI + RAG + LangGraph in production). Bengaluru-only role.",
+    "_source_csv": "company_data_1.csv"
+  },
+  "research_status": "not_started",
+  "research_summary": "",
+  "jd_full_text": "",
+  "resume_latex_path": "./resume.tex",
+  "resume_pdf_path": "./resume.pdf",
+  "tailoring_notes": "",
+  "contacts": [
+    {
+      "contact_name": "",
+      "contact_role": "",
+      "tier": "",
+      "to": "",
+      "cc": [],
+      "linkedin": "",
+      "research_hook": "",
+      "subject": "",
+      "content": "",
+      "date_sent": "",
+      "follow_up_1_subject": "",
+      "follow_up_1_content": "",
+      "follow_up_1_date": "",
+      "follow_up_2_subject": "",
+      "follow_up_2_content": "",
+      "follow_up_2_date": "",
+      "status": "queued",
+      "response_notes": ""
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "company_name": "Avataar.ai",
+  "slug": "avataar-ai",
+  "metadata": {
+    "location": "Bengaluru (Prestige Tech Park, ORR)",
+    "role_title": "AI / ML Engineer (Agentic Platform, SLMs)",
+    "salary_range_lpa": "25-50",
+    "funding_stage": "Series B ($55.5M; Peak XV + Tiger Global)",
+    "recent_signal": "Pivoted from 3D/AR to agentic enterprise AI with distilled SLMs",
+    "match_reason": "Agentic AI platform with multi-modal + distilled SLMs; enterprise workflow automation",
+    "company_url": "https://www.avataar.ai/",
+    "careers_page": "https://escapevelocity.avataar.ai/careers",
+    "linkedin_company_page": "https://in.linkedin.com/company/avataar-",
+    "contact_page": "https://www.avataar.ai/about",
+    "job_url": "https://escapevelocity.avataar.ai/careers",
+    "hiring_status": "likely hiring",
+    "priority_score": 65,
+    "cold_outreach_angle": "'I've productionized multi-model orchestration — help with your distilled SLM eval pipelines, especially hallucination-control in agentic workflows.'",
+    "notes": "Founders Sravanth Aluru, Gaurav Baid; well-funded; Glassdoor 3.5/5 — outreach target",
+    "_source_csv": "company_data_2.csv"
+  },
+  "research_status": "not_started",
+  "research_summary": "",
+  "jd_full_text": "",
+  "resume_latex_path": "./resume.tex",
+  "resume_pdf_path": "./resume.pdf",
+  "tailoring_notes": "",
+  "contacts": [
+    {
+      "contact_name": "",
+      "contact_role": "",
+      "tier": "",
+      "to": "",
+      "cc": [],
+      "linkedin": "",
+      "research_hook": "",
+      "subject": "",
+      "content": "",
+      "date_sent": "",
+      "follow_up_1_subject": "",
+      "follow_up_1_content": "",
+      "follow_up_1_date": "",
+      "follow_up_2_subject": "",
+      "follow_up_2_content": "",
+      "follow_up_2_date": "",
+      "status": "queued",
+      "response_notes": ""
+    }
+  ]
+}

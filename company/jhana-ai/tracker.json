@@ -1,0 +1,50 @@
+{
+  "company_name": "Jhana.ai",
+  "slug": "jhana-ai",
+  "metadata": {
+    "location": "Bengaluru",
+    "role_title": "Backend AI Engineer (RAG, Legal LLMs)",
+    "salary_range_lpa": "20-35",
+    "funding_stage": "Seed ($1.6M / ₹15Cr+)",
+    "recent_signal": "Jan 2026 CADRE ODR partnership (online arbitration); 10K+ users incl. 150+ judges; 16M+ document National Legal Archive",
+    "match_reason": "India's largest legal RAG over 16M+ judgments; explicit 'verifier + graph models for legal ontologies' = RAG with hallucination control",
+    "company_url": "https://jhana.ai/",
+    "careers_page": "https://jhana.ai/about/",
+    "linkedin_company_page": "https://www.linkedin.com/company/jhana-ai",
+    "contact_page": "Founders via LinkedIn",
+    "job_url": "https://www.linkedin.com/company/jhana-ai",
+    "hiring_status": "likely hiring",
+    "priority_score": 81,
+    "cold_outreach_angle": "'Your moat = RAG accuracy + citation verification on 16M legal docs. Lead with my 95% MRR + LLM eval frameworks — maps to your agents-always-cite product claim.'",
+    "notes": "Founders Hemanth Bharatha Chakravarthy, Em McGlone, Ben Hoffner-Brodsky;  Together Fund + Razorpay founders + Kunal Shah + Shyamal Anadkat (OpenAI)",
+    "_source_csv": "company_data_2.csv"
+  },
+  "research_status": "not_started",
+  "research_summary": "",
+  "jd_full_text": "",
+  "resume_latex_path": "./resume.tex",
+  "resume_pdf_path": "./resume.pdf",
+  "tailoring_notes": "",
+  "contacts": [
+    {
+      "contact_name": "",
+      "contact_role": "",
+      "tier": "",
+      "to": "",
+      "cc": [],
+      "linkedin": "",
+      "research_hook": "",
+      "subject": "",
+      "content": "",
+      "date_sent": "",
+      "follow_up_1_subject": "",
+      "follow_up_1_content": "",
+      "follow_up_1_date": "",
+      "follow_up_2_subject": "",
+      "follow_up_2_content": "",
+      "follow_up_2_date": "",
+      "status": "queued",
+      "response_notes": ""
+    }
+  ]
+}

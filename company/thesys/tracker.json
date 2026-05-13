@@ -1,0 +1,50 @@
+{
+  "company_name": "Thesys",
+  "slug": "thesys",
+  "metadata": {
+    "location": "Bengaluru",
+    "role_title": "ML/Backend Engineer (LLM, Generative UI)",
+    "salary_range_lpa": "22-38",
+    "funding_stage": "Seed ($4M)",
+    "recent_signal": "Launched C1 'Generative UI API' 2025; OpenAI-compatible endpoint wrapping multi-model orchestration",
+    "match_reason": "C1 API = OpenAI-compatible facade wrapping multi-model LLM calls — same pattern Amit's done",
+    "company_url": "https://www.thesys.dev/",
+    "careers_page": "https://www.thesys.dev/company",
+    "linkedin_company_page": "https://www.linkedin.com/company/thesysdev",
+    "contact_page": "Founders via LinkedIn",
+    "job_url": "https://www.linkedin.com/company/thesysdev",
+    "hiring_status": "actively hiring",
+    "priority_score": 84,
+    "cold_outreach_angle": "'Your C1 API is OpenAI-compatible wrapping multi-model LLM calls — you've done this exact pattern (GPT-4o + Gemini + Qwen + Llama).'",
+    "notes": "Founders Rabi Shanker Guha (ex-DevRev India Head of Eng, ex-Google),  Parikshit Deshmukh; Together Fund + 8VC;  <20 ppl",
+    "_source_csv": "company_data_2.csv"
+  },
+  "research_status": "not_started",
+  "research_summary": "",
+  "jd_full_text": "",
+  "resume_latex_path": "./resume.tex",
+  "resume_pdf_path": "./resume.pdf",
+  "tailoring_notes": "",
+  "contacts": [
+    {
+      "contact_name": "",
+      "contact_role": "",
+      "tier": "",
+      "to": "",
+      "cc": [],
+      "linkedin": "",
+      "research_hook": "",
+      "subject": "",
+      "content": "",
+      "date_sent": "",
+      "follow_up_1_subject": "",
+      "follow_up_1_content": "",
+      "follow_up_1_date": "",
+      "follow_up_2_subject": "",
+      "follow_up_2_content": "",
+      "follow_up_2_date": "",
+      "status": "queued",
+      "response_notes": ""
+    }
+  ]
+}

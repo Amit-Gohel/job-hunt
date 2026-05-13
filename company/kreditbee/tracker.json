@@ -1,0 +1,50 @@
+{
+  "company_name": "KreditBee",
+  "slug": "kreditbee",
+  "metadata": {
+    "location": "Bengaluru",
+    "role_title": "AI/ML Engineer (Lending)",
+    "salary_range_lpa": "18-26 LPA",
+    "funding_stage": "",
+    "recent_signal": "",
+    "match_reason": "Newly minted unicorn (Apr 2026, $1.5B); raised $280M with explicit AI-roadmap mandate — risk scoring, doc/KYC OCR, alt-data underwriting.",
+    "company_url": "https://www.kreditbee.in",
+    "careers_page": "https://www.kreditbee.in/career",
+    "linkedin_company_page": "https://in.linkedin.com/company/kreditbee",
+    "contact_page": "https://www.kreditbee.in/contact-us",
+    "job_url": "https://www.hirist.tech/j/kreditbee-senior-software-engineerlead-engineertech-lead-artificial-intelligence-nitiit-5-10-yrs-1627906",
+    "hiring_status": "actively hiring",
+    "priority_score": 70,
+    "cold_outreach_angle": "",
+    "notes": "Pre-IPO upside; for 2+ yrs target ML Engineer I.",
+    "_source_csv": "company_data_1.csv"
+  },
+  "research_status": "not_started",
+  "research_summary": "",
+  "jd_full_text": "",
+  "resume_latex_path": "./resume.tex",
+  "resume_pdf_path": "./resume.pdf",
+  "tailoring_notes": "",
+  "contacts": [
+    {
+      "contact_name": "",
+      "contact_role": "",
+      "tier": "",
+      "to": "",
+      "cc": [],
+      "linkedin": "",
+      "research_hook": "",
+      "subject": "",
+      "content": "",
+      "date_sent": "",
+      "follow_up_1_subject": "",
+      "follow_up_1_content": "",
+      "follow_up_1_date": "",
+      "follow_up_2_subject": "",
+      "follow_up_2_content": "",
+      "follow_up_2_date": "",
+      "status": "queued",
+      "response_notes": ""
+    }
+  ]
+}

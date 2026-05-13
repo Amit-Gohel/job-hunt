@@ -1,0 +1,50 @@
+{
+  "company_name": "Uniphore",
+  "slug": "uniphore",
+  "metadata": {
+    "location": "Bengaluru",
+    "role_title": "Senior AI Engineer / AI Scientist / Sr SWE (AI Platform - LLMOps, RAG)",
+    "salary_range_lpa": "20-32 LPA",
+    "funding_stage": "",
+    "recent_signal": "",
+    "match_reason": "Enterprise Business AI platform with composable AI Agents and RAG/agentic workflows.",
+    "company_url": "https://www.uniphore.com",
+    "careers_page": "https://www.uniphore.com/careers/",
+    "linkedin_company_page": "https://in.linkedin.com/company/uniphore/",
+    "contact_page": "https://www.uniphore.com/contact-us/",
+    "job_url": "https://in.linkedin.com/jobs/uniphore-jobs-bengaluru",
+    "hiring_status": "actively hiring",
+    "priority_score": 74,
+    "cold_outreach_angle": "",
+    "notes": "39+ Bengaluru roles; JDs mention LoRA/QLoRA, MLOps/LLMOps, vector DBs, RAG.",
+    "_source_csv": "company_data_1.csv"
+  },
+  "research_status": "not_started",
+  "research_summary": "",
+  "jd_full_text": "",
+  "resume_latex_path": "./resume.tex",
+  "resume_pdf_path": "./resume.pdf",
+  "tailoring_notes": "",
+  "contacts": [
+    {
+      "contact_name": "",
+      "contact_role": "",
+      "tier": "",
+      "to": "",
+      "cc": [],
+      "linkedin": "",
+      "research_hook": "",
+      "subject": "",
+      "content": "",
+      "date_sent": "",
+      "follow_up_1_subject": "",
+      "follow_up_1_content": "",
+      "follow_up_1_date": "",
+      "follow_up_2_subject": "",
+      "follow_up_2_content": "",
+      "follow_up_2_date": "",
+      "status": "queued",
+      "response_notes": ""
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "company_name": "Stride.AI",
+  "slug": "stride-ai",
+  "metadata": {
+    "location": "Bengaluru",
+    "role_title": "ML/NLP Engineer / Engineering Lead",
+    "salary_range_lpa": "12-22",
+    "funding_stage": "Techstars + seed (Atlanta + Bangalore)",
+    "recent_signal": "New Engineering Lead Tosh Bir Singh joined 2024; banking intelligent automation focus",
+    "match_reason": "Cognitive automation + RAG over banking docs (AML, PEP, KYC) = OCR/doc-AI + RAG",
+    "company_url": "https://stride.ai/",
+    "careers_page": "https://www.stride.ai/careers",
+    "linkedin_company_page": "https://in.linkedin.com/company/stride.ai",
+    "contact_page": "https://stride.ai/contact",
+    "job_url": "https://www.naukri.com/stride-ai-jobs-careers-4123000",
+    "hiring_status": "likely hiring",
+    "priority_score": 60,
+    "cold_outreach_angle": "'Lead with OCR/doc-AI (95% MRR on 50K+/mo) and FastAPI + Qdrant — applicable to AML doc automation.'",
+    "notes": "Glassdoor 2.9/5 — flag culture risk in outreach",
+    "_source_csv": "company_data_2.csv"
+  },
+  "research_status": "not_started",
+  "research_summary": "",
+  "jd_full_text": "",
+  "resume_latex_path": "./resume.tex",
+  "resume_pdf_path": "./resume.pdf",
+  "tailoring_notes": "",
+  "contacts": [
+    {
+      "contact_name": "",
+      "contact_role": "",
+      "tier": "",
+      "to": "",
+      "cc": [],
+      "linkedin": "",
+      "research_hook": "",
+      "subject": "",
+      "content": "",
+      "date_sent": "",
+      "follow_up_1_subject": "",
+      "follow_up_1_content": "",
+      "follow_up_1_date": "",
+      "follow_up_2_subject": "",
+      "follow_up_2_content": "",
+      "follow_up_2_date": "",
+      "status": "queued",
+      "response_notes": ""
+    }
+  ]
+}

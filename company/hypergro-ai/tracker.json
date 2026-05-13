@@ -1,0 +1,50 @@
+{
+  "company_name": "Hypergro.ai",
+  "slug": "hypergro-ai",
+  "metadata": {
+    "location": "Bengaluru (HSR Layout)",
+    "role_title": "AI/ML / Backend Engineer",
+    "salary_range_lpa": "12-25",
+    "funding_stage": "Seed ($1.76M total; Mar 2025)",
+    "recent_signal": "Mar 2025 seed;  Google for Startups AI First 2024; Google/Meta/OpenAI early-access partnerships;  140+ paid clients",
+    "match_reason": "Hyper-personalized  GenAI video ads  using GPT/Claude + proprietary models  = multi-model orchestration",
+    "company_url": "https://hypergro.ai/",
+    "careers_page": "https://wellfound.com/company/hypergro-ai",
+    "linkedin_company_page": "https://in.linkedin.com/company/hypergro",
+    "contact_page": "https://hypergro.ai/",
+    "job_url": "https://wellfound.com/company/hypergro-ai",
+    "hiring_status": "actively hiring",
+    "priority_score": 78,
+    "cold_outreach_angle": "'Your multi-LLM architecture (ChatGPT + Claude + open-source) for ad gen is exactly the orchestration I run in production (95% MRR, 50K q/mo).'",
+    "notes": "Founders Rituraj Biswas (ex-ShareChat), Neha Soman;  41 employees",
+    "_source_csv": "company_data_2.csv"
+  },
+  "research_status": "not_started",
+  "research_summary": "",
+  "jd_full_text": "",
+  "resume_latex_path": "./resume.tex",
+  "resume_pdf_path": "./resume.pdf",
+  "tailoring_notes": "",
+  "contacts": [
+    {
+      "contact_name": "",
+      "contact_role": "",
+      "tier": "",
+      "to": "",
+      "cc": [],
+      "linkedin": "",
+      "research_hook": "",
+      "subject": "",
+      "content": "",
+      "date_sent": "",
+      "follow_up_1_subject": "",
+      "follow_up_1_content": "",
+      "follow_up_1_date": "",
+      "follow_up_2_subject": "",
+      "follow_up_2_content": "",
+      "follow_up_2_date": "",
+      "status": "queued",
+      "response_notes": ""
+    }
+  ]
+}

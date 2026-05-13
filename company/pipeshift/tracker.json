@@ -1,0 +1,50 @@
+{
+  "company_name": "Pipeshift",
+  "slug": "pipeshift",
+  "metadata": {
+    "location": "Bengaluru",
+    "role_title": "ML / Inference Engineer",
+    "salary_range_lpa": "25-45",
+    "funding_stage": "Seed ($3.19M, YC S24)",
+    "recent_signal": "Q1'26 $1M+ run rate; Qwen/Alibaba partnership; 288 B300 GPUs over InfiniBand; 571 tok/sec",
+    "match_reason": "Open-source LLM fine-tuning + multi-model serving (Qwen/Llama exactly in Amit's stack)",
+    "company_url": "https://pipeshift.com/",
+    "careers_page": "https://wellfound.com/company/pipeshift",
+    "linkedin_company_page": "https://www.linkedin.com/company/pipeshift",
+    "contact_page": "https://pipeshift.com/",
+    "job_url": "https://www.workatastartup.com/companies/pipeshift",
+    "hiring_status": "likely hiring",
+    "priority_score": 80,
+    "cold_outreach_angle": "'I run Qwen + Llama + GPT-4o in prod with multi-model routing — saw your Qwen partnership and 571 tok/sec bench. Help your customers migrate off OpenAI APIs (I've done that migration twice).'",
+    "notes": "Founders Arko Chattopadhyay,  Pranav Reddy, Enrique Ferrao; 17-employee team; SF + Bangalore",
+    "_source_csv": "company_data_2.csv"
+  },
+  "research_status": "not_started",
+  "research_summary": "",
+  "jd_full_text": "",
+  "resume_latex_path": "./resume.tex",
+  "resume_pdf_path": "./resume.pdf",
+  "tailoring_notes": "",
+  "contacts": [
+    {
+      "contact_name": "",
+      "contact_role": "",
+      "tier": "",
+      "to": "",
+      "cc": [],
+      "linkedin": "",
+      "research_hook": "",
+      "subject": "",
+      "content": "",
+      "date_sent": "",
+      "follow_up_1_subject": "",
+      "follow_up_1_content": "",
+      "follow_up_1_date": "",
+      "follow_up_2_subject": "",
+      "follow_up_2_content": "",
+      "follow_up_2_date": "",
+      "status": "queued",
+      "response_notes": ""
+    }
+  ]
+}

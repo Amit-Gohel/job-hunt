@@ -1,0 +1,50 @@
+{
+  "company_name": "Eka.Care",
+  "slug": "eka-care",
+  "metadata": {
+    "location": "Bengaluru",
+    "role_title": "AI Engineer (Agentic Systems) / GenAI Engineer",
+    "salary_range_lpa": "20-32 LPA",
+    "funding_stage": "",
+    "recent_signal": "",
+    "match_reason": "JD explicitly lists LangGraph, CrewAI, AutoGen, RAG pipelines, vector DBs, FastAPI, OpenAI/Anthropic/Gemini  — textbook RAG/LLM production role.",
+    "company_url": "https://eka.care",
+    "careers_page": "https://www.eka.care/careers",
+    "linkedin_company_page": "https://in.linkedin.com/company/ekacare",
+    "contact_page": "https://eka.care/contact",
+    "job_url": "https://bebee.com/in/jobs/ai-engineering-intern-eka-care-bengaluru--theirstack-650844677",
+    "hiring_status": "actively hiring",
+    "priority_score": 92,
+    "cold_outreach_angle": "",
+    "notes": "Series A $19.5M (3one4 + Verlinvest); 16M+ patients.  Strong cold-outreach: JD reads like Amit's resume. Healthcare RAG.",
+    "_source_csv": "company_data_1.csv"
+  },
+  "research_status": "not_started",
+  "research_summary": "",
+  "jd_full_text": "",
+  "resume_latex_path": "./resume.tex",
+  "resume_pdf_path": "./resume.pdf",
+  "tailoring_notes": "",
+  "contacts": [
+    {
+      "contact_name": "",
+      "contact_role": "",
+      "tier": "",
+      "to": "",
+      "cc": [],
+      "linkedin": "",
+      "research_hook": "",
+      "subject": "",
+      "content": "",
+      "date_sent": "",
+      "follow_up_1_subject": "",
+      "follow_up_1_content": "",
+      "follow_up_1_date": "",
+      "follow_up_2_subject": "",
+      "follow_up_2_content": "",
+      "follow_up_2_date": "",
+      "status": "queued",
+      "response_notes": ""
+    }
+  ]
+}

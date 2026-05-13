@@ -1,0 +1,50 @@
+{
+  "company_name": "Sprinklr",
+  "slug": "sprinklr",
+  "metadata": {
+    "location": "Gurgaon",
+    "role_title": "Software Development Engineer / Lead Software Engineer (AI)",
+    "salary_range_lpa": "25-38 LPA",
+    "funding_stage": "",
+    "recent_signal": "",
+    "match_reason": "AI-native Unified CXM platform;  engineering split between Gurgaon (primary) and Bengaluru; multiple SDE/Lead Engineer roles with AI focus.",
+    "company_url": "https://www.sprinklr.com",
+    "careers_page": "https://www.sprinklr.com/careers/",
+    "linkedin_company_page": "https://www.linkedin.com/company/sprinklr",
+    "contact_page": "https://www.sprinklr.com/about/contact/",
+    "job_url": "https://sprinklr.wd1.myworkdayjobs.com/careers",
+    "hiring_status": "actively hiring",
+    "priority_score": 80,
+    "cold_outreach_angle": "",
+    "notes": "Heavily Gurgaon-weighted; mixed Glassdoor WLB reviews.",
+    "_source_csv": "company_data_1.csv"
+  },
+  "research_status": "not_started",
+  "research_summary": "",
+  "jd_full_text": "",
+  "resume_latex_path": "./resume.tex",
+  "resume_pdf_path": "./resume.pdf",
+  "tailoring_notes": "",
+  "contacts": [
+    {
+      "contact_name": "",
+      "contact_role": "",
+      "tier": "",
+      "to": "",
+      "cc": [],
+      "linkedin": "",
+      "research_hook": "",
+      "subject": "",
+      "content": "",
+      "date_sent": "",
+      "follow_up_1_subject": "",
+      "follow_up_1_content": "",
+      "follow_up_1_date": "",
+      "follow_up_2_subject": "",
+      "follow_up_2_content": "",
+      "follow_up_2_date": "",
+      "status": "queued",
+      "response_notes": ""
+    }
+  ]
+}

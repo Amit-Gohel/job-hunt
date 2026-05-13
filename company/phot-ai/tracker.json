@@ -1,0 +1,50 @@
+{
+  "company_name": "Phot.AI",
+  "slug": "phot-ai",
+  "metadata": {
+    "location": "Gurgaon (Sector 65)",
+    "role_title": "ML / Backend Engineer (GenAI imaging)",
+    "salary_range_lpa": "12-25",
+    "funding_stage": "Seed ($2.7M Mar 2024; Info Edge + Better Capital)",
+    "recent_signal": "AWS GenAI Accelerator 2024;  Google for Startups AI First 2025; Product Hunt POTD; clients Shiprocket, Fashinza, Dukaan",
+    "match_reason": "Full-visual  GenAI design — text-to-image, product photography;  rare Gurgaon GenAI lab",
+    "company_url": "https://www.phot.ai/",
+    "careers_page": "https://www.phot.ai/about-us",
+    "linkedin_company_page": "https://in.linkedin.com/company/phot-ai",
+    "contact_page": "https://www.phot.ai/contact-us",
+    "job_url": "https://www.phot.ai/about-us",
+    "hiring_status": "likely hiring",
+    "priority_score": 74,
+    "cold_outreach_angle": "'Your e-commerce creative automation = where my OCR/doc-AI + multi-model orchestration production experience compounds.'",
+    "notes": "Founders Venus Dhuria, Akshit Raja, Aneesh Rayancha;  56 employees; Suncity Success Tower",
+    "_source_csv": "company_data_2.csv"
+  },
+  "research_status": "not_started",
+  "research_summary": "",
+  "jd_full_text": "",
+  "resume_latex_path": "./resume.tex",
+  "resume_pdf_path": "./resume.pdf",
+  "tailoring_notes": "",
+  "contacts": [
+    {
+      "contact_name": "",
+      "contact_role": "",
+      "tier": "",
+      "to": "",
+      "cc": [],
+      "linkedin": "",
+      "research_hook": "",
+      "subject": "",
+      "content": "",
+      "date_sent": "",
+      "follow_up_1_subject": "",
+      "follow_up_1_content": "",
+      "follow_up_1_date": "",
+      "follow_up_2_subject": "",
+      "follow_up_2_content": "",
+      "follow_up_2_date": "",
+      "status": "queued",
+      "response_notes": ""
+    }
+  ]
+}

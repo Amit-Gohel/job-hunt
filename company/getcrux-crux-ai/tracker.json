@@ -1,0 +1,50 @@
+{
+  "company_name": "GetCrux (Crux AI)",
+  "slug": "getcrux-crux-ai",
+  "metadata": {
+    "location": "Bengaluru",
+    "role_title": "Founding Engineer (Full-Stack / AI Video)",
+    "salary_range_lpa": "80-100 + 0.5-1% equity",
+    "funding_stage": "Seed (YC W24, $2.6M)",
+    "recent_signal": "$1M ARR in months; customers SoFi, Rocket Money, Rappi; agentic video editor orchestrating Kling/Veo/Image/Audio",
+    "match_reason": "Multi-model orchestration spec — video+image+audio models; stack: Python/Django/Temporal/Celery/AWS/GCP/Redis",
+    "company_url": "https://www.getcrux.ai/",
+    "careers_page": "https://www.ycombinator.com/companies/getcrux/jobs",
+    "linkedin_company_page": "https://www.linkedin.com/company/getcruxai",
+    "contact_page": "https://www.getcrux.ai/",
+    "job_url": "https://www.ycombinator.com/companies/getcrux/jobs/pyis2KX-founding-engineer-full-stack-ai-video-getcrux",
+    "hiring_status": "actively hiring",
+    "priority_score": 90,
+    "cold_outreach_angle": "'Read your post on prompt→finished ad with Kling/Veo orchestration. I've built multi-model orchestration in prod (GPT-4o+Gemini+Qwen+Llama on FastAPI+Lambda) — ready to own your async generation pipeline.'",
+    "notes": "Founders Himank Jain, Atharva Padhye, Prabhat Singh (IIT Bombay); 9-person team Koramangala; in-office",
+    "_source_csv": "company_data_2.csv"
+  },
+  "research_status": "not_started",
+  "research_summary": "",
+  "jd_full_text": "",
+  "resume_latex_path": "./resume.tex",
+  "resume_pdf_path": "./resume.pdf",
+  "tailoring_notes": "",
+  "contacts": [
+    {
+      "contact_name": "",
+      "contact_role": "",
+      "tier": "",
+      "to": "",
+      "cc": [],
+      "linkedin": "",
+      "research_hook": "",
+      "subject": "",
+      "content": "",
+      "date_sent": "",
+      "follow_up_1_subject": "",
+      "follow_up_1_content": "",
+      "follow_up_1_date": "",
+      "follow_up_2_subject": "",
+      "follow_up_2_content": "",
+      "follow_up_2_date": "",
+      "status": "queued",
+      "response_notes": ""
+    }
+  ]
+}

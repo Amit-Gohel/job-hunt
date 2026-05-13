@@ -1,0 +1,50 @@
+{
+  "company_name": "Zomato (Eternal)",
+  "slug": "zomato-eternal",
+  "metadata": {
+    "location": "Gurgaon",
+    "role_title": "Machine Learning Engineer / Sr AI Engineer",
+    "salary_range_lpa": "20-34 LPA",
+    "funding_stage": "",
+    "recent_signal": "",
+    "match_reason": "Zomato + Blinkit jointly hiring AI/ML Engineers to optimize LLMs; Zia AI assistant for restaurants; ML for spam review detection, search ranking, dish tagging.",
+    "company_url": "https://www.zomato.com",
+    "careers_page": "https://www.zomato.com/careers",
+    "linkedin_company_page": "https://www.linkedin.com/company/zomato",
+    "contact_page": "https://www.zomato.com/contact",
+    "job_url": "https://www.instahyre.com/job-365916-sr-ai-engineer-at-zomato-bangalore/",
+    "hiring_status": "actively hiring",
+    "priority_score": 94,
+    "cold_outreach_angle": "",
+    "notes": "Eternal group also includes Blinkit. NLP work on reviews, photos, restaurant search. Python heavy. Weekday: 13.4 LPA @1yr, 21.7 LPA @5yr.",
+    "_source_csv": "company_data_1.csv"
+  },
+  "research_status": "not_started",
+  "research_summary": "",
+  "jd_full_text": "",
+  "resume_latex_path": "./resume.tex",
+  "resume_pdf_path": "./resume.pdf",
+  "tailoring_notes": "",
+  "contacts": [
+    {
+      "contact_name": "",
+      "contact_role": "",
+      "tier": "",
+      "to": "",
+      "cc": [],
+      "linkedin": "",
+      "research_hook": "",
+      "subject": "",
+      "content": "",
+      "date_sent": "",
+      "follow_up_1_subject": "",
+      "follow_up_1_content": "",
+      "follow_up_1_date": "",
+      "follow_up_2_subject": "",
+      "follow_up_2_content": "",
+      "follow_up_2_date": "",
+      "status": "queued",
+      "response_notes": ""
+    }
+  ]
+}

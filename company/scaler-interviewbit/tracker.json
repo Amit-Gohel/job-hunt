@@ -1,0 +1,50 @@
+{
+  "company_name": "Scaler / InterviewBit",
+  "slug": "scaler-interviewbit",
+  "metadata": {
+    "location": "Bengaluru",
+    "role_title": "AI Platform / GenAI Engineer (2-4 yrs)",
+    "salary_range_lpa": "22-35 LPA",
+    "funding_stage": "",
+    "recent_signal": "",
+    "match_reason": "Series B ($76.5M, Peak XV/Tiger Global);  built in-house AI Companion + Forward Deployed Engineer team; AI-integrated curriculum.",
+    "company_url": "https://www.scaler.com",
+    "careers_page": "https://www.scaler.com/careers/",
+    "linkedin_company_page": "https://in.linkedin.com/school/scalerofficial",
+    "contact_page": "https://www.scaler.com/contact",
+    "job_url": "https://in.linkedin.com/jobs/scaler-jobs",
+    "hiring_status": "actively hiring",
+    "priority_score": 70,
+    "cold_outreach_angle": "",
+    "notes": "Edtech with strong AI engineering team.",
+    "_source_csv": "company_data_1.csv"
+  },
+  "research_status": "not_started",
+  "research_summary": "",
+  "jd_full_text": "",
+  "resume_latex_path": "./resume.tex",
+  "resume_pdf_path": "./resume.pdf",
+  "tailoring_notes": "",
+  "contacts": [
+    {
+      "contact_name": "",
+      "contact_role": "",
+      "tier": "",
+      "to": "",
+      "cc": [],
+      "linkedin": "",
+      "research_hook": "",
+      "subject": "",
+      "content": "",
+      "date_sent": "",
+      "follow_up_1_subject": "",
+      "follow_up_1_content": "",
+      "follow_up_1_date": "",
+      "follow_up_2_subject": "",
+      "follow_up_2_content": "",
+      "follow_up_2_date": "",
+      "status": "queued",
+      "response_notes": ""
+    }
+  ]
+}

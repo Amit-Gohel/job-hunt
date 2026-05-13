@@ -1,0 +1,50 @@
+{
+  "company_name": "Reverie Language Tech",
+  "slug": "reverie-language-tech",
+  "metadata": {
+    "location": "Bengaluru",
+    "role_title": "Software Engineer - Python & NLP",
+    "salary_range_lpa": "12-22",
+    "funding_stage": "Acquired (Reliance Jio Platforms)",
+    "recent_signal": "36 open Indeed jobs incl. Python/NLP SWE; 22 Indic languages",
+    "match_reason": "Indic NLP/STT/TTS/MT — literal scope fit; Python+NLP role match",
+    "company_url": "https://reverieinc.com/",
+    "careers_page": "https://careers.reverieinc.com/",
+    "linkedin_company_page": "https://in.linkedin.com/company/reverie-language-technologies-pvt--ltd",
+    "contact_page": "https://reverieinc.com/contact-us/",
+    "job_url": "https://in.indeed.com/cmp/Reverie-Language-Technologies",
+    "hiring_status": "actively hiring",
+    "priority_score": 75,
+    "cold_outreach_angle": "'Connect my multi-model orchestration (Qwen/Llama for cost-efficient Indic inference) to Reverie's 22-language scale.'",
+    "notes": "Strategic backing reduces stage risk; salary range ₹3.6L-85L per public data",
+    "_source_csv": "company_data_2.csv"
+  },
+  "research_status": "not_started",
+  "research_summary": "",
+  "jd_full_text": "",
+  "resume_latex_path": "./resume.tex",
+  "resume_pdf_path": "./resume.pdf",
+  "tailoring_notes": "",
+  "contacts": [
+    {
+      "contact_name": "",
+      "contact_role": "",
+      "tier": "",
+      "to": "",
+      "cc": [],
+      "linkedin": "",
+      "research_hook": "",
+      "subject": "",
+      "content": "",
+      "date_sent": "",
+      "follow_up_1_subject": "",
+      "follow_up_1_content": "",
+      "follow_up_1_date": "",
+      "follow_up_2_subject": "",
+      "follow_up_2_content": "",
+      "follow_up_2_date": "",
+      "status": "queued",
+      "response_notes": ""
+    }
+  ]
+}

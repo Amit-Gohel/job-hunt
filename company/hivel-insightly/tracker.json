@@ -1,0 +1,50 @@
+{
+  "company_name": "Hivel (Insightly)",
+  "slug": "hivel-insightly",
+  "metadata": {
+    "location": "Hyderabad (Puppalaguda)",
+    "role_title": "Backend/AI Engineer (Eng Analytics + GenAI)",
+    "salary_range_lpa": "20-35",
+    "funding_stage": "Seed (~$1.5M+; eyeing Series A)",
+    "recent_signal": "Launched AI Code Review Agent (Marco) + AI Impact ROI 2025; clients PharmEasy, PhysicsWallah, Freshworks, PolicyBazaar",
+    "match_reason": "RAG  over engineering tools (Git/JIRA/CI-CD) = direct RAG/vector-search; Marco code-review agent uses LLM eval",
+    "company_url": "https://www.hivel.ai/",
+    "careers_page": "https://www.hivel.ai/about-us",
+    "linkedin_company_page": "https://www.linkedin.com/company/hivelai",
+    "contact_page": "careers@hivel.ai",
+    "job_url": "careers@hivel.ai",
+    "hiring_status": "actively hiring",
+    "priority_score": 78,
+    "cold_outreach_angle": "'CEO Sudheer Bandaru openly posts on LinkedIn about hiring. My RAG-on-50K-q number is the metric his data-driven engineering analytics positioning rewards.'",
+    "notes": "Founder Sudheer Bandaru (multi-decade CTO, ex-Aviso); Together Fund + BlueLotus + Ola/Uber angels",
+    "_source_csv": "company_data_2.csv"
+  },
+  "research_status": "not_started",
+  "research_summary": "",
+  "jd_full_text": "",
+  "resume_latex_path": "./resume.tex",
+  "resume_pdf_path": "./resume.pdf",
+  "tailoring_notes": "",
+  "contacts": [
+    {
+      "contact_name": "",
+      "contact_role": "",
+      "tier": "",
+      "to": "",
+      "cc": [],
+      "linkedin": "",
+      "research_hook": "",
+      "subject": "",
+      "content": "",
+      "date_sent": "",
+      "follow_up_1_subject": "",
+      "follow_up_1_content": "",
+      "follow_up_1_date": "",
+      "follow_up_2_subject": "",
+      "follow_up_2_content": "",
+      "follow_up_2_date": "",
+      "status": "queued",
+      "response_notes": ""
+    }
+  ]
+}

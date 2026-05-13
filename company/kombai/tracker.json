@@ -1,0 +1,50 @@
+{
+  "company_name": "Kombai",
+  "slug": "kombai",
+  "metadata": {
+    "location": "Pune",
+    "role_title": "AI/ML Engineer (multimodal LLMs)",
+    "salary_range_lpa": "22-40",
+    "funding_stage": "Seed ($4.5M)",
+    "recent_signal": "Pivoted  2025 to full-stack Kombai AI Agent; integrates 400+ frontend libraries; SOC 2",
+    "match_reason": "Multimodal model + deep learning + heuristics + LLMs on top;  fine-tunes over GPT/Gemini/Claude/Qwen-class — multi-model orchestration",
+    "company_url": "https://kombai.com/",
+    "careers_page": "https://kombai.com",
+    "linkedin_company_page": "https://www.linkedin.com/company/kombai",
+    "contact_page": "Founders via LinkedIn",
+    "job_url": "https://www.linkedin.com/company/kombai",
+    "hiring_status": "likely hiring",
+    "priority_score": 85,
+    "cold_outreach_angle": "'Kombai uses multi-model fine-tuning with public multimodal LLMs <5% output — you value devs who understand LLM eval + orchestration. My 95% MRR RAG proves that.'",
+    "notes": "Founders Dipanjan Dey, Abhijit Bhole (ex-Mindtickle execs);  Pune office;  Stellaris+Foundation",
+    "_source_csv": "company_data_2.csv"
+  },
+  "research_status": "not_started",
+  "research_summary": "",
+  "jd_full_text": "",
+  "resume_latex_path": "./resume.tex",
+  "resume_pdf_path": "./resume.pdf",
+  "tailoring_notes": "",
+  "contacts": [
+    {
+      "contact_name": "",
+      "contact_role": "",
+      "tier": "",
+      "to": "",
+      "cc": [],
+      "linkedin": "",
+      "research_hook": "",
+      "subject": "",
+      "content": "",
+      "date_sent": "",
+      "follow_up_1_subject": "",
+      "follow_up_1_content": "",
+      "follow_up_1_date": "",
+      "follow_up_2_subject": "",
+      "follow_up_2_content": "",
+      "follow_up_2_date": "",
+      "status": "queued",
+      "response_notes": ""
+    }
+  ]
+}

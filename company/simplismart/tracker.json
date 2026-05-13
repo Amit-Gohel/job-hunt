@@ -1,0 +1,50 @@
+{
+  "company_name": "Simplismart",
+  "slug": "simplismart",
+  "metadata": {
+    "location": "Bengaluru (HSR + Richmond Town)",
+    "role_title": "ML Research / ML Platform / Backend Engineer",
+    "salary_range_lpa": "25-75",
+    "funding_stage": "Series A ($7M Accel Oct 2024; $8.3M total)",
+    "recent_signal": "NVIDIA GTC 2025; fastest open-source inference (501 tok/sec Llama 3.1 8B); Yotta partnership powering Shakti Studio sovereign GPU cloud",
+    "match_reason": "Declarative LLM serving infra;  vLLM/TGI, multi-tenant LoRA, GPU orchestration = Amit's serverless+multi-model background",
+    "company_url": "https://simplismart.ai/",
+    "careers_page": "https://wellfound.com/company/simplismart/jobs",
+    "linkedin_company_page": "https://in.linkedin.com/company/simplismart",
+    "contact_page": "https://simplismart.ai/",
+    "job_url": "https://wellfound.com/company/simplismart/jobs",
+    "hiring_status": "actively hiring",
+    "priority_score": 89,
+    "cold_outreach_angle": "'Saw the 501 tok/sec Llama 3.1 8B bench + Yotta partnership. I've productionized RAG + retrieval-optimization at scale — would love to bring that to your inference-platform customer-facing layer.'",
+    "notes": "Founders Amritanshu Jain  (ex-Google), Devansh Ghatak  (ex-Google/Avaamo); 9 open roles",
+    "_source_csv": "company_data_2.csv"
+  },
+  "research_status": "not_started",
+  "research_summary": "",
+  "jd_full_text": "",
+  "resume_latex_path": "./resume.tex",
+  "resume_pdf_path": "./resume.pdf",
+  "tailoring_notes": "",
+  "contacts": [
+    {
+      "contact_name": "",
+      "contact_role": "",
+      "tier": "",
+      "to": "",
+      "cc": [],
+      "linkedin": "",
+      "research_hook": "",
+      "subject": "",
+      "content": "",
+      "date_sent": "",
+      "follow_up_1_subject": "",
+      "follow_up_1_content": "",
+      "follow_up_1_date": "",
+      "follow_up_2_subject": "",
+      "follow_up_2_content": "",
+      "follow_up_2_date": "",
+      "status": "queued",
+      "response_notes": ""
+    }
+  ]
+}

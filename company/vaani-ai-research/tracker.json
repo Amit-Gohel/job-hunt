@@ -1,0 +1,50 @@
+{
+  "company_name": "Vaani AI Research",
+  "slug": "vaani-ai-research",
+  "metadata": {
+    "location": "Bengaluru",
+    "role_title": "Founding ML / Voice AI Engineer",
+    "salary_range_lpa": "18-35",
+    "funding_stage": "Pre-seed ($400K, Oct 2025, Venture Catalysts)",
+    "recent_signal": "Pre-seed Oct 2025; Google for Startups AI First India 2025; NASSCOM GenAI Foundry; F6S Top 10 AI Infra globally",
+    "match_reason": "Voice AI infra — proprietary ASR/TTS  for 14+ Indic languages, RL fine-tuning, multimodal foundational model in dev",
+    "company_url": "https://www.vaaniresearch.com/",
+    "careers_page": "https://vaaniresearch.com/team.html",
+    "linkedin_company_page": "https://www.linkedin.com/company/vaani-ai-research",
+    "contact_page": "https://www.vaaniresearch.com/",
+    "job_url": "https://vaanivoice.ai/",
+    "hiring_status": "actively hiring",
+    "priority_score": 90,
+    "cold_outreach_angle": "'I've stitched GPT-4o + Gemini + Llama/Qwen in prod for RAG (95% MRR, 50K q/mo) — your voice stack + Hinglish ASR is exactly the multimodal challenge I want next.'",
+    "notes": "Founders Tushar Shinde  (ex-OneCard/IISc RL), Nitesh Tripathi (ex-ThoughtSpot/IISc), Nitish Mishra (IIT-M); founders reachable on LinkedIn",
+    "_source_csv": "company_data_2.csv"
+  },
+  "research_status": "not_started",
+  "research_summary": "",
+  "jd_full_text": "",
+  "resume_latex_path": "./resume.tex",
+  "resume_pdf_path": "./resume.pdf",
+  "tailoring_notes": "",
+  "contacts": [
+    {
+      "contact_name": "",
+      "contact_role": "",
+      "tier": "",
+      "to": "",
+      "cc": [],
+      "linkedin": "",
+      "research_hook": "",
+      "subject": "",
+      "content": "",
+      "date_sent": "",
+      "follow_up_1_subject": "",
+      "follow_up_1_content": "",
+      "follow_up_1_date": "",
+      "follow_up_2_subject": "",
+      "follow_up_2_content": "",
+      "follow_up_2_date": "",
+      "status": "queued",
+      "response_notes": ""
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "company_name": "Nurix AI",
+  "slug": "nurix-ai",
+  "metadata": {
+    "location": "Bengaluru",
+    "role_title": "AI Engineer / Applied AI (2-4 yrs)",
+    "salary_range_lpa": "30-50 LPA",
+    "funding_stage": "",
+    "recent_signal": "",
+    "match_reason": "Founded 2024 by Mukesh Bansal (ex-Myntra/Cultfit); $27.5M Series A (Accel + General Catalyst). Voice + chat AI agents with proprietary low-latency stack  — direct RAG/LLM match.",
+    "company_url": "https://www.nurix.ai",
+    "careers_page": "https://www.nurix.ai/career",
+    "linkedin_company_page": "https://www.linkedin.com/company/nurixai",
+    "contact_page": "via careers page",
+    "job_url": "https://www.uplers.com/company/nurix-5534",
+    "hiring_status": "actively hiring",
+    "priority_score": 93,
+    "cold_outreach_angle": "",
+    "notes": "9 open positions confirmed;  high-pedigree founders.",
+    "_source_csv": "company_data_1.csv"
+  },
+  "research_status": "not_started",
+  "research_summary": "",
+  "jd_full_text": "",
+  "resume_latex_path": "./resume.tex",
+  "resume_pdf_path": "./resume.pdf",
+  "tailoring_notes": "",
+  "contacts": [
+    {
+      "contact_name": "",
+      "contact_role": "",
+      "tier": "",
+      "to": "",
+      "cc": [],
+      "linkedin": "",
+      "research_hook": "",
+      "subject": "",
+      "content": "",
+      "date_sent": "",
+      "follow_up_1_subject": "",
+      "follow_up_1_content": "",
+      "follow_up_1_date": "",
+      "follow_up_2_subject": "",
+      "follow_up_2_content": "",
+      "follow_up_2_date": "",
+      "status": "queued",
+      "response_notes": ""
+    }
+  ]
+}

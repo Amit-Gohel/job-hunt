@@ -1,0 +1,50 @@
+{
+  "company_name": "MoEngage",
+  "slug": "moengage",
+  "metadata": {
+    "location": "Bengaluru",
+    "role_title": "ML Engineer / GenAI Engineer (Merlin AI)",
+    "salary_range_lpa": "22-34 LPA",
+    "funding_stage": "",
+    "recent_signal": "",
+    "match_reason": "Merlin AI is MoEngage's generative AI co-pilot;  Sherpa AI predictive engine;  Series F-funded with $100M for marketing AI agents.",
+    "company_url": "https://www.moengage.com",
+    "careers_page": "https://www.moengage.com/careers/",
+    "linkedin_company_page": "https://www.linkedin.com/company/moengage",
+    "contact_page": "https://www.moengage.com/contact-us/",
+    "job_url": "https://moengage.hire.trakstar.com/",
+    "hiring_status": "actively hiring",
+    "priority_score": 85,
+    "cold_outreach_angle": "",
+    "notes": "Bengaluru HQ; strong India-built MarTech AI.",
+    "_source_csv": "company_data_1.csv"
+  },
+  "research_status": "not_started",
+  "research_summary": "",
+  "jd_full_text": "",
+  "resume_latex_path": "./resume.tex",
+  "resume_pdf_path": "./resume.pdf",
+  "tailoring_notes": "",
+  "contacts": [
+    {
+      "contact_name": "",
+      "contact_role": "",
+      "tier": "",
+      "to": "",
+      "cc": [],
+      "linkedin": "",
+      "research_hook": "",
+      "subject": "",
+      "content": "",
+      "date_sent": "",
+      "follow_up_1_subject": "",
+      "follow_up_1_content": "",
+      "follow_up_1_date": "",
+      "follow_up_2_subject": "",
+      "follow_up_2_content": "",
+      "follow_up_2_date": "",
+      "status": "queued",
+      "response_notes": ""
+    }
+  ]
+}

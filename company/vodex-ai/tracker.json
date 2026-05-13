@@ -1,0 +1,50 @@
+{
+  "company_name": "Vodex.ai",
+  "slug": "vodex-ai",
+  "metadata": {
+    "location": "Bengaluru (Bannerghatta Rd)",
+    "role_title": "Backend / AI Voice Agent Engineer",
+    "salary_range_lpa": "16-30",
+    "funding_stage": "Seed ($2.32M; 100X.VC, Unicorn India, Pentathlon)",
+    "recent_signal": "Launched 'Dros' (Debt Resolution OS) 2025; APAC+US expansion; SOC2+ISO27001+HIPAA; integrations with ViciDial",
+    "match_reason": "Generative AI outbound voice agents  in 96 languages = ASR+LLM+TTS multi-model orchestration; Python backend",
+    "company_url": "https://www.vodex.ai/",
+    "careers_page": "https://careers.vodex.ai/",
+    "linkedin_company_page": "https://in.linkedin.com/company/vodexai",
+    "contact_page": "https://www.vodex.ai/contact-us",
+    "job_url": "https://careers.vodex.ai/",
+    "hiring_status": "actively hiring",
+    "priority_score": 92,
+    "cold_outreach_angle": "'Scaling voice agents for collections/insurance with proprietary ASR+LLM+TTS — I run multi-model orchestration in prod at 50K q/mo & 95% MRR. Would love to contribute on evals + low-latency RAG over compliance scripts.'",
+    "notes": "Co-founders Anshul Shrivastava, Kumar Saurav;  LilChirp AI Technologies;  ~27 employees",
+    "_source_csv": "company_data_2.csv"
+  },
+  "research_status": "not_started",
+  "research_summary": "",
+  "jd_full_text": "",
+  "resume_latex_path": "./resume.tex",
+  "resume_pdf_path": "./resume.pdf",
+  "tailoring_notes": "",
+  "contacts": [
+    {
+      "contact_name": "",
+      "contact_role": "",
+      "tier": "",
+      "to": "",
+      "cc": [],
+      "linkedin": "",
+      "research_hook": "",
+      "subject": "",
+      "content": "",
+      "date_sent": "",
+      "follow_up_1_subject": "",
+      "follow_up_1_content": "",
+      "follow_up_1_date": "",
+      "follow_up_2_subject": "",
+      "follow_up_2_content": "",
+      "follow_up_2_date": "",
+      "status": "queued",
+      "response_notes": ""
+    }
+  ]
+}

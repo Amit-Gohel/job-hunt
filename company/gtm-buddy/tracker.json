@@ -1,0 +1,50 @@
+{
+  "company_name": "GTM Buddy",
+  "slug": "gtm-buddy",
+  "metadata": {
+    "location": "Hyderabad",
+    "role_title": "Senior AI Engineer / Backend (LLM, RAG)",
+    "salary_range_lpa": "25-45",
+    "funding_stage": "Series A ($10M total)",
+    "recent_signal": "Pivoting to 'Revenue Activation' agentic platform 2025-26; founder Sreedhar Peddineni (3x category-creator: Host Analytics→Gainsight→GTM Buddy)  actively hiring AI-fluent talent",
+    "match_reason": "'Ask Buddy' AI copilot  = RAG over enterprise content;  careers page explicitly seeks 'genuine AI fluency'",
+    "company_url": "https://gtmbuddy.ai/",
+    "careers_page": "https://gtmbuddy.ai/careers",
+    "linkedin_company_page": "https://www.linkedin.com/company/gtmbuddy",
+    "contact_page": "https://gtmbuddy.ai/company/about-us",
+    "job_url": "https://gtmbuddy.ai/careers",
+    "hiring_status": "actively  hiring",
+    "priority_score": 90,
+    "cold_outreach_angle": "'Your careers page seeks people with genuine AI fluency, not I-use-ChatGPT-sometimes. My 95% MRR / 50K q/mo RAG proves that bar.'",
+    "notes": "HQ Hyderabad; 44 employees;  Stellaris+Leo+Neon-backed;  3x category-creating founder",
+    "_source_csv": "company_data_2.csv"
+  },
+  "research_status": "not_started",
+  "research_summary": "",
+  "jd_full_text": "",
+  "resume_latex_path": "./resume.tex",
+  "resume_pdf_path": "./resume.pdf",
+  "tailoring_notes": "",
+  "contacts": [
+    {
+      "contact_name": "",
+      "contact_role": "",
+      "tier": "",
+      "to": "",
+      "cc": [],
+      "linkedin": "",
+      "research_hook": "",
+      "subject": "",
+      "content": "",
+      "date_sent": "",
+      "follow_up_1_subject": "",
+      "follow_up_1_content": "",
+      "follow_up_1_date": "",
+      "follow_up_2_subject": "",
+      "follow_up_2_content": "",
+      "follow_up_2_date": "",
+      "status": "queued",
+      "response_notes": ""
+    }
+  ]
+}

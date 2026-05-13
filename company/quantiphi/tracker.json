@@ -1,0 +1,50 @@
+{
+  "company_name": "Quantiphi",
+  "slug": "quantiphi",
+  "metadata": {
+    "location": "Bengaluru",
+    "role_title": "Senior Machine Learning Engineer (GenAI/RAG, 3-6 yrs)",
+    "salary_range_lpa": "20-34 LPA",
+    "funding_stage": "",
+    "recent_signal": "",
+    "match_reason": "AI-first digital engineering firm;  explicit RAG/LLM/Agentic frameworks (LangGraph, LangChain, AWS Bedrock Agentcore); Elite NVIDIA/AWS/GCP partner; SageMaker/Lambda stack.",
+    "company_url": "https://quantiphi.com",
+    "careers_page": "https://quantiphi.wd1.myworkdayjobs.com/Careers_at_Quantiphi",
+    "linkedin_company_page": "https://in.linkedin.com/company/quantiphi",
+    "contact_page": "https://quantiphi.com/contact-us/",
+    "job_url": "https://quantiphi.wd1.myworkdayjobs.com/Careers_at_Quantiphi",
+    "hiring_status": "actively hiring",
+    "priority_score": 95,
+    "cold_outreach_angle": "",
+    "notes": "Multiple Bengaluru GenAI MLE postings; Levels.fyi MLE total comp ₹8.8L-22.7L+ mid-level; senior 25-35 LPA.",
+    "_source_csv": "company_data_1.csv"
+  },
+  "research_status": "not_started",
+  "research_summary": "",
+  "jd_full_text": "",
+  "resume_latex_path": "./resume.tex",
+  "resume_pdf_path": "./resume.pdf",
+  "tailoring_notes": "",
+  "contacts": [
+    {
+      "contact_name": "",
+      "contact_role": "",
+      "tier": "",
+      "to": "",
+      "cc": [],
+      "linkedin": "",
+      "research_hook": "",
+      "subject": "",
+      "content": "",
+      "date_sent": "",
+      "follow_up_1_subject": "",
+      "follow_up_1_content": "",
+      "follow_up_1_date": "",
+      "follow_up_2_subject": "",
+      "follow_up_2_content": "",
+      "follow_up_2_date": "",
+      "status": "queued",
+      "response_notes": ""
+    }
+  ]
+}

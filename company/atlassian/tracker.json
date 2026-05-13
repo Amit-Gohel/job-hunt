@@ -1,0 +1,50 @@
+{
+  "company_name": "Atlassian",
+  "slug": "atlassian",
+  "metadata": {
+    "location": "Bengaluru",
+    "role_title": "Software Engineer (AI/Rovo Search Platform)",
+    "salary_range_lpa": "30-48 LPA",
+    "funding_stage": "",
+    "recent_signal": "",
+    "match_reason": "Rovo (GenAI teammate) + Rovo Dev — strong AI engineering org in Bengaluru with 2500+ engineers. Teamwork Graph + LLM/Search platform work.",
+    "company_url": "https://www.atlassian.com",
+    "careers_page": "https://www.atlassian.com/company/careers/all-teams",
+    "linkedin_company_page": "https://www.linkedin.com/company/atlassian",
+    "contact_page": "https://www.atlassian.com/company/contact",
+    "job_url": "https://www.atlassian.com/company/careers/engineering/ai",
+    "hiring_status": "actively hiring",
+    "priority_score": 87,
+    "cold_outreach_angle": "",
+    "notes": "Bengaluru is one of largest R&D hubs outside HQ.  SE II ladder exists for 2-4 yr.",
+    "_source_csv": "company_data_1.csv"
+  },
+  "research_status": "not_started",
+  "research_summary": "",
+  "jd_full_text": "",
+  "resume_latex_path": "./resume.tex",
+  "resume_pdf_path": "./resume.pdf",
+  "tailoring_notes": "",
+  "contacts": [
+    {
+      "contact_name": "",
+      "contact_role": "",
+      "tier": "",
+      "to": "",
+      "cc": [],
+      "linkedin": "",
+      "research_hook": "",
+      "subject": "",
+      "content": "",
+      "date_sent": "",
+      "follow_up_1_subject": "",
+      "follow_up_1_content": "",
+      "follow_up_1_date": "",
+      "follow_up_2_subject": "",
+      "follow_up_2_content": "",
+      "follow_up_2_date": "",
+      "status": "queued",
+      "response_notes": ""
+    }
+  ]
+}

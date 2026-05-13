@@ -1,0 +1,50 @@
+{
+  "company_name": "Asha Health",
+  "slug": "asha-health",
+  "metadata": {
+    "location": "Bengaluru",
+    "role_title": "Software/Staff Engineer, AI Agents",
+    "salary_range_lpa": "40-100",
+    "funding_stage": "Seed (oversubscribed; YC F24; GC, 186 Ventures, Reach Capital)",
+    "recent_signal": "Hiring 4+ Bangalore roles; founders Akkshay (ex-Google PM, GenAI) + Gokul (ex-Brex) actively closing senior eng",
+    "match_reason": "AI agents at orchestration layer + 'clever engineering for latency & reliability' = RAG + Lambda + LLM-eval profile",
+    "company_url": "https://www.asha.health/",
+    "careers_page": "https://www.workatastartup.com/companies/30131",
+    "linkedin_company_page": "https://www.linkedin.com/company/asha-health-ai",
+    "contact_page": "akkshay@asha.health",
+    "job_url": "https://www.ycombinator.com/companies/asha-health/jobs/toCdRxd-staff-software-engineer-ai-agents",
+    "hiring_status": "actively hiring",
+    "priority_score": 87,
+    "cold_outreach_angle": "'2+yrs production AI with 95% MRR RAG — your top-0.01% engineer bar + agent-orchestration focus is the work I want. Already shipped multi-model orchestration with GPT-4o/Gemini/Qwen.'",
+    "notes": "Bangalore office; 5-person eng team; pays well above market; cofounders very reachable",
+    "_source_csv": "company_data_2.csv"
+  },
+  "research_status": "not_started",
+  "research_summary": "",
+  "jd_full_text": "",
+  "resume_latex_path": "./resume.tex",
+  "resume_pdf_path": "./resume.pdf",
+  "tailoring_notes": "",
+  "contacts": [
+    {
+      "contact_name": "",
+      "contact_role": "",
+      "tier": "",
+      "to": "",
+      "cc": [],
+      "linkedin": "",
+      "research_hook": "",
+      "subject": "",
+      "content": "",
+      "date_sent": "",
+      "follow_up_1_subject": "",
+      "follow_up_1_content": "",
+      "follow_up_1_date": "",
+      "follow_up_2_subject": "",
+      "follow_up_2_content": "",
+      "follow_up_2_date": "",
+      "status": "queued",
+      "response_notes": ""
+    }
+  ]
+}

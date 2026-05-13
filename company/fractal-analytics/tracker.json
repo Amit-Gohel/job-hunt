@@ -1,0 +1,50 @@
+{
+  "company_name": "Fractal Analytics",
+  "slug": "fractal-analytics",
+  "metadata": {
+    "location": "Bengaluru",
+    "role_title": "Senior Data Scientist - Generative AI / AI Engineer - LLMOps (2-5 yrs)",
+    "salary_range_lpa": "18-32 LPA",
+    "funding_stage": "",
+    "recent_signal": "",
+    "match_reason": "Fortune 500 AI partner with public GenAI/LLM offerings (LLM Studio on NVIDIA, Kyron AI); active GenAI Data Scientist + AI Engineer LLMOps roles in Bengaluru; Python/PyTorch/LLM/RAG/AWS stack.",
+    "company_url": "https://fractal.ai",
+    "careers_page": "https://fractal.wd1.myworkdayjobs.com/Careers",
+    "linkedin_company_page": "https://in.linkedin.com/company/fractal-analytics",
+    "contact_page": "HiringsupportIndia@fractal.ai",
+    "job_url": "https://fractal.wd1.myworkdayjobs.com/en-US/Careers/job/Bengaluru/Lead-Gen-AI-Data-Scientist---GenAI_SR-27602",
+    "hiring_status": "actively hiring",
+    "priority_score": 96,
+    "cold_outreach_angle": "",
+    "notes": "57+ India roles on Workday;  ~66 open per Glassdoor; multiple Bengaluru GenAI/LLM postings.",
+    "_source_csv": "company_data_1.csv"
+  },
+  "research_status": "not_started",
+  "research_summary": "",
+  "jd_full_text": "",
+  "resume_latex_path": "./resume.tex",
+  "resume_pdf_path": "./resume.pdf",
+  "tailoring_notes": "",
+  "contacts": [
+    {
+      "contact_name": "",
+      "contact_role": "",
+      "tier": "",
+      "to": "",
+      "cc": [],
+      "linkedin": "",
+      "research_hook": "",
+      "subject": "",
+      "content": "",
+      "date_sent": "",
+      "follow_up_1_subject": "",
+      "follow_up_1_content": "",
+      "follow_up_1_date": "",
+      "follow_up_2_subject": "",
+      "follow_up_2_content": "",
+      "follow_up_2_date": "",
+      "status": "queued",
+      "response_notes": ""
+    }
+  ]
+}

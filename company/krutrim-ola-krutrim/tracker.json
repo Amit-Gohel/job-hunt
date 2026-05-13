@@ -1,0 +1,50 @@
+{
+  "company_name": "Krutrim (Ola Krutrim)",
+  "slug": "krutrim-ola-krutrim",
+  "metadata": {
+    "location": "Bengaluru",
+    "role_title": "AI Research Engineer - Generative AI Foundation Models / MLOps Engineer",
+    "salary_range_lpa": "25-45 LPA",
+    "funding_stage": "",
+    "recent_signal": "",
+    "match_reason": "India's first AI unicorn  building full-stack foundation models (Krutrim-2  LLM, Chitrarth VLM, Dhwani SLM);  strong match for Amit's PyTorch + LLM fine-tuning + production AI.",
+    "company_url": "https://www.olakrutrim.com",
+    "careers_page": "https://in.linkedin.com/jobs/krutrim-jobs-worldwide",
+    "linkedin_company_page": "https://www.linkedin.com/company/krutrim/",
+    "contact_page": "https://www.olakrutrim.com/",
+    "job_url": "https://in.linkedin.com/jobs/view/ai-research-engineer-generative-ai-foundation-models-india-at-krutrim-3836074092",
+    "hiring_status": "actively hiring",
+    "priority_score": 89,
+    "cold_outreach_angle": "",
+    "notes": "INR 2,000 Cr investment committed.  Stack: PyTorch, CUDA, KubeFlow, MosaicML, LLaMA2 fine-tuning. Some senior exits in 2025.",
+    "_source_csv": "company_data_1.csv"
+  },
+  "research_status": "not_started",
+  "research_summary": "",
+  "jd_full_text": "",
+  "resume_latex_path": "./resume.tex",
+  "resume_pdf_path": "./resume.pdf",
+  "tailoring_notes": "",
+  "contacts": [
+    {
+      "contact_name": "",
+      "contact_role": "",
+      "tier": "",
+      "to": "",
+      "cc": [],
+      "linkedin": "",
+      "research_hook": "",
+      "subject": "",
+      "content": "",
+      "date_sent": "",
+      "follow_up_1_subject": "",
+      "follow_up_1_content": "",
+      "follow_up_1_date": "",
+      "follow_up_2_subject": "",
+      "follow_up_2_content": "",
+      "follow_up_2_date": "",
+      "status": "queued",
+      "response_notes": ""
+    }
+  ]
+}

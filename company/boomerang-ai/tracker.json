@@ -1,0 +1,50 @@
+{
+  "company_name": "Boomerang AI",
+  "slug": "boomerang-ai",
+  "metadata": {
+    "location": "Bengaluru (verify)",
+    "role_title": "AI Engineer / Backend (Relationship Intelligence)",
+    "salary_range_lpa": "22-38",
+    "funding_stage": "Seed",
+    "recent_signal": "Founder Shankar Ganapathy (ex-Mindtickle/BuyerAssist) rebranded BuyerAssist → Boomerang AI; Stellaris portfolio",
+    "match_reason": "Relationship graph + job-change detection over CRM  = vector embeddings + RAG over engagement history",
+    "company_url": "https://www.getboomerang.ai/",
+    "careers_page": "https://www.getboomerang.ai",
+    "linkedin_company_page": "https://www.linkedin.com/company/boomerang-ai",
+    "contact_page": "Founder Shankar Ganapathy via LinkedIn",
+    "job_url": "https://www.linkedin.com/company/boomerang-ai",
+    "hiring_status": "outreach target",
+    "priority_score": 72,
+    "cold_outreach_angle": "'Pitch yourself for the embedding/vector-search work over relationship graphs. Smaller team = high impact.'",
+    "notes": "Founders Shankar Ganapathy, Amit Dugar, Shyam HN; verify Bengaluru eng concentration before outreach",
+    "_source_csv": "company_data_2.csv"
+  },
+  "research_status": "not_started",
+  "research_summary": "",
+  "jd_full_text": "",
+  "resume_latex_path": "./resume.tex",
+  "resume_pdf_path": "./resume.pdf",
+  "tailoring_notes": "",
+  "contacts": [
+    {
+      "contact_name": "",
+      "contact_role": "",
+      "tier": "",
+      "to": "",
+      "cc": [],
+      "linkedin": "",
+      "research_hook": "",
+      "subject": "",
+      "content": "",
+      "date_sent": "",
+      "follow_up_1_subject": "",
+      "follow_up_1_content": "",
+      "follow_up_1_date": "",
+      "follow_up_2_subject": "",
+      "follow_up_2_content": "",
+      "follow_up_2_date": "",
+      "status": "queued",
+      "response_notes": ""
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "company_name": "Tata Elxsi",
+  "slug": "tata-elxsi",
+  "metadata": {
+    "location": "Bengaluru",
+    "role_title": "Senior AI Engineer / ML & GenAI Expert (3-6 yrs)",
+    "salary_range_lpa": "16-26 LPA",
+    "funding_stage": "",
+    "recent_signal": "",
+    "match_reason": "'ML/AI & GenAI Expert' JD requires Python+PyTorch+HuggingFace+LangChain+Vertex AI+CI/CD+Docker — direct match.",
+    "company_url": "https://www.tataelxsi.com",
+    "careers_page": "https://www.tataelxsi.com/careers",
+    "linkedin_company_page": "https://www.linkedin.com/company/tataelxsi",
+    "contact_page": "https://www.tataelxsi.com/contact-us",
+    "job_url": "https://www.tataelxsi.com/careers/job-openings/mlai-genai-expert",
+    "hiring_status": "actively hiring",
+    "priority_score": 68,
+    "cold_outreach_angle": "",
+    "notes": "Larger design/engineering firm — AI growing practice, not core.",
+    "_source_csv": "company_data_1.csv"
+  },
+  "research_status": "not_started",
+  "research_summary": "",
+  "jd_full_text": "",
+  "resume_latex_path": "./resume.tex",
+  "resume_pdf_path": "./resume.pdf",
+  "tailoring_notes": "",
+  "contacts": [
+    {
+      "contact_name": "",
+      "contact_role": "",
+      "tier": "",
+      "to": "",
+      "cc": [],
+      "linkedin": "",
+      "research_hook": "",
+      "subject": "",
+      "content": "",
+      "date_sent": "",
+      "follow_up_1_subject": "",
+      "follow_up_1_content": "",
+      "follow_up_1_date": "",
+      "follow_up_2_subject": "",
+      "follow_up_2_content": "",
+      "follow_up_2_date": "",
+      "status": "queued",
+      "response_notes": ""
+    }
+  ]
+}

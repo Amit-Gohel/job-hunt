@@ -1,0 +1,50 @@
+{
+  "company_name": "EXL Service (Analytics/AI)",
+  "slug": "exl-service-analytics-ai",
+  "metadata": {
+    "location": "Gurgaon",
+    "role_title": "Data Scientist with GenAI / AI Engineer (Python, ML, LLMs)",
+    "salary_range_lpa": "16-26 LPA",
+    "funding_stage": "",
+    "recent_signal": "",
+    "match_reason": "1,500+ data scientists globally; 'Data Scientist with GenAI' postings in Gurgaon and Bengaluru; AI/analytics-led digital ops.",
+    "company_url": "https://www.exlservice.com",
+    "careers_page": "https://www.exlservice.com/careers",
+    "linkedin_company_page": "https://www.linkedin.com/company/exl-service",
+    "contact_page": "https://www.exlservice.com/contact-us",
+    "job_url": "https://fa-ewjt-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/jobs?location=India",
+    "hiring_status": "actively hiring",
+    "priority_score": 65,
+    "cold_outreach_angle": "",
+    "notes": "Large BPM-leaning firm — closer to TCS/Infosys profile but explicit DS arm.",
+    "_source_csv": "company_data_1.csv"
+  },
+  "research_status": "not_started",
+  "research_summary": "",
+  "jd_full_text": "",
+  "resume_latex_path": "./resume.tex",
+  "resume_pdf_path": "./resume.pdf",
+  "tailoring_notes": "",
+  "contacts": [
+    {
+      "contact_name": "",
+      "contact_role": "",
+      "tier": "",
+      "to": "",
+      "cc": [],
+      "linkedin": "",
+      "research_hook": "",
+      "subject": "",
+      "content": "",
+      "date_sent": "",
+      "follow_up_1_subject": "",
+      "follow_up_1_content": "",
+      "follow_up_1_date": "",
+      "follow_up_2_subject": "",
+      "follow_up_2_content": "",
+      "follow_up_2_date": "",
+      "status": "queued",
+      "response_notes": ""
+    }
+  ]
+}

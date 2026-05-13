@@ -1,0 +1,50 @@
+{
+  "company_name": "TrueFoundry",
+  "slug": "truefoundry",
+  "metadata": {
+    "location": "Bengaluru",
+    "role_title": "ML/AI Platform Engineer (2-4 yrs)",
+    "salary_range_lpa": "28-48 LPA",
+    "funding_stage": "",
+    "recent_signal": "",
+    "match_reason": "LLM Gateway + Agentic Deployment platform;  Sequoia-backed; serves Resmed, Siemens Healthineers, Nvidia, Zscaler; processes 10B+ requests/mo;  Python/FastAPI/Kubernetes engineers.",
+    "company_url": "https://www.truefoundry.com",
+    "careers_page": "https://www.truefoundry.com/careers",
+    "linkedin_company_page": "https://in.linkedin.com/company/truefoundry",
+    "contact_page": "https://www.truefoundry.com/about",
+    "job_url": "https://wellfound.com/company/truefoundry/jobs",
+    "hiring_status": "actively hiring",
+    "priority_score": 93,
+    "cold_outreach_angle": "",
+    "notes": "Posted ML Engineer roles ₹35-55L.  LLMOps/RAG playground stack direct match. Co-founders ex-Meta AI infra.",
+    "_source_csv": "company_data_1.csv"
+  },
+  "research_status": "not_started",
+  "research_summary": "",
+  "jd_full_text": "",
+  "resume_latex_path": "./resume.tex",
+  "resume_pdf_path": "./resume.pdf",
+  "tailoring_notes": "",
+  "contacts": [
+    {
+      "contact_name": "",
+      "contact_role": "",
+      "tier": "",
+      "to": "",
+      "cc": [],
+      "linkedin": "",
+      "research_hook": "",
+      "subject": "",
+      "content": "",
+      "date_sent": "",
+      "follow_up_1_subject": "",
+      "follow_up_1_content": "",
+      "follow_up_1_date": "",
+      "follow_up_2_subject": "",
+      "follow_up_2_content": "",
+      "follow_up_2_date": "",
+      "status": "queued",
+      "response_notes": ""
+    }
+  ]
+}

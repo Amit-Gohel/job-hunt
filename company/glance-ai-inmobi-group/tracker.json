@@ -1,0 +1,50 @@
+{
+  "company_name": "Glance AI (InMobi Group)",
+  "slug": "glance-ai-inmobi-group",
+  "metadata": {
+    "location": "Bengaluru",
+    "role_title": "Staff Machine Learning Engineer / MLE II / III - Recommender Systems & GenAI",
+    "salary_range_lpa": "22-38 LPA",
+    "funding_stage": "",
+    "recent_signal": "",
+    "match_reason": "Glance AI is InMobi's $1.2B unicorn building GenAI consumer experiences (agentic shopping);  production ML at hundreds of millions of users, PyTorch/TensorFlow.",
+    "company_url": "https://glance.com",
+    "careers_page": "https://job-boards.greenhouse.io/glance",
+    "linkedin_company_page": "https://in.linkedin.com/company/glancescreen",
+    "contact_page": "https://glance.com/in/about",
+    "job_url": "https://job-boards.greenhouse.io/glance",
+    "hiring_status": "actively hiring",
+    "priority_score": 87,
+    "cold_outreach_angle": "",
+    "notes": "Backed by Jio Platforms, Google, Mithril.  Smart Lock Screen reaches 450M devices.",
+    "_source_csv": "company_data_1.csv"
+  },
+  "research_status": "not_started",
+  "research_summary": "",
+  "jd_full_text": "",
+  "resume_latex_path": "./resume.tex",
+  "resume_pdf_path": "./resume.pdf",
+  "tailoring_notes": "",
+  "contacts": [
+    {
+      "contact_name": "",
+      "contact_role": "",
+      "tier": "",
+      "to": "",
+      "cc": [],
+      "linkedin": "",
+      "research_hook": "",
+      "subject": "",
+      "content": "",
+      "date_sent": "",
+      "follow_up_1_subject": "",
+      "follow_up_1_content": "",
+      "follow_up_1_date": "",
+      "follow_up_2_subject": "",
+      "follow_up_2_content": "",
+      "follow_up_2_date": "",
+      "status": "queued",
+      "response_notes": ""
+    }
+  ]
+}

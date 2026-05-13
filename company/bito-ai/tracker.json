@@ -1,0 +1,50 @@
+{
+  "company_name": "Bito.ai",
+  "slug": "bito-ai",
+  "metadata": {
+    "location": "Pune",
+    "role_title": "AI Engineer - Codegen / RAG (2-4 yrs)",
+    "salary_range_lpa": "22-38 LPA",
+    "funding_stage": "",
+    "recent_signal": "",
+    "match_reason": "Founded by PubMatic founders; AI Code Review Agent + AI Architect knowledge-graph; over 100K developers; SOC2 Type II.",
+    "company_url": "https://bito.ai",
+    "careers_page": "https://bito.ai/careers/",
+    "linkedin_company_page": "https://www.linkedin.com/company/bitodev",
+    "contact_page": "https://bito.ai/about-us/",
+    "job_url": "https://www.naukri.com/bito-technologies-jobs-careers-1685726",
+    "hiring_status": "actively hiring",
+    "priority_score": 65,
+    "cold_outreach_angle": "",
+    "notes": "India team in Pune. Strong RAG + knowledge-graph + AST + embeddings stack.",
+    "_source_csv": "company_data_1.csv"
+  },
+  "research_status": "not_started",
+  "research_summary": "",
+  "jd_full_text": "",
+  "resume_latex_path": "./resume.tex",
+  "resume_pdf_path": "./resume.pdf",
+  "tailoring_notes": "",
+  "contacts": [
+    {
+      "contact_name": "",
+      "contact_role": "",
+      "tier": "",
+      "to": "",
+      "cc": [],
+      "linkedin": "",
+      "research_hook": "",
+      "subject": "",
+      "content": "",
+      "date_sent": "",
+      "follow_up_1_subject": "",
+      "follow_up_1_content": "",
+      "follow_up_1_date": "",
+      "follow_up_2_subject": "",
+      "follow_up_2_content": "",
+      "follow_up_2_date": "",
+      "status": "queued",
+      "response_notes": ""
+    }
+  ]
+}

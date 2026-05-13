@@ -1,0 +1,50 @@
+{
+  "company_name": "Anyscale (India)",
+  "slug": "anyscale-india",
+  "metadata": {
+    "location": "Bengaluru",
+    "role_title": "SWE - Ray Serve / Infra / Customer Eng",
+    "salary_range_lpa": "30-60",
+    "funding_stage": "Series C ($250M+; a16z, NEA, Addition)",
+    "recent_signal": "Multiple Bengaluru SWE roles 2025; Sagar Sumit hosting Ray meetups; CUBEd Award 2026 win",
+    "match_reason": "Ray Serve = production multi-model orchestration backbone; team led by Harshil Vyas + Sagar Sumit",
+    "company_url": "https://www.anyscale.com/",
+    "careers_page": "https://www.anyscale.com/careers",
+    "linkedin_company_page": "https://www.linkedin.com/company/anyscale",
+    "contact_page": "https://www.anyscale.com/contact",
+    "job_url": "https://builtin.com/job/software-engineer-ray-serve/9248004",
+    "hiring_status": "actively hiring",
+    "priority_score": 87,
+    "cold_outreach_angle": "'Lead with multi-model orchestration (GPT-4o, Gemini, Qwen, Llama) and LLM serving — Ray Serve is literally the production-serving framework  for that pattern.'",
+    "notes": "5+ Bengaluru roles via Built In + LinkedIn",
+    "_source_csv": "company_data_2.csv"
+  },
+  "research_status": "not_started",
+  "research_summary": "",
+  "jd_full_text": "",
+  "resume_latex_path": "./resume.tex",
+  "resume_pdf_path": "./resume.pdf",
+  "tailoring_notes": "",
+  "contacts": [
+    {
+      "contact_name": "",
+      "contact_role": "",
+      "tier": "",
+      "to": "",
+      "cc": [],
+      "linkedin": "",
+      "research_hook": "",
+      "subject": "",
+      "content": "",
+      "date_sent": "",
+      "follow_up_1_subject": "",
+      "follow_up_1_content": "",
+      "follow_up_1_date": "",
+      "follow_up_2_subject": "",
+      "follow_up_2_content": "",
+      "follow_up_2_date": "",
+      "status": "queued",
+      "response_notes": ""
+    }
+  ]
+}

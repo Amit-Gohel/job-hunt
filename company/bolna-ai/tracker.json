@@ -1,0 +1,50 @@
+{
+  "company_name": "Bolna AI",
+  "slug": "bolna-ai",
+  "metadata": {
+    "location": "Bengaluru",
+    "role_title": "AI/Backend Engineer, Voice Infra (1-3 yrs)",
+    "salary_range_lpa": "22-40 LPA",
+    "funding_stage": "",
+    "recent_signal": "",
+    "match_reason": "YC F25 batch; Voice AI Orchestration for Indian enterprises  (multilingual STT+LLM+TTS).  Founded 2024-25. Strong early-career upside.",
+    "company_url": "https://www.bolna.ai",
+    "careers_page": "https://www.workatastartup.com/companies/bolna-ai",
+    "linkedin_company_page": "https://www.linkedin.com/company/bolna-ai",
+    "contact_page": "via YC page",
+    "job_url": "https://www.workatastartup.com/companies/bolna-ai",
+    "hiring_status": "actively hiring",
+    "priority_score": 87,
+    "cold_outreach_angle": "",
+    "notes": "Newest YC-Indian voice AI; small team — 1-3 yrs is sweet spot.",
+    "_source_csv": "company_data_1.csv"
+  },
+  "research_status": "not_started",
+  "research_summary": "",
+  "jd_full_text": "",
+  "resume_latex_path": "./resume.tex",
+  "resume_pdf_path": "./resume.pdf",
+  "tailoring_notes": "",
+  "contacts": [
+    {
+      "contact_name": "",
+      "contact_role": "",
+      "tier": "",
+      "to": "",
+      "cc": [],
+      "linkedin": "",
+      "research_hook": "",
+      "subject": "",
+      "content": "",
+      "date_sent": "",
+      "follow_up_1_subject": "",
+      "follow_up_1_content": "",
+      "follow_up_1_date": "",
+      "follow_up_2_subject": "",
+      "follow_up_2_content": "",
+      "follow_up_2_date": "",
+      "status": "queued",
+      "response_notes": ""
+    }
+  ]
+}

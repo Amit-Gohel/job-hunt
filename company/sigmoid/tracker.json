@@ -1,0 +1,50 @@
+{
+  "company_name": "Sigmoid",
+  "slug": "sigmoid",
+  "metadata": {
+    "location": "Bengaluru",
+    "role_title": "ML Engineer / GenAI Engineer (2-5 yrs)",
+    "salary_range_lpa": "18-28 LPA",
+    "funding_stage": "",
+    "recent_signal": "",
+    "match_reason": "Peak XV (Sequoia) backed; explicit GenAI + DataOps + LLM practice; Bengaluru is global hub;  uses Python + AWS + vector DBs.",
+    "company_url": "https://www.sigmoid.com",
+    "careers_page": "https://www.sigmoid.com/careers/current-openings/",
+    "linkedin_company_page": "https://in.linkedin.com/company/sigmoid-analytics",
+    "contact_page": "https://www.sigmoid.com/contact-us/",
+    "job_url": "https://job-boards.greenhouse.io/sigmoid",
+    "hiring_status": "actively hiring",
+    "priority_score": 85,
+    "cold_outreach_angle": "",
+    "notes": "19 open positions  on Greenhouse; named Leader ISG Specialty Analytics 2024.",
+    "_source_csv": "company_data_1.csv"
+  },
+  "research_status": "not_started",
+  "research_summary": "",
+  "jd_full_text": "",
+  "resume_latex_path": "./resume.tex",
+  "resume_pdf_path": "./resume.pdf",
+  "tailoring_notes": "",
+  "contacts": [
+    {
+      "contact_name": "",
+      "contact_role": "",
+      "tier": "",
+      "to": "",
+      "cc": [],
+      "linkedin": "",
+      "research_hook": "",
+      "subject": "",
+      "content": "",
+      "date_sent": "",
+      "follow_up_1_subject": "",
+      "follow_up_1_content": "",
+      "follow_up_1_date": "",
+      "follow_up_2_subject": "",
+      "follow_up_2_content": "",
+      "follow_up_2_date": "",
+      "status": "queued",
+      "response_notes": ""
+    }
+  ]
+}

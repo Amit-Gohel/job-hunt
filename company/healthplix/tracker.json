@@ -1,0 +1,50 @@
+{
+  "company_name": "HealthPlix",
+  "slug": "healthplix",
+  "metadata": {
+    "location": "Bengaluru",
+    "role_title": "ML Engineer / Data Scientist (Clinical Decision Support)",
+    "salary_range_lpa": "18-30",
+    "funding_stage": "Series B ($23.5M+; Lightspeed, JSW, Kalaari, Chiratae, Avataar, SIG)",
+    "recent_signal": "ISO 27001:2022 certified; 12K+ doctors, 30M+ patients, 370+ cities",
+    "match_reason": "AI-powered EMR (clinical decision support, ML-driven Rx) across 16 specialties — doc-AI + structured clinical text",
+    "company_url": "https://www.healthplix.com/",
+    "careers_page": "https://healthplix.pro/careers-page/",
+    "linkedin_company_page": "https://in.linkedin.com/company/healthplixtech",
+    "contact_page": "https://www.healthplix.com/overview-healthplix",
+    "job_url": "https://healthplix.pro/careers-page/",
+    "hiring_status": "likely hiring",
+    "priority_score": 78,
+    "cold_outreach_angle": "'Building clinical decision support over EMR text is exactly where my doc-AI + RAG (Milvus/Qdrant, multi-model GPT-4o/Gemini) shines — 50K q/mo in prod today.'",
+    "notes": "Founders Sandeep Gudibanda, Prasad Basavaraj, Raghuraj Sunder Raju",
+    "_source_csv": "company_data_2.csv"
+  },
+  "research_status": "not_started",
+  "research_summary": "",
+  "jd_full_text": "",
+  "resume_latex_path": "./resume.tex",
+  "resume_pdf_path": "./resume.pdf",
+  "tailoring_notes": "",
+  "contacts": [
+    {
+      "contact_name": "",
+      "contact_role": "",
+      "tier": "",
+      "to": "",
+      "cc": [],
+      "linkedin": "",
+      "research_hook": "",
+      "subject": "",
+      "content": "",
+      "date_sent": "",
+      "follow_up_1_subject": "",
+      "follow_up_1_content": "",
+      "follow_up_1_date": "",
+      "follow_up_2_subject": "",
+      "follow_up_2_content": "",
+      "follow_up_2_date": "",
+      "status": "queued",
+      "response_notes": ""
+    }
+  ]
+}

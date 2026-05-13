@@ -1,0 +1,50 @@
+{
+  "company_name": "Bluecopa",
+  "slug": "bluecopa",
+  "metadata": {
+    "location": "Hyderabad (Madhapur)",
+    "role_title": "AI Platform / Backend Engineer (Python, AI Infra)",
+    "salary_range_lpa": "24-42",
+    "funding_stage": "Series A ($11.6M total; $7.5M Jan 2026)",
+    "recent_signal": "$7.5M Series A Jan 2026 (Analog Partners); 5x rev / 3x customer growth 2025; building 'Samyx AI' foundation models for finance",
+    "match_reason": "Building  specialized foundation models for finance + AI-native autonomous finance ops = multi-model + doc-AI/OCR",
+    "company_url": "https://www.bluecopa.com",
+    "careers_page": "https://www.linkedin.com/company/bluecopa",
+    "linkedin_company_page": "https://www.linkedin.com/company/bluecopa",
+    "contact_page": "Founders via LinkedIn",
+    "job_url": "https://www.linkedin.com/company/bluecopa",
+    "hiring_status": "actively hiring",
+    "priority_score": 87,
+    "cold_outreach_angle": "'Just-closed Series A + plan to build foundation models = you need AI engineers now. Pitch doc-AI/OCR pipeline experience — your use case is parsing reconciliations/payables/AR from ERPs.'",
+    "notes": "Founders Satya Prakash Buddhavarapu, Raghavendra Reddy, Nilotpal Chanda; 90 employees; Blume+Analog+Dallas VC",
+    "_source_csv": "company_data_2.csv"
+  },
+  "research_status": "not_started",
+  "research_summary": "",
+  "jd_full_text": "",
+  "resume_latex_path": "./resume.tex",
+  "resume_pdf_path": "./resume.pdf",
+  "tailoring_notes": "",
+  "contacts": [
+    {
+      "contact_name": "",
+      "contact_role": "",
+      "tier": "",
+      "to": "",
+      "cc": [],
+      "linkedin": "",
+      "research_hook": "",
+      "subject": "",
+      "content": "",
+      "date_sent": "",
+      "follow_up_1_subject": "",
+      "follow_up_1_content": "",
+      "follow_up_1_date": "",
+      "follow_up_2_subject": "",
+      "follow_up_2_content": "",
+      "follow_up_2_date": "",
+      "status": "queued",
+      "response_notes": ""
+    }
+  ]
+}

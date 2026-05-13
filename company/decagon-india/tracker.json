@@ -1,0 +1,50 @@
+{
+  "company_name": "Decagon (India)",
+  "slug": "decagon-india",
+  "metadata": {
+    "location": "Bengaluru",
+    "role_title": "Agent Software Engineer",
+    "salary_range_lpa": "30-65",
+    "funding_stage": "Series C ($231M 2025; ~$1.5B val; a16z, Accel, BOND, Bain)",
+    "recent_signal": "Bengaluru SWE roles on Levels.fyi 1-3 months ago; rapidly expanding India eng team 2025",
+    "match_reason": "Conversational AI agents for support across chat/email/voice = agentic + multi-LLM stack",
+    "company_url": "https://decagon.ai/",
+    "careers_page": "https://decagon.ai/careers",
+    "linkedin_company_page": "https://www.linkedin.com/company/decagon-ai",
+    "contact_page": "https://decagon.ai/contact",
+    "job_url": "https://www.levels.fyi/jobs?jobId=85041055849685702",
+    "hiring_status": "actively hiring",
+    "priority_score": 83,
+    "cold_outreach_angle": "'Frame 50K+ q/mo RAG production as direct experience deploying agents at customer-support scale.'",
+    "notes": "Customers Notion, Eventbrite, Bilt, Duolingo",
+    "_source_csv": "company_data_2.csv"
+  },
+  "research_status": "not_started",
+  "research_summary": "",
+  "jd_full_text": "",
+  "resume_latex_path": "./resume.tex",
+  "resume_pdf_path": "./resume.pdf",
+  "tailoring_notes": "",
+  "contacts": [
+    {
+      "contact_name": "",
+      "contact_role": "",
+      "tier": "",
+      "to": "",
+      "cc": [],
+      "linkedin": "",
+      "research_hook": "",
+      "subject": "",
+      "content": "",
+      "date_sent": "",
+      "follow_up_1_subject": "",
+      "follow_up_1_content": "",
+      "follow_up_1_date": "",
+      "follow_up_2_subject": "",
+      "follow_up_2_content": "",
+      "follow_up_2_date": "",
+      "status": "queued",
+      "response_notes": ""
+    }
+  ]
+}

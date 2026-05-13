@@ -1,0 +1,50 @@
+{
+  "company_name": "Tessell",
+  "slug": "tessell",
+  "metadata": {
+    "location": "Bengaluru (78/9 ORR)",
+    "role_title": "Software Engineer / Cloud DB Engineer (vector + AI)",
+    "salary_range_lpa": "20-40",
+    "funding_stage": "Series B ($60M Apr 2025, WestBridge + Lightspeed; $94M total)",
+    "recent_signal": "2025 Gartner Cool Vendor; building 'Tessell for Milvus' + conversational data management (CoDaM)",
+    "match_reason": "Multi-cloud DBaaS with vector extensions, pgvector, Milvus support — direct Milvus/Qdrant/FAISS match",
+    "company_url": "https://www.tessell.com/",
+    "careers_page": "https://www.tessell.com/careers",
+    "linkedin_company_page": "https://www.linkedin.com/company/tessell-inc",
+    "contact_page": "https://www.tessell.com/about-us",
+    "job_url": "https://www.tessell.com/careers/jobs",
+    "hiring_status": "actively hiring",
+    "priority_score": 88,
+    "cold_outreach_angle": "'Lead with vector DB at production scale (Milvus/Qdrant + 50K q/mo); Tessell for Milvus is literally a product line.'",
+    "notes": "Founder Bala Kuchibhotla (ex-Nutanix); 143 headcount;  explicitly hiring post-Series B",
+    "_source_csv": "company_data_2.csv"
+  },
+  "research_status": "not_started",
+  "research_summary": "",
+  "jd_full_text": "",
+  "resume_latex_path": "./resume.tex",
+  "resume_pdf_path": "./resume.pdf",
+  "tailoring_notes": "",
+  "contacts": [
+    {
+      "contact_name": "",
+      "contact_role": "",
+      "tier": "",
+      "to": "",
+      "cc": [],
+      "linkedin": "",
+      "research_hook": "",
+      "subject": "",
+      "content": "",
+      "date_sent": "",
+      "follow_up_1_subject": "",
+      "follow_up_1_content": "",
+      "follow_up_1_date": "",
+      "follow_up_2_subject": "",
+      "follow_up_2_content": "",
+      "follow_up_2_date": "",
+      "status": "queued",
+      "response_notes": ""
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "company_name": "Tricog Health",
+  "slug": "tricog-health",
+  "metadata": {
+    "location": "Bengaluru (Vyalikaval)",
+    "role_title": "ML/AI Engineer - Computational Medicine",
+    "salary_range_lpa": "18-30",
+    "funding_stage": "Series B ($30M, 8 rounds; Sony Innovation, UTEC, Amnyk)",
+    "recent_signal": "10M+ patients screened, 4L+ lives saved; dedicated Computational Medicine Division for AI on ECG/Echo",
+    "match_reason": "Medical-grade AI on ECG/Echo signals across 14+ countries; AI flywheel + eval",
+    "company_url": "https://tricog.com/",
+    "careers_page": "https://tricog.com/careers/",
+    "linkedin_company_page": "https://in.linkedin.com/company/tricog-health",
+    "contact_page": "https://tricog.com/about-us/",
+    "job_url": "https://tricog.com/careers/",
+    "hiring_status": "likely hiring",
+    "priority_score": 82,
+    "cold_outreach_angle": "'Your Computational Medicine Division on ECG signals fascinates me — I ship multi-model orchestration in prod and would plug into your AI eval / human-in-loop loop.'",
+    "notes": "Founders Dr. Charit Bhograj, Dr. Zainul Charbiwala, Dr. Udayan Dasgupta, Abhinav Gujjar",
+    "_source_csv": "company_data_2.csv"
+  },
+  "research_status": "not_started",
+  "research_summary": "",
+  "jd_full_text": "",
+  "resume_latex_path": "./resume.tex",
+  "resume_pdf_path": "./resume.pdf",
+  "tailoring_notes": "",
+  "contacts": [
+    {
+      "contact_name": "",
+      "contact_role": "",
+      "tier": "",
+      "to": "",
+      "cc": [],
+      "linkedin": "",
+      "research_hook": "",
+      "subject": "",
+      "content": "",
+      "date_sent": "",
+      "follow_up_1_subject": "",
+      "follow_up_1_content": "",
+      "follow_up_1_date": "",
+      "follow_up_2_subject": "",
+      "follow_up_2_content": "",
+      "follow_up_2_date": "",
+      "status": "queued",
+      "response_notes": ""
+    }
+  ]
+}

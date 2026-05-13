@@ -1,0 +1,50 @@
+{
+  "company_name": "Sarvam AI",
+  "slug": "sarvam-ai",
+  "metadata": {
+    "location": "Bengaluru",
+    "role_title": "Forward Deployed Engineer - RAG and ML Specialist / Backend Engineer (FastAPI)",
+    "salary_range_lpa": "25-45 LPA (estimated)",
+    "funding_stage": "",
+    "recent_signal": "",
+    "match_reason": "JD explicitly lists FastAPI, LangChain, LlamaIndex, CrewAI, LangGraph, RAG, vector DBs, multi-agent — near-perfect overlap with Amit's RAG/LLM/FastAPI/production AI stack. India's sovereign LLM flagship.",
+    "company_url": "https://www.sarvam.ai",
+    "careers_page": "https://www.sarvam.ai/careers",
+    "linkedin_company_page": "https://www.linkedin.com/company/sarvamai/",
+    "contact_page": "careers@sarvam.ai",
+    "job_url": "https://careers.kula.ai/sarvam-ai/2964",
+    "hiring_status": "actively hiring",
+    "priority_score": 98,
+    "cold_outreach_angle": "",
+    "notes": "Govt-selected for India sovereign LLM;  $53M Series A (Lightspeed/Peak XV/Khosla).  24+ open roles.  Cold email: lead with production RAG deployments + FastAPI at scale + multilingual interest.",
+    "_source_csv": "company_data_1.csv"
+  },
+  "research_status": "not_started",
+  "research_summary": "",
+  "jd_full_text": "",
+  "resume_latex_path": "./resume.tex",
+  "resume_pdf_path": "./resume.pdf",
+  "tailoring_notes": "",
+  "contacts": [
+    {
+      "contact_name": "",
+      "contact_role": "",
+      "tier": "",
+      "to": "",
+      "cc": [],
+      "linkedin": "",
+      "research_hook": "",
+      "subject": "",
+      "content": "",
+      "date_sent": "",
+      "follow_up_1_subject": "",
+      "follow_up_1_content": "",
+      "follow_up_1_date": "",
+      "follow_up_2_subject": "",
+      "follow_up_2_content": "",
+      "follow_up_2_date": "",
+      "status": "queued",
+      "response_notes": ""
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "company_name": "Razorpay",
+  "slug": "razorpay",
+  "metadata": {
+    "location": "Bengaluru",
+    "role_title": "Machine Learning Engineer",
+    "salary_range_lpa": "22-30 LPA",
+    "funding_stage": "",
+    "recent_signal": "",
+    "match_reason": "Active MLE roles for fraud, NLP address disambiguation, computer vision auto-verifications (KYC docs), recommendation  — direct OCR/NLP/production-AI overlap.",
+    "company_url": "https://razorpay.com",
+    "careers_page": "https://razorpay.com/jobs/",
+    "linkedin_company_page": "https://in.linkedin.com/company/razorpay",
+    "contact_page": "https://razorpay.com/contact/",
+    "job_url": "https://builtin.com/job/ml-engineer/3983869",
+    "hiring_status": "actively hiring",
+    "priority_score": 91,
+    "cold_outreach_angle": "",
+    "notes": "Weekday data shows AI/ML role at ~₹33L for 5 yrs;  for 2+ yrs expect 22-30 LPA fixed.",
+    "_source_csv": "company_data_1.csv"
+  },
+  "research_status": "not_started",
+  "research_summary": "",
+  "jd_full_text": "",
+  "resume_latex_path": "./resume.tex",
+  "resume_pdf_path": "./resume.pdf",
+  "tailoring_notes": "",
+  "contacts": [
+    {
+      "contact_name": "",
+      "contact_role": "",
+      "tier": "",
+      "to": "",
+      "cc": [],
+      "linkedin": "",
+      "research_hook": "",
+      "subject": "",
+      "content": "",
+      "date_sent": "",
+      "follow_up_1_subject": "",
+      "follow_up_1_content": "",
+      "follow_up_1_date": "",
+      "follow_up_2_subject": "",
+      "follow_up_2_content": "",
+      "follow_up_2_date": "",
+      "status": "queued",
+      "response_notes": ""
+    }
+  ]
+}

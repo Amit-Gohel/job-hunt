@@ -1,0 +1,50 @@
+{
+  "company_name": "Junglee Games (Flutter)",
+  "slug": "junglee-games-flutter",
+  "metadata": {
+    "location": "Gurgaon",
+    "role_title": "ML Engineer III",
+    "salary_range_lpa": "20-34 LPA",
+    "funding_stage": "",
+    "recent_signal": "",
+    "match_reason": "Flutter parent;  ML Engineer III JR137019 open in Gurgaon + Bengaluru; Classical ML + DL + Transformer; Databricks/MLflow/Model Serving.",
+    "company_url": "https://www.jungleegames.com",
+    "careers_page": "https://www.jungleegames.com/careers",
+    "linkedin_company_page": "https://www.linkedin.com/company/junglee-games",
+    "contact_page": "https://www.jungleegames.com/contact-us",
+    "job_url": "https://careers.flutterinternational.com/jobs/jr137019/ml-engineer-iii",
+    "hiring_status": "actively hiring",
+    "priority_score": 68,
+    "cold_outreach_angle": "",
+    "notes": "Strong Databricks + Transformer stack; Flutter Entertainment $30B+ parent.",
+    "_source_csv": "company_data_1.csv"
+  },
+  "research_status": "not_started",
+  "research_summary": "",
+  "jd_full_text": "",
+  "resume_latex_path": "./resume.tex",
+  "resume_pdf_path": "./resume.pdf",
+  "tailoring_notes": "",
+  "contacts": [
+    {
+      "contact_name": "",
+      "contact_role": "",
+      "tier": "",
+      "to": "",
+      "cc": [],
+      "linkedin": "",
+      "research_hook": "",
+      "subject": "",
+      "content": "",
+      "date_sent": "",
+      "follow_up_1_subject": "",
+      "follow_up_1_content": "",
+      "follow_up_1_date": "",
+      "follow_up_2_subject": "",
+      "follow_up_2_content": "",
+      "follow_up_2_date": "",
+      "status": "queued",
+      "response_notes": ""
+    }
+  ]
+}

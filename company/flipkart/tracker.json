@@ -1,0 +1,50 @@
+{
+  "company_name": "Flipkart",
+  "slug": "flipkart",
+  "metadata": {
+    "location": "Bengaluru",
+    "role_title": "SDE II / SDE III - GenAI / ML Engineer",
+    "salary_range_lpa": "22-38 LPA",
+    "funding_stage": "",
+    "recent_signal": "",
+    "match_reason": "Flagship GenAI assistant Flippi (LLM+RAG+NER+Query Reformulation, arXiv 2507.05788);  explicitly looks for Python + RAG + prompt engineering at SDE II level (1+ yr Python ML libs).",
+    "company_url": "https://www.flipkart.com",
+    "careers_page": "https://www.flipkartcareers.com/",
+    "linkedin_company_page": "https://www.linkedin.com/company/flipkart",
+    "contact_page": "https://www.flipkartcareers.com/#!/joinus/contactus",
+    "job_url": "https://peerlist.io/company/flipkart/careers/software-development-engineer-ii-gen-ai/jobh7bjpjkamq7qpeh66qbggn86ka8",
+    "hiring_status": "actively hiring",
+    "priority_score": 98,
+    "cold_outreach_angle": "",
+    "notes": "Top ML team in Indian e-commerce; Mayur Datar leads.  Multimodal search, seller GenAI,  Triksha security. Strong RAG/LLM cold-email fit.",
+    "_source_csv": "company_data_1.csv"
+  },
+  "research_status": "not_started",
+  "research_summary": "",
+  "jd_full_text": "",
+  "resume_latex_path": "./resume.tex",
+  "resume_pdf_path": "./resume.pdf",
+  "tailoring_notes": "",
+  "contacts": [
+    {
+      "contact_name": "",
+      "contact_role": "",
+      "tier": "",
+      "to": "",
+      "cc": [],
+      "linkedin": "",
+      "research_hook": "",
+      "subject": "",
+      "content": "",
+      "date_sent": "",
+      "follow_up_1_subject": "",
+      "follow_up_1_content": "",
+      "follow_up_1_date": "",
+      "follow_up_2_subject": "",
+      "follow_up_2_content": "",
+      "follow_up_2_date": "",
+      "status": "queued",
+      "response_notes": ""
+    }
+  ]
+}

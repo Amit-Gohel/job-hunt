@@ -1,0 +1,50 @@
+{
+  "company_name": "Postman",
+  "slug": "postman",
+  "metadata": {
+    "location": "Bengaluru",
+    "role_title": "Applied AI Engineer, Postbot (2+ yrs)",
+    "salary_range_lpa": "25-35 LPA",
+    "funding_stage": "",
+    "recent_signal": "",
+    "match_reason": "Postbot is Postman's flagship GenAI assistant; team hires 2-5 yr full-stack engineers for LLM/agentic workflows;  FastAPI/Python/Node stack aligns with Amit's RAG/LLM background.",
+    "company_url": "https://www.postman.com",
+    "careers_page": "https://www.postman.com/company/careers/open-positions/",
+    "linkedin_company_page": "https://www.linkedin.com/company/postman",
+    "contact_page": "https://www.postman.com/company/contact-us/",
+    "job_url": "https://boards.greenhouse.io/postman/jobs/5554642003",
+    "hiring_status": "actively hiring",
+    "priority_score": 98,
+    "cold_outreach_angle": "",
+    "notes": "Bengaluru HQ; 2-5 yr band confirmed on Weekday job board.  Cold email: emphasize Postbot prompt orchestration experience + 50K queries/month production RAG.",
+    "_source_csv": "company_data_1.csv"
+  },
+  "research_status": "not_started",
+  "research_summary": "",
+  "jd_full_text": "",
+  "resume_latex_path": "./resume.tex",
+  "resume_pdf_path": "./resume.pdf",
+  "tailoring_notes": "",
+  "contacts": [
+    {
+      "contact_name": "",
+      "contact_role": "",
+      "tier": "",
+      "to": "",
+      "cc": [],
+      "linkedin": "",
+      "research_hook": "",
+      "subject": "",
+      "content": "",
+      "date_sent": "",
+      "follow_up_1_subject": "",
+      "follow_up_1_content": "",
+      "follow_up_1_date": "",
+      "follow_up_2_subject": "",
+      "follow_up_2_content": "",
+      "follow_up_2_date": "",
+      "status": "queued",
+      "response_notes": ""
+    }
+  ]
+}

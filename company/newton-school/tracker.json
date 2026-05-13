@@ -1,0 +1,50 @@
+{
+  "company_name": "Newton School",
+  "slug": "newton-school",
+  "metadata": {
+    "location": "Bengaluru",
+    "role_title": "Applied AI Engineer (NST)",
+    "salary_range_lpa": "18-32",
+    "funding_stage": "Series B ($30.68M+; A91, Steadview, RTP Global, Nexus)",
+    "recent_signal": "Scaling NST 4-year BTech in CS+AI; Goa Govt partnership; hiring Technical Content - AI Eng Intern",
+    "match_reason": "NST CS+AI degree + AI-IDE + AI mock interviews + AI evaluation = applied AI engineering",
+    "company_url": "https://www.newtonschool.co/",
+    "careers_page": "https://careers.newtonschool.co/",
+    "linkedin_company_page": "https://www.linkedin.com/company/newton-school",
+    "contact_page": "https://www.newtonschool.co/",
+    "job_url": "https://careers.newtonschool.co/newtonschool/jobview/technical-content-ai-engineering-intern-bengaluru-karnataka-india-2026042114113945",
+    "hiring_status": "actively hiring",
+    "priority_score": 75,
+    "cold_outreach_angle": "'Your AI-IDE + AI mock interviews need solid eval + RAG over learner code/voice — exactly what I've shipped at 95% MRR.'",
+    "notes": "Founders Siddharth Maheshwari (IIT-R), Nishant Chandra (ex-Unacademy);  Hosur Rd",
+    "_source_csv": "company_data_2.csv"
+  },
+  "research_status": "not_started",
+  "research_summary": "",
+  "jd_full_text": "",
+  "resume_latex_path": "./resume.tex",
+  "resume_pdf_path": "./resume.pdf",
+  "tailoring_notes": "",
+  "contacts": [
+    {
+      "contact_name": "",
+      "contact_role": "",
+      "tier": "",
+      "to": "",
+      "cc": [],
+      "linkedin": "",
+      "research_hook": "",
+      "subject": "",
+      "content": "",
+      "date_sent": "",
+      "follow_up_1_subject": "",
+      "follow_up_1_content": "",
+      "follow_up_1_date": "",
+      "follow_up_2_subject": "",
+      "follow_up_2_content": "",
+      "follow_up_2_date": "",
+      "status": "queued",
+      "response_notes": ""
+    }
+  ]
+}

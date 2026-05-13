@@ -1,0 +1,50 @@
+{
+  "company_name": "Dview",
+  "slug": "dview",
+  "metadata": {
+    "location": "Bengaluru",
+    "role_title": "AI / Backend Data Engineer",
+    "salary_range_lpa": "12-25",
+    "funding_stage": "Seed ($1.3M Nov 2022, Info Edge + Capital 2B)",
+    "recent_signal": "Google for Startups AI First India 2025; 4x rev growth  in Google's GFS 2026 blog; launched DSense AI talk-to-data",
+    "match_reason": "DSense extracts insights from PDF/Excel/centralised data in NL  — OCR/doc AI + RAG + vector search",
+    "company_url": "https://dview.io/",
+    "careers_page": "https://dview.io/",
+    "linkedin_company_page": "https://in.linkedin.com/company/dview-io",
+    "contact_page": "https://dview.io/",
+    "job_url": "https://dview.io/",
+    "hiring_status": "likely hiring",
+    "priority_score": 70,
+    "cold_outreach_angle": "'DSense = the talk-to-your-data layer I've built with Milvus/Qdrant + multi-model routing at 95% MRR. Let's take Dview's RAG accuracy to the next bar.'",
+    "notes": "Founders Kauts Shukla, Supratik Shankar,  Sadé Robinson",
+    "_source_csv": "company_data_2.csv"
+  },
+  "research_status": "not_started",
+  "research_summary": "",
+  "jd_full_text": "",
+  "resume_latex_path": "./resume.tex",
+  "resume_pdf_path": "./resume.pdf",
+  "tailoring_notes": "",
+  "contacts": [
+    {
+      "contact_name": "",
+      "contact_role": "",
+      "tier": "",
+      "to": "",
+      "cc": [],
+      "linkedin": "",
+      "research_hook": "",
+      "subject": "",
+      "content": "",
+      "date_sent": "",
+      "follow_up_1_subject": "",
+      "follow_up_1_content": "",
+      "follow_up_1_date": "",
+      "follow_up_2_subject": "",
+      "follow_up_2_content": "",
+      "follow_up_2_date": "",
+      "status": "queued",
+      "response_notes": ""
+    }
+  ]
+}

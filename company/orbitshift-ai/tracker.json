@@ -1,0 +1,50 @@
+{
+  "company_name": "OrbitShift.AI",
+  "slug": "orbitshift-ai",
+  "metadata": {
+    "location": "Bengaluru + Delhi/Gurgaon",
+    "role_title": "AI Engineer / Backend (FastAPI/Python)",
+    "salary_range_lpa": "22-40",
+    "funding_stage": "Series A ($8.5M total; $7M Oct 2024, Peak XV Surge + Stellaris)",
+    "recent_signal": "51-200  employees;  founder Swapnil Saykar in India's Top 100 Rising Founders 2026;  scaling Bengaluru + Delhi",
+    "match_reason": "Real-time AI for enterprise sales  = RAG over account/intent/financials; multi-model orchestration",
+    "company_url": "https://orbitshift.ai/",
+    "careers_page": "https://wellfound.com/company/orbitshift-ai-1",
+    "linkedin_company_page": "https://www.linkedin.com/company/orbitshift-ai",
+    "contact_page": "Founders via LinkedIn",
+    "job_url": "https://wellfound.com/company/orbitshift-ai-1",
+    "hiring_status": "actively hiring",
+    "priority_score": 82,
+    "cold_outreach_angle": "'Scaling Bengaluru + Delhi simultaneously. Founders ex-Amazon/McKinsey/Stanford respect candidates who quantify RAG quality — 95% MRR is a credible signal.'",
+    "notes": "HQ Delaware;  India ops Bengaluru, Delhi, Gurgaon (WeWork DLF Two Horizon Centre)",
+    "_source_csv": "company_data_2.csv"
+  },
+  "research_status": "not_started",
+  "research_summary": "",
+  "jd_full_text": "",
+  "resume_latex_path": "./resume.tex",
+  "resume_pdf_path": "./resume.pdf",
+  "tailoring_notes": "",
+  "contacts": [
+    {
+      "contact_name": "",
+      "contact_role": "",
+      "tier": "",
+      "to": "",
+      "cc": [],
+      "linkedin": "",
+      "research_hook": "",
+      "subject": "",
+      "content": "",
+      "date_sent": "",
+      "follow_up_1_subject": "",
+      "follow_up_1_content": "",
+      "follow_up_1_date": "",
+      "follow_up_2_subject": "",
+      "follow_up_2_content": "",
+      "follow_up_2_date": "",
+      "status": "queued",
+      "response_notes": ""
+    }
+  ]
+}
