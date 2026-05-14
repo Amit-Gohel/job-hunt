@@ -128,7 +128,7 @@ For each company the user wants to work on:
 4. **Write contacts and emails.** One contact entry per named person:
    - Pick the right template from `templates and ai avoidance.md` based on tier (1/2/3 = engineering-manager template, 2 = founder template, 4 = recruiter template).
    - Personalize: research_hook → subject → opening line → bridge to Amit's specific work → low-friction ask.
-   - **Run every email through the anti-AI vocabulary checklist** in `templates and ai avoidance.md`. Strip every flagged word. One em-dash max. No bullets. Vary opening lines across the campaign.
+   - **Run every email through the anti-AI vocabulary checklist** in `templates and ai avoidance.md`. Strip every flagged word. Zero em-dashes, zero non-ASCII characters (plain ASCII 32-126 only — em-dashes cause `â€"` encoding corruption in send.py on Windows). No bullets. Vary opening lines across the campaign.
    - Plan follow-up #1 (day 3-4, must add new value, not just "bumping") and #2 (day 10, close-the-loop only).
 5. **Space the sends.** Tue-Thu, 8-11 AM or 2-4 PM in the recipient's local time zone. 3-5 days between contacts at the same company. Stop after follow-up #2.
 6. **Run `python3 build_index.py`** after meaningful tracker edits to refresh `companies_index.json` (named_contacts and emails_sent counts).
@@ -155,7 +155,7 @@ Cut every instance in any email or content you generate for Amit:
 
 `delve`, `intricate`, `intricacies`, `pivotal`, `leverage` (as a verb), `robust`, `comprehensive`, `seamlessly`, `harness`, `navigate the landscape`, `journey`, `tapestry`, `testament`, `vibrant`, `underscore`, `showcasing`, `in today's fast-paced world`, `in the realm of`, `it's worth noting that`, `that being said`, `I hope this email finds you well`, `I am writing to express`, `excited to share`, `looking forward to hearing from you`.
 
-Plus: one em-dash max per email (zero is better), no bullet lists in cold emails, no three-part parallel triplets, no "it's not X, it's Y" parallelisms, no curly quotes if other emails use straight quotes, vary sentence length aggressively.
+Plus: zero em-dashes (not "one max" — zero; em-dashes corrupt to `â€"` in SMTP on Windows), zero non-ASCII characters anywhere in email body or subject (plain ASCII 32-126 only), no bullet lists in cold emails, no three-part parallel triplets, no "it's not X, it's Y" parallelisms, no curly/smart quotes, vary sentence length aggressively.
 
 Full guidance + the 5-step pre-send checklist lives in `templates and ai avoidance.md`. Re-read it before every batch.
 

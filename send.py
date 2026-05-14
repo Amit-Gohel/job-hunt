@@ -51,8 +51,10 @@ Setup:
 from __future__ import annotations
 
 import argparse
+import html
 import json
 import os
+import re
 import shutil
 import smtplib
 import ssl
@@ -203,7 +205,7 @@ def discover_sends(
         if not tracker_path.exists():
             continue
         try:
-            data = json.loads(tracker_path.read_text())
+            data = json.loads(tracker_path.read_text(encoding='utf-8'))
         except json.JSONDecodeError as exc:
             skips.append(f"{slug}: tracker.json invalid ({exc})")
             continue
@@ -237,19 +239,30 @@ def discover_sends(
                 else:
                     to_addr = (contact.get("to") or "").strip()  # may be empty
                 cc = [c.strip() for c in (contact.get("cc") or []) if isinstance(c, str) and c.strip()]
-                units.append(SendUnit(
-                    company_slug=slug,
-                    company_name=company_name,
-                    folder=folder,
-                    tracker_path=tracker_path,
-                    contact_index=idx,
-                    contact=contact,
-                    email_type=email_type,
-                    subject=subject.strip(),
-                    body=body,
-                    to_addr=to_addr,
-                    cc=cc,
-                ))
+
+                # Build one SendUnit per address: primary + all permutations
+                all_addresses = [to_addr] if to_addr else []
+                for perm in (contact.get("to_permutations") or []):
+                    perm = perm.strip()
+                    if perm and perm not in all_addresses:
+                        all_addresses.append(perm)
+                if not all_addresses:
+                    all_addresses = [""]  # keep one empty slot for test-mode preview
+
+                for addr in all_addresses:
+                    units.append(SendUnit(
+                        company_slug=slug,
+                        company_name=company_name,
+                        folder=folder,
+                        tracker_path=tracker_path,
+                        contact_index=idx,
+                        contact=contact,
+                        email_type=email_type,
+                        subject=subject.strip(),
+                        body=body,
+                        to_addr=addr,
+                        cc=cc,
+                    ))
     return units, skips
 
 
@@ -267,17 +280,42 @@ def build_message(unit: SendUnit, live_mode: bool, pdf_path: Path | None) -> tup
     else:
         to_addr = TEST_TARGET
         type_tag = {"initial": "INIT", "follow_up_1": "FU1", "follow_up_2": "FU2"}[unit.email_type]
-        subject = f"[TEST {type_tag} -> {recipient_label}] {unit.subject}"
+        addr_label = f" ({unit.to_addr})" if unit.to_addr else ""
+        subject = f"[TEST {type_tag} -> {recipient_label}{addr_label}] {unit.subject}"
         cc = []
 
     msg["To"] = to_addr
     if cc:
         msg["Cc"] = ", ".join(cc)
+    if live_mode:
+        msg["Bcc"] = FROM_EMAIL  # silent copy to sender on every live send
     msg["Subject"] = subject
     msg["Reply-To"] = FROM_EMAIL
     msg["Message-ID"] = make_msgid(domain=FROM_EMAIL.split("@", 1)[1])
 
     msg.set_content(unit.body)
+
+    # HTML alternative — paragraphs wrapped in <p>, URLs made clickable
+    def _to_html(text: str) -> str:
+        paragraphs = text.strip().split("\n\n")
+        parts = []
+        for p in paragraphs:
+            # escape first, then convert newlines to <br> so tags aren't escaped
+            escaped = html.escape(p).replace("\n", "<br>")
+            escaped = re.sub(
+                r'(https?://[^\s<&]+)',
+                r'<a href="\1">\1</a>',
+                escaped,
+            )
+            parts.append(f"<p>{escaped}</p>")
+        body_html = "\n".join(parts)
+        return (
+            '<html><body style="font-family:Arial,sans-serif;font-size:14px;line-height:1.6;color:#1a1a1a">'
+            f"{body_html}"
+            "</body></html>"
+        )
+
+    msg.add_alternative(_to_html(unit.body), subtype="html")
 
     if pdf_path is not None and pdf_path.exists():
         filename = f"Amit_Gohel_Resume_{unit.company_slug}.pdf"
@@ -296,7 +334,7 @@ def build_message(unit: SendUnit, live_mode: bool, pdf_path: Path | None) -> tup
 
 def update_tracker_after_send(unit: SendUnit) -> None:
     """Re-read, mutate, write-back (avoids stomping concurrent edits in this file)."""
-    data = json.loads(unit.tracker_path.read_text())
+    data = json.loads(unit.tracker_path.read_text(encoding='utf-8'))
     contacts = data.get("contacts") or []
     if unit.contact_index >= len(contacts):
         return
@@ -313,7 +351,7 @@ def update_tracker_after_send(unit: SendUnit) -> None:
         # status stays where user manages it
     contacts[unit.contact_index] = contact
     data["contacts"] = contacts
-    unit.tracker_path.write_text(json.dumps(data, indent=2, ensure_ascii=False))
+    unit.tracker_path.write_text(json.dumps(data, indent=2, ensure_ascii=False), encoding='utf-8')
 
 
 # ---------- Main ---------------------------------------------------------
@@ -413,10 +451,15 @@ def main() -> None:
     context = ssl.create_default_context()
     sent = 0
     failed = 0
-    with smtplib.SMTP(SMTP_HOST, SMTP_PORT, timeout=30) as smtp:
-        smtp.starttls(context=context)
-        smtp.login(SMTP_USER, smtp_pass)
 
+    def _connect() -> smtplib.SMTP:
+        s = smtplib.SMTP(SMTP_HOST, SMTP_PORT, timeout=30)
+        s.starttls(context=context)
+        s.login(SMTP_USER, smtp_pass)
+        return s
+
+    smtp = _connect()
+    try:
         for n, u in enumerate(units, 1):
             if args.limit and sent + failed >= args.limit:
                 print(f"Hit --limit={args.limit}, stopping.")
@@ -434,12 +477,33 @@ def main() -> None:
                 smtp.send_message(msg, from_addr=FROM_EMAIL, to_addrs=envelope_to)
                 sent += 1
                 print(f"SENT {label} -> {actual_to}")
-                if live_mode:
+                # Only update tracker status for the primary address (first in list)
+                primary_to = (u.contact.get("to") or "").strip()
+                if live_mode and u.to_addr == primary_to:
                     update_tracker_after_send(u)
-            except (smtplib.SMTPException, OSError, ssl.SSLError) as exc:
-                failed += 1
-                print(f"FAIL {label}: {exc}")
-                continue
+            except (smtplib.SMTPServerDisconnected, smtplib.SMTPException, OSError, ssl.SSLError) as exc:
+                print(f"FAIL {label}: {exc} — reconnecting...")
+                try:
+                    smtp.quit()
+                except Exception:
+                    pass
+                try:
+                    smtp = _connect()
+                    smtp.send_message(msg, from_addr=FROM_EMAIL, to_addrs=envelope_to)
+                    sent += 1
+                    print(f"SENT {label} -> {actual_to} (after reconnect)")
+                    primary_to = (u.contact.get("to") or "").strip()
+                    if live_mode and u.to_addr == primary_to:
+                        update_tracker_after_send(u)
+                except Exception as exc2:
+                    failed += 1
+                    print(f"FAIL {label}: {exc2} (gave up)")
+                    continue
+    finally:
+        try:
+            smtp.quit()
+        except Exception:
+            pass
 
     print(f"\nDone. mode={mode_label} sent={sent} failed={failed}")
 

@@ -133,7 +133,7 @@ Words and phrases LLMs over-use. **Cut every one of these:**
 
 LLMs sprinkle em-dashes everywhere — like this — and humans rarely do in casual email. Use parentheses, commas, or just two sentences.
 
-**Rule:** One em-dash per email is the max. Zero is better.
+**Rule:** Zero em-dashes. Not "max one" — zero. Em-dashes (and any non-ASCII character) cause encoding corruption (`â€"`) when tracker.json is read on Windows, so they also break the send pipeline. Replace every ` — ` with a period, comma, colon, or semicolon. Same applies to curly quotes, en-dashes, ellipsis characters, and any character outside plain ASCII 32-126.
 
 ### Three-part lists everywhere
 

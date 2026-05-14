@@ -1,0 +1,19 @@
+{
+  "permissions": {
+    "allow": [
+      "Read(//c/Users/amitg/.claude/skills/gstack/**)",
+      "Bash(./setup)",
+      "Bash(export PATH=\"$HOME/.bun/bin:$PATH\")",
+      "Bash(python3 *)",
+      "Bash(python3.exe -c \"import json; data=json.load\\(open\\('D:/Projects/job hunting/job-hunt/chunks.json'\\)\\); print\\(type\\(data\\), len\\(data\\) if isinstance\\(data,list\\) else list\\(data.keys\\(\\)\\)[:5]\\)\")",
+      "Bash(py -c \"import json; data=json.load\\(open\\('D:/Projects/job hunting/job-hunt/chunks.json'\\)\\); print\\(type\\(data\\), len\\(data\\) if isinstance\\(data,list\\) else list\\(data.keys\\(\\)\\)[:5]\\)\")",
+      "Bash(py *)",
+      "mcp__claude_ai_Apollo_io__apollo_mixed_people_api_search",
+      "Bash(pdflatex -interaction=nonstopmode -halt-on-error resume.tex)",
+      "Bash(python build_index.py)",
+      "Bash(python send.py --company sarvam-ai)",
+      "Bash(python send.py --company sarvam-ai --type initial)",
+      "Bash(python send.py --company sarvam-ai --type initial --limit 1)"
+    ]
+  }
+}

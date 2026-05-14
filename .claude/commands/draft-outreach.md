@@ -45,7 +45,7 @@ For every contact in `contacts[]` with `contact_name` filled and `status != "app
 ### Vary across the campaign
 
 For every batch of contacts across the company:
-- No two openers start with the same phrase. Mix: "Saw your...", "Came across...", "Quick one —", "Going through... this week and...", "[Mutual connection] mentioned...", "Was reading... and remembered..."
+- No two openers start with the same phrase. Mix: "Saw your...", "Came across...", "Quick one:", "Going through... this week and...", "[Mutual connection] mentioned...", "Was reading... and remembered..."
 - Vary sentence length aggressively. Short sentences. Then one longer sentence that twists a bit. Then a fragment.
 - Mention 2-3 concrete proof points per email (numbers, library names, products). Generic phrasing is the AI tell.
 
@@ -56,14 +56,23 @@ Before writing the email back to `tracker.json`, run a vocabulary scan. **Reject
 `delve`, `intricate`, `pivotal`, `leverage` (verb), `robust`, `comprehensive`, `seamlessly`, `harness`, `navigate the landscape`, `journey`, `tapestry`, `testament`, `vibrant`, `underscore`, `showcasing`, `in today's fast-paced world`, `in the realm of`, `it's worth noting that`, `that being said`, `I hope this email finds you well`, `I am writing to express`, `excited to share`, `looking forward to hearing from you`.
 
 Also reject:
-- More than one em-dash in a single email
+- **Any em-dash at all.** Zero em-dashes. Not one, not "max one" — zero. Replace every ` — ` with a period, comma, colon, or semicolon depending on context. Em-dashes cause encoding corruption (`â€"`) on Windows when tracker.json is read by send.py, and they are an AI tell anyway.
+- **Any non-ASCII character in email body or subject.** Stick to plain ASCII 32-126 only. No curly quotes (`"` `"` `'` `'`), no en-dashes (`–`), no ellipsis (`…`), no accented characters. Use straight apostrophes (`'`) and straight quotes (`"`). This prevents encoding bugs in SMTP delivery.
 - Any bullet list inside an email body
 - Three-part parallel triplets ("built, deployed, and scaled")
 - The pattern "It's not X, it's Y"
 - Any leftover `[brackets]`, `{braces}`, "Company Name", "First name" — cardinal sin
-- Curly quotes / smart quotes
 
 Re-draft until clean. Don't save junk and "fix later."
+
+### Email permutations
+
+For every contact, populate `to_permutations` with all common variants so send.py delivers to each separately:
+- `firstname.lastname@domain`
+- `flastname@domain` (first initial + last name, no separator)
+- `f.lastname@domain` (first initial + dot + last name)
+
+Keep `to` as the primary (confirmed or most likely). send.py sends one email per address; tracker status is only updated on the primary. If the confirmed pattern is known (e.g. `firstname@domain`), still add permutations — bounces are fine, and the correct one landing is the goal.
 
 ### Set status
 
@@ -79,7 +88,7 @@ After all three emails are clean for a contact, do NOT auto-set `status = "appro
 ## Hard rules
 
 - Three paragraphs max per email. Subject under 8 words.
-- One em-dash per email max. Zero is better.
+- Zero em-dashes. Zero non-ASCII characters. Plain ASCII only.
 - No bullets in email bodies.
 - No leftover placeholders. Search for `[`, `{`, "Company Name", "First name" before saving.
 - Anti-AI vocab list is BLOCKING, not advisory. Rewrite until clean.
