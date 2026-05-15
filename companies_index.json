@@ -8,9 +8,9 @@
     "role_title": "SDE II / SDE III - GenAI / ML Engineer",
     "location": "Bengaluru",
     "salary_range_lpa": "22-38 LPA",
-    "research_status": "not_started",
-    "named_contacts": 0,
-    "emails_sent": 0,
+    "research_status": "done",
+    "named_contacts": 3,
+    "emails_sent": 3,
     "source_csv": "company_data_1.csv"
   },
   {
@@ -22,9 +22,9 @@
     "role_title": "Applied AI Engineer, Postbot (2+ yrs)",
     "location": "Bengaluru",
     "salary_range_lpa": "25-35 LPA",
-    "research_status": "not_started",
-    "named_contacts": 0,
-    "emails_sent": 0,
+    "research_status": "done",
+    "named_contacts": 8,
+    "emails_sent": 7,
     "source_csv": "company_data_1.csv"
   },
   {
@@ -38,7 +38,7 @@
     "salary_range_lpa": "25-45 LPA (estimated)",
     "research_status": "done",
     "named_contacts": 8,
-    "emails_sent": 0,
+    "emails_sent": 8,
     "source_csv": "company_data_1.csv"
   },
   {
@@ -50,8 +50,8 @@
     "role_title": "Software Engineer - PromptQL AI",
     "location": "Bengaluru",
     "salary_range_lpa": "28-40 LPA",
-    "research_status": "not_started",
-    "named_contacts": 0,
+    "research_status": "done",
+    "named_contacts": 7,
     "emails_sent": 0,
     "source_csv": "company_data_1.csv"
   },

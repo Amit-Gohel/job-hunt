@@ -146,7 +146,21 @@
     \section{Professional Summary}
 
     \begin{onecolentry}
-        AI/ML Engineer with 2+ years of experience shipping production AI systems at scale. Built and deployed Retrieval-Augmented Generation (RAG) chatbots achieving 95\% Mean Reciprocal Rank (MRR) handling 50,000+ queries/month, AI-powered form and video course generation pipelines, and on-premise document processing systems. Proven expertise in multi-model architectures, vector databases, embedding optimization, and edge Machine Learning (ML). Microsoft Azure AI Engineer Associate certified.
+        AI/ML Engineer with 2+ years shipping production Generative AI (GenAI) systems at scale. Built RAG chatbots at 95\% MRR handling 50,000+ queries/month, multi-model LLM pipelines across GPT-4o, Gemini, and Qwen, and AI-powered content generation systems. Deep expertise in Retrieval-Augmented Generation, prompt engineering, vector databases, and cloud deployment on AWS and Azure. Microsoft Azure AI Engineer Associate certified.
+    \end{onecolentry}
+
+    % ==================== TECHNICAL SKILLS ====================
+    \section{Technical Skills}
+
+    \begin{onecolentry}
+        \begin{highlightsforbulletentries}
+            \item \textbf{Programming Languages:} Python, C++, SQL
+            \item \textbf{Techniques:} Retrieval-Augmented Generation (RAG), Prompt Engineering, Agentic AI, Natural Language Processing (NLP), Text Summarization, Semantic Search, CNN, LSTM, BiLSTM
+            \item \textbf{AI/ML Frameworks:} PyTorch, TensorFlow/Keras, Hugging Face Transformers, LangChain, LangGraph, Generative AI models including GPT-4o, Gemini 2.5 Pro, Llama, Qwen (LLMs and large vision/multimedia models)
+            \item \textbf{Vector Databases and Retrieval:} Milvus, FAISS, Qdrant, OpenAI Embeddings, BGE-M3, Cohere Embed/Rerank, SPLADE
+            \item \textbf{Infrastructure and Cloud:} FastAPI, VLLM, AWS (EC2, Lambda, S3, SAM), Microsoft Azure, GCP, Docker, Git, PostgreSQL, Pydantic
+            \item \textbf{Tools and APIs:} OpenAI API, Google Gemini API, Anthropic API, Together AI, ElevenLabs, Selenium, FFmpeg
+        \end{highlightsforbulletentries}
     \end{onecolentry}
 
     % ==================== WORK EXPERIENCE ====================
@@ -161,11 +175,10 @@
         \vspace{0.10 cm}
         \begin{onecolentry}
             \begin{highlights}
-                \item Upgraded the \textbf{permission-aware RAG chatbot} to a fully \textbf{agentic architecture using LangChain} for a multi-tenant Environment, Health, and Safety (EHS) platform serving \textbf{500+ concurrent users} and \textbf{1,000+ queries/day} -- integrated with \textbf{Milvus}, \textbf{PostgreSQL}, and \textbf{10+ platform APIs}, enabling the chatbot to autonomously retrieve live data, trigger workflows, and resolve multi-turn queries end-to-end
-                \item Enforced \textbf{250+ granular permissions per query} in real time via 2-stage retrieval: dedicated Milvus permission index cross-referenced against PostgreSQL, with GPT-4o handling access control, query rewriting, and conversation resolution across 10,000+ content chunks; \textbf{80\% MRR}
-                \item Built an \textbf{AI-powered form builder} that converts PDF forms to digital replicas in \textasciitilde20 seconds (\textbf{200+ forms generated in month 1}), with bulk processing of 100+ PDFs in 5--10 minutes -- replacing 1+ hour of manual work per form
-                \item Designed intermediate Pydantic-validated JSON schema enabling reliable Large Language Model (LLM)-to-platform conversion; implemented multi-model pipeline (GPT-4o, Qwen3-Coder-480B, GPT-4o-mini) with each model selected via empirical benchmarking
-                \item Created an \textbf{AI video course generation pipeline} reducing production time from \textasciitilde1 week to \textasciitilde10 minutes (99\% reduction) by orchestrating RAG-based video selection (Milvus + Cohere), Gemini 2.5 Pro for visual-audio alignment, ElevenLabs narration, and serverless FFmpeg rendering on AWS Lambda
+                \item Upgraded the \textbf{permission-aware RAG chatbot} into a fully \textbf{agentic conversational assistant using LangChain and LangGraph} for a multi-tenant EHS platform serving \textbf{500+ concurrent users} and \textbf{1,000+ queries/day} -- integrated with \textbf{Milvus}, \textbf{PostgreSQL}, and \textbf{10+ platform APIs}, enabling the chatbot to autonomously retrieve live data, trigger workflows, and resolve multi-turn queries end-to-end
+                \item Enforced \textbf{250+ granular permissions per query} in real time via 2-stage retrieval: dedicated Milvus permission index cross-referenced against PostgreSQL, with \textbf{GPT-4o} handling access control, \textbf{prompt engineering for query rewriting}, and conversation resolution across 10,000+ content chunks; \textbf{80\% MRR}
+                \item Built \textbf{AI-powered form generation pipeline} converting PDFs to digital replicas in \textasciitilde20 seconds (\textbf{200+ forms in month 1}); designed Pydantic-validated intermediate JSON schema enabling reliable LLM-to-platform conversion; implemented \textbf{multi-model Generative AI pipeline (GPT-4o, Qwen3-Coder-480B, GPT-4o-mini)} with each model selected via empirical benchmarking
+                \item Created an \textbf{AI video course generation pipeline} reducing production time from \textasciitilde1 week to \textasciitilde10 minutes (99\% reduction) by orchestrating RAG-based semantic search and video selection (Milvus + Cohere), \textbf{Gemini 2.5 Pro} for visual-audio alignment, ElevenLabs narration, and serverless FFmpeg rendering on \textbf{AWS Lambda}
             \end{highlights}
         \end{onecolentry}
 
@@ -180,10 +193,10 @@
         \vspace{0.10 cm}
         \begin{onecolentry}
             \begin{highlights}
-                \item Rebuilt production RAG chatbot infrastructure serving \textbf{50,000+ queries/month} across 10+ chatbot instances -- migrated from in-code Llama-2-7b to VLLM-served API and replaced FAISS with Milvus, improving MRR by \textbf{111\% (45\% to 95\%)}
-                \item Led vector database evaluation (Milvus vs.\ Qdrant vs.\ FAISS) on production-scale data; tested 6+ embedding models (BGE-M3, BGE-small, BGE-base, BGE-large, Stella, SPLADE) and built custom retrieval logic with BGE-M3 + reranker
-                \item Reduced chatbot response latency by \textbf{50\% (16s to 8s)} through query preprocessing with intent identification and retrieval pipeline optimization
-                \item Built \textbf{on-premise Optical Character Recognition (OCR) and document processing pipeline} for sensitive government documents (200+ page PDFs) -- combined DocTR + DocLink OCR outputs via Llama-3.1-Nemotron-70b for hybrid merging, achieving \textasciitilde90\% entity extraction accuracy on Aadhaar, PAN, and GST numbers
+                \item Rebuilt production \textbf{Generative AI} RAG chatbot infrastructure serving \textbf{50,000+ queries/month} across 10+ chatbot instances -- migrated from in-code Llama-2-7b to VLLM-served API and replaced FAISS with Milvus, improving MRR by \textbf{111\% (45\% to 95\%)}
+                \item Led vector database evaluation (Milvus vs.\ Qdrant vs.\ FAISS) on production-scale data; tested 6+ embedding models (BGE-M3, BGE-small, BGE-base, BGE-large, Stella, SPLADE) and built custom semantic search and retrieval logic with BGE-M3 + reranker
+                \item Reduced chatbot response latency by \textbf{50\% (16s to 8s)} through NLP-based query preprocessing with intent identification and retrieval pipeline optimization
+                \item Built \textbf{on-premise OCR and document processing pipeline} for sensitive government documents (200+ page PDFs) -- combined DocTR + DocLink OCR outputs via Llama-3.1-Nemotron-70b for hybrid merging, achieving \textasciitilde90\% entity extraction accuracy on Aadhaar, PAN, and GST numbers
             \end{highlights}
         \end{onecolentry}
 
@@ -198,56 +211,8 @@
         \vspace{0.10 cm}
         \begin{onecolentry}
             \begin{highlights}
-                \item Built end-to-end \textbf{air writing recognition system}: ESP32 + MPU6050 wearable capturing 6-axis Inertial Measurement Unit (IMU) data at 60Hz, classifying 62 alphanumeric characters via Convolutional Neural Network (CNN)-Bidirectional Long Short-Term Memory (BiLSTM) achieving 75\% user-dependent accuracy
+                \item Built end-to-end \textbf{air writing recognition system}: ESP32 + MPU6050 wearable classifying 62 alphanumeric characters via CNN-BiLSTM deep learning model achieving 75\% user-dependent accuracy
                 \item Collected 12,400 labeled samples from 20 participants; systematically evaluated \textbf{1,000+ model configurations} across 5 architecture families (Dense, CNN, LSTM, BiLSTM, hybrids) using TensorFlow/Keras
-                \item Applied rigorous leave-one-subject-out cross-validation for user-independent evaluation; collaborated with researchers from Indian Institute of Science (IISc) Bangalore and Howard University
-            \end{highlights}
-        \end{onecolentry}
-
-    % ==================== TECHNICAL SKILLS ====================
-    \section{Technical Skills}
-
-    \begin{onecolentry}
-        \begin{highlightsforbulletentries}
-            \item \textbf{Programming Languages:} Python, C++, SQL
-            \item \textbf{AI/ML Frameworks:} PyTorch, TensorFlow/Keras, Hugging Face Transformers, LangChain, Large Language Models (LLMs) including GPT-4o, Gemini 2.5 Pro, Llama, Qwen
-            \item \textbf{Techniques:} Retrieval-Augmented Generation (RAG), Agentic AI, Prompt Engineering, Natural Language Processing (NLP), CNN, LSTM, BiLSTM, Gated Recurrent Unit (GRU), TinyML
-            \item \textbf{Vector Databases and Retrieval:} Milvus, FAISS, Qdrant, OpenAI Embeddings, BGE-M3, Cohere Embed/Rerank, SPLADE
-            \item \textbf{Infrastructure and DevOps:} FastAPI, VLLM, Amazon Web Services (AWS) including EC2, Lambda, S3, SAM; Docker, Git, PostgreSQL, Pydantic
-            \item \textbf{Tools and APIs:} OpenAI API, Google Gemini API, Anthropic API, Together AI, ElevenLabs, Edge Impulse, Selenium, FFmpeg
-            \item \textbf{Hardware/IoT:} Arduino, ESP32, NodeMCU, IMU Sensors, Raspberry Pi
-        \end{highlightsforbulletentries}
-    \end{onecolentry}
-
-    % ==================== PROJECTS ====================
-    \section{Projects}
-
-        \begin{twocolentry}{
-            2023
-        }
-            \textbf{Voicer -- Sign Language to Speech Device} (\hrefWithoutArrow{https://github.com/amit-gohel/voicer}{GitHub})
-        \end{twocolentry}
-
-        \vspace{0.10 cm}
-        \begin{onecolentry}
-            \begin{highlights}
-                \item Developed wearable device translating Indian Sign Language to speech using 10 IMU sensors + NodeMCU with on-device TinyML inference in \textbf{2ms}, achieving \textbf{94.1\% accuracy} across 12 gesture classes
-                \item \textbf{Samsung Solve for Tomorrow -- Top 10 among 70,000+ participants nationwide}; featured on CNN News18
-            \end{highlights}
-        \end{onecolentry}
-
-        \vspace{0.2 cm}
-
-        \begin{twocolentry}{
-            2023
-        }
-            \textbf{WeepScope -- Infant Cry Classifier} (\hrefWithoutArrow{https://github.com/amit-gohel/Weep-Scope}{GitHub})
-        \end{twocolentry}
-
-        \vspace{0.10 cm}
-        \begin{onecolentry}
-            \begin{highlights}
-                \item Built standalone device classifying infant cries into 5 categories using hybrid 1D CNN + GRU model on Arduino Nano 33 BLE Sense (1MB flash); achieved \textbf{86\% test accuracy} with 5-cycle majority voting; research paper with Dr.\ Kirankumar Trivedi (Northeastern University)
             \end{highlights}
         \end{onecolentry}
 
@@ -270,7 +235,8 @@
 
     \begin{onecolentry}
         \begin{highlightsforbulletentries}
-            \item \textbf{Microsoft Azure AI Engineer Associate} -- Certified in designing and implementing Azure AI solutions
+            \item \textbf{Microsoft Azure AI Engineer Associate} -- Certified in designing and implementing Azure AI solutions including Generative AI, NLP, and knowledge mining
+            \item \textbf{Samsung Solve for Tomorrow} -- Top 10 among 70,000+ participants nationwide; featured on CNN News18
             \item \textbf{Smart India Hackathon 2023} -- Top 5 among 44,000+ teams nationwide (Hardware Edition, MIT Karnataka)
             \item \textbf{Competitive Programming:} 370+ problems solved in Python
         \end{highlightsforbulletentries}

@@ -50,5 +50,5 @@ If `pdflatex` fails, paste the last 30 lines of the error to the user and stop. 
 
 - Do not edit the project-root `resume.tex`. Per-company changes belong in `company/<slug>/resume.tex`.
 - Do not invent achievements. Everything stays grounded in `chunks.json` + `resume.tex` master template.
-- Keep the resume to one page. If it spills to two, cut bullets — don't shrink the font.
+- Target two pages. Do not shrink the font to force content in — two pages is correct for a 2+ year candidate with multiple production systems. Include all meaningful work experience, all projects, and full skills. Only cut bullets if the resume spills beyond two pages.
 - Use straight quotes (`'`), not curly quotes — anti-AI hygiene also applies to documents.

@@ -27,21 +27,29 @@ Do these in order. Save findings to the files as you go — don't batch.
 
 ### B. Map the team and find named individuals
 
-Goal: 10-20 named contacts per company. Tier 1 first.
+Contact targets depend on company size (check LinkedIn employee count or `metadata`):
+
+**Companies >50 employees — minimum 6-8 contacts:**
+- **4-5 employees** from the AI/ML team: `engineering manager`, `ml engineer`, `ai engineer`, `tech lead`, `principal engineer`, `staff engineer`, `senior software engineer`, `ml researcher`, `applied scientist` (Tier 1 and Tier 3)
+- **2-3 HR/recruiters**: `recruiter`, `talent acquisition`, `hr business partner`, `hr manager` (Tier 4)
+- **Hard skip**: Do NOT add any founder, CEO, CTO, or C-suite contact — they do not screen candidates at this scale and emailing them reads as naive
+- Search employees first, then HR. Hit both minimums before stopping.
+
+**Companies <=50 employees — aim for 6-10 contacts, mix all three groups:**
+- **2-3 employees** from the team: `engineering manager`, `ml engineer`, `ai engineer`, `tech lead` (Tier 1)
+- **1-2 founders/exec**: `founder`, `ceo`, `cto`, `vp engineering` (Tier 2 — they often interview directly at this size)
+- **1-2 HR/recruiters**: `recruiter`, `talent acquisition` (Tier 4)
+- **Additional ICs** if needed to hit the minimum: `senior software engineer`, `applied scientist` (Tier 3)
 
 1. Open `metadata.linkedin_company_page` in Chrome.
-2. Click "People" → filter by role keywords (in this order):
-   - `engineering manager`, `ml engineer`, `ai engineer`, `tech lead`, `principal engineer`, `staff engineer` (Tier 1)
-   - `founder`, `ceo`, `cto`, `vp engineering` (Tier 2 — especially for sub-50-person startups)
-   - `senior software engineer`, `ml researcher`, `applied scientist` (Tier 3)
-   - `recruiter`, `talent acquisition` (Tier 4 only, never primary)
+2. Use the "People" search and filter using the keywords above in the right order for the company size.
 3. For each named individual, capture in `research.md`:
    - Name
    - Role title (exact wording from LinkedIn)
    - LinkedIn URL
    - Tier (1/2/3/4)
-   - One recent post or activity item from the last 60 days (a hook for the cold email)
-4. Do not stop at one or two. Aim for 10-20 with the tier mix the strategy doc requires (skew Tier 1 + 2).
+   - At least 5 recent posts or activity items from the last 60 days (check their activity page — this is the hook material for the cold email). Note what topics they post about, what they care about, any product announcements, opinions.
+4. Do not stop at one or two. Aim for 10-20 with the tier mix above.
 
 ### C. Verify email addresses
 

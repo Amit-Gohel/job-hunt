@@ -142,7 +142,10 @@ These come from the user's standing feedback and the strategy doc:
 - **Per-person, not per-company.** 10-20 named contacts per target. Never `careers@`, `jobs@`, or any generic inbox — same black hole as the ATS.
 - **No AI tells.** Every email is screened against the anti-AI vocabulary list in `templates and ai avoidance.md`. The list is the spec, not a suggestion. Read it before writing any email.
 - **No placeholder leftovers.** Search for `[`, `{`, "Company Name", "First name" before any send. Cardinal sin.
-- **Tier 1 priority.** Engineering managers / AI/ML team leads / tech leads on the team Amit would actually join. Founders only at sub-30-person startups. Recruiters are supplements, never the primary contact.
+- **Contact targets are company-size-dependent with hard minimums.**
+  - **Companies >50 employees:** Find 4-5 employees from the AI/ML team (EMs, ML engineers, tech leads, senior ICs) AND 2-3 HR/recruiters (recruiter, talent acquisition, HR business partner). Hard minimum: 6 contacts. Never add a founder, CEO, CTO, or any C-suite — they don't screen candidates at this scale.
+  - **Companies <=50 employees:** Find 2-3 AI/ML team employees (Tier 1), 1-2 founders/CTO (Tier 2 — they often interview directly at this size), and 1-2 recruiters/HR (Tier 4). Aim for 6-10 contacts total mixing all three groups.
+  - Never cold-email a CEO or founder at a >50-person company.
 - **15-25 emails per week, max.** Mass sends collapse reply rates to spam baseline. Hand-tailoring is the whole point.
 - **No new docs, plans, or summary files unless the user asks.** Work happens in the existing tracker.json + research.md per company.
 - **Skill scope:** only job-hunting tasks are relevant here. Do not invoke dev/code/design gstack skills (`/design-review`, `/qa`, `/ship`, etc.) in this project. They do not apply.

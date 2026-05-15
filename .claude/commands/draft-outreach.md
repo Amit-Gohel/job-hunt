@@ -24,9 +24,9 @@ For every contact in `contacts[]` with `contact_name` filled and `status != "app
 ### Template choice by tier
 
 - **Tier 1** (engineering manager / tech lead) → Template 3 in `templates and ai avoidance.md`
-- **Tier 2** (founder / CEO / CTO at sub-50-person startup) → Template 1
+- **Tier 2** (founder / CEO / CTO — sub-50-person companies ONLY; these contacts should not exist in >50-person trackers) → Template 1
 - **Tier 3** (IC / senior engineer) → Template 3 (slightly shorter, ask is "you should talk to X")
-- **Tier 4** (recruiter) → Template 2
+- **Tier 4** (recruiter / HR) → Template 2
 
 ### Fill these fields per contact
 
