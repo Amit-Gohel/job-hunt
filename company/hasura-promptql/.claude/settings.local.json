@@ -1,0 +1,15 @@
+{
+  "permissions": {
+    "allow": [
+      "Skill(work-company)",
+      "WebSearch",
+      "WebFetch(domain:builtin.com)",
+      "WebFetch(domain:fractal.ai)",
+      "WebFetch(domain:www.instahyre.com)",
+      "WebFetch(domain:www.prnewswire.com)",
+      "Bash(python3 build_index.py)",
+      "PowerShell(Get-ChildItem \"D:\\\\Projects\\\\job hunting\\\\job-hunt\\\\company\" -Directory | Where-Object { $_.Name -ne \"fractal-analytics\" -and $_.Name -ne \"hasura-promptql\" } | Measure-Object | Select-Object Count)",
+      "PowerShell(\\(Get-ChildItem \"D:\\\\Projects\\\\job hunting\\\\job-hunt\\\\company\" -Directory | Where-Object { $_.Name -ne \"fractal-analytics\" -and $_.Name -ne \"hasura-promptql\" }\\).Count)"
+    ]
+  }
+}
