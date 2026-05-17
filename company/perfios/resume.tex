@@ -148,7 +148,7 @@
     \section{Professional Summary}
 
     \begin{onecolentry}
-        AI/ML Engineer with 2+ years shipping production AI systems at scale. Built RAG chatbots (95\% MRR, 50,000+ queries/month), AI form and video course generation pipelines, and on-premise document processing systems. Expertise in multi-model architectures, vector databases, embedding optimization, and edge ML. Microsoft Azure AI Engineer Associate certified.
+        AI/ML Engineer with 2+ years building production document AI, OCR pipelines, and ML systems for real-world data at scale. Built an on-premise document processing pipeline achieving \textasciitilde90\% entity extraction accuracy on Aadhaar, PAN, and GST from 200+ page PDFs; shipped RAG serving 50,000+ queries/month at 95\% MRR. Hands-on with TensorFlow, PyTorch, Python, and end-to-end ML deployment (MLOps, Docker, AWS). Microsoft Azure AI Engineer Associate certified.
     \end{onecolentry}
 
     % ==================== WORK EXPERIENCE ====================
@@ -181,10 +181,10 @@
         \vspace{0.02 cm}
         \begin{onecolentry}
             \begin{highlights}
+                \item Built \textbf{on-premise OCR and document pipeline} for sensitive government documents (200+ page PDFs); merged DocTR + DocLink via Llama-3.1-Nemotron-70b, achieving \textasciitilde\textbf{90\% entity extraction accuracy} on Aadhaar, PAN, and GST numbers -- zero cloud API calls, all on-premise
                 \item Rebuilt production RAG chatbot infrastructure serving \textbf{50,000+ queries/month} across 10+ chatbot instances; migrated from in-code Llama-2-7b to VLLM-served API and FAISS to Milvus, improving \textbf{MRR by 111\% (45\% to 95\%)}
                 \item Led vector DB evaluation (Milvus vs.\ Qdrant vs.\ FAISS) on production-scale data; tested 6+ embedding models (BGE-M3, BGE-small/base/large, Stella, SPLADE) and built custom retrieval with BGE-M3 + reranker
                 \item Reduced response latency by \textbf{50\% (16s to 8s)} through query preprocessing with intent identification and retrieval pipeline optimization
-                \item Built \textbf{on-premise OCR and document pipeline} for sensitive government documents (200+ page PDFs); merged DocTR + DocLink via Llama-3.1-Nemotron-70b, achieving \textasciitilde\textbf{90\% entity extraction accuracy} on Aadhaar, PAN, and GST numbers
             \end{highlights}
         \end{onecolentry}
 
@@ -209,11 +209,11 @@
 
     \begin{onecolentry}
         \begin{highlightsforbulletentries}
-            \item \textbf{Languages and Frameworks:} Python, C++, SQL; PyTorch, TensorFlow/Keras, Hugging Face Transformers, LangChain, LangGraph, FastAPI, Pydantic
-            \item \textbf{LLMs and Techniques:} GPT-4o, Gemini 2.5 Pro, Llama, Qwen3-Coder; RAG, Agentic AI, Prompt Engineering, NLP, CNN, LSTM, BiLSTM, GRU, TinyML
+            \item \textbf{Languages and ML Frameworks:} Python, SQL, C++; TensorFlow/Keras, PyTorch, Scikit-learn, Hugging Face Transformers, LangChain, LangGraph, FastAPI, Pydantic
+            \item \textbf{Document AI and OCR:} DocTR, DocLink, Tesseract OCR; on-premise PDF pipelines, entity extraction (Aadhaar/PAN/GST), hybrid OCR merging with LLMs
+            \item \textbf{ML and AI Techniques:} CNN, LSTM, BiLSTM, GRU, RAG, Agentic AI, NLP, Prompt Engineering, Anomaly Detection, Time Series; GPT-4o, Gemini 2.5 Pro, Llama, Qwen3-Coder
             \item \textbf{Vector DBs and Retrieval:} Milvus, FAISS, Qdrant; OpenAI Embeddings, BGE-M3, Cohere Embed/Rerank, SPLADE, Stella
-            \item \textbf{Infrastructure and Tools:} AWS (EC2, Lambda, S3, SAM), Docker, Git, PostgreSQL, VLLM, OpenAI/Gemini/Anthropic APIs, Together AI, ElevenLabs, Selenium, FFmpeg
-            \item \textbf{Hardware/IoT:} Arduino, ESP32, NodeMCU, IMU Sensors, Raspberry Pi, Edge Impulse
+            \item \textbf{Infrastructure and Tools:} AWS (EC2, Lambda, S3, SAM), Docker, Git, PostgreSQL, VLLM, Kafka (streaming pipelines), Selenium, FFmpeg
         \end{highlightsforbulletentries}
     \end{onecolentry}
 

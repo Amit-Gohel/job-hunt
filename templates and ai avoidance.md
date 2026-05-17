@@ -21,7 +21,7 @@ Quick context: I spent the last year rebuilding RAG infrastructure at Vivansh �
 Not pitching anything. Just curious whether you're hiring on the ML side this quarter, and if so, whether a 20-min call makes sense.
 
 Amit
-amitgohel.dev
+amitgohel.dev | linkedin.com/in/amitgohel-ai | amitgohel.dev/chat
 
 ---
 
@@ -37,7 +37,7 @@ Reaching out directly because I think my background is a clean match for what [C
 
 Short version: 2+ years shipping production AI — RAG chatbots at 95% MRR / 50K queries per month, on-prem OCR pipelines for sensitive docs, multi-model orchestration with GPT-4o, Qwen, Gemini. Azure AI Engineer Associate certified. Most recent work was at Vivansh Infotech in Ahmedabad; before that, a research stint at IIT Delhi.
 
-Resume and live projects: amitgohel.dev
+Resume and live projects: amitgohel.dev | linkedin.com/in/amitgohel-ai | amitgohel.dev/chat
 
 If there's an open AI/ML role I should be looking at, I'd appreciate a pointer. If not, no worries — would still be happy to be on your radar for future openings.
 
@@ -61,7 +61,7 @@ Reason I'm writing: I'm 2 years into AI/ML (RAG at 50K queries/month, on-prem do
 If not the right time, totally understood.
 
 Amit
-github.com/amit-gohel | amitgohel.dev
+github.com/amit-gohel | amitgohel.dev | linkedin.com/in/amitgohel-ai | amitgohel.dev/chat
 
 ---
 
@@ -78,6 +78,7 @@ Bumping this up in case it got buried. Since I sent the last email, I [specific 
 If now's not the right time, no worries — happy to circle back next quarter.
 
 Amit
+amitgohel.dev | linkedin.com/in/amitgohel-ai | amitgohel.dev/chat
 
 ---
 
@@ -92,6 +93,7 @@ Last note from me on this. If [Company] isn't actively hiring on ML right now, t
 Either way, good luck with [specific recent thing they're working on].
 
 Amit
+amitgohel.dev | linkedin.com/in/amitgohel-ai | amitgohel.dev/chat
 
 ---
 

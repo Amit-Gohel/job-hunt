@@ -142,11 +142,13 @@
         \mbox{\hrefWithoutArrow{https://github.com/amit-gohel}{github.com/amit-gohel}}%
     \end{header}
 
+    % \vspace{2 pt - 0.3 cm}
+
     % ==================== PROFESSIONAL SUMMARY ====================
     \section{Professional Summary}
 
     \begin{onecolentry}
-        AI/ML Engineer with 2+ years delivering Python-based enterprise AI in production. Built RAG chatbots at 95\% MRR handling 50,000+ queries/month, agentic LangChain pipelines on multi-tenant platforms, and on-premise document processing for sensitive data. Hands-on with multi-model LLM orchestration across GPT-4o, Anthropic Claude, and Gemini 2.5 Pro, retrieval stack optimization on Milvus (111\% MRR improvement from FAISS), and production-scale embedding evaluation (6+ models, BGE-M3 + reranker). Microsoft Azure AI Engineer Associate certified.
+        AI/ML Engineer with 2+ years shipping production RAG and agentic AI systems. Built RAG pipelines serving 50,000+ queries/month (95\% MRR), LangGraph/LangChain agentic workflows, and multi-model orchestration systems for enterprise clients. Strong Python, PyTorch, and LLM application development. Azure AI Engineer Associate certified.
     \end{onecolentry}
 
     % ==================== WORK EXPERIENCE ====================
@@ -163,7 +165,8 @@
             \begin{highlights}
                 \item Upgraded permission-aware RAG chatbot to fully \textbf{agentic architecture using LangChain/LangGraph} for multi-tenant EHS platform serving \textbf{500+ concurrent users}, \textbf{1,000+ queries/day}; integrated Milvus, PostgreSQL, and 10+ platform APIs for autonomous data retrieval and workflow triggers
                 \item Enforced \textbf{250+ granular permissions per query} via 2-stage retrieval: dedicated Milvus permission index cross-referenced with PostgreSQL, with GPT-4o handling access control, query rewriting, and conversation resolution across 10,000+ chunks; \textbf{80\% MRR}
-                \item Built \textbf{AI-powered form builder} converting PDF forms to digital replicas in \textasciitilde20 seconds (\textbf{200+ forms in month 1}); Pydantic-validated intermediate JSON schema enabled reliable LLM-to-platform conversion across multi-model pipeline (GPT-4o, Qwen3-Coder-480B, GPT-4o-mini, Anthropic Claude) selected via empirical benchmarking
+                \item Built \textbf{AI-powered form builder} converting PDF forms to digital replicas in \textasciitilde20 seconds (\textbf{200+ forms in month 1}), bulk processing 100+ PDFs in 5--10 minutes; replaced 1+ hour of manual work per form via Pydantic-validated intermediate JSON and multi-model pipeline (GPT-4o, Qwen3-Coder-480B, GPT-4o-mini)
+                \item Created \textbf{AI video course generation pipeline} reducing production from \textasciitilde1 week to \textasciitilde10 minutes (\textbf{99\% reduction}) via RAG-based video selection (Milvus + Cohere), Gemini 2.5 Pro for visual-audio alignment, ElevenLabs narration, and serverless FFmpeg rendering on AWS Lambda
             \end{highlights}
         \end{onecolentry}
 
@@ -196,7 +199,7 @@
         \vspace{0.02 cm}
         \begin{onecolentry}
             \begin{highlights}
-                \item Collected 12,400 labeled samples from 20 participants; evaluated \textbf{1,000+ model configurations} across 5 architecture families (Dense, CNN, LSTM, BiLSTM, hybrids) using TensorFlow/Keras -- data-driven model selection at scale; collaborated with IISc Bangalore and Howard University researchers
+                \item Evaluated \textbf{1,000+ model configurations} across 5 architecture families (Dense, CNN, LSTM, BiLSTM, hybrids) in TensorFlow/Keras for 62-class gesture classification; selected CNN-BiLSTM via leave-one-subject-out cross-validation; collected 12,400 labeled samples from 20 participants
             \end{highlights}
         \end{onecolentry}
 
@@ -205,12 +208,43 @@
 
     \begin{onecolentry}
         \begin{highlightsforbulletentries}
-            \item \textbf{Languages and Frameworks:} Python, C++, SQL; LangChain, LangGraph, PyTorch, TensorFlow/Keras, Hugging Face Transformers, FastAPI, Pydantic
-            \item \textbf{Vector DBs and Retrieval:} Milvus, Qdrant, FAISS; BGE-M3, Cohere Embed/Rerank, SPLADE, OpenAI Embeddings
-            \item \textbf{LLMs and Techniques:} GPT-4o, Anthropic Claude, Gemini 2.5 Pro, Llama, Qwen3-Coder; RAG (dense/sparse retrieval), Agentic AI, Prompt Engineering (COT, ReAct), NLP, Fine-tuning (PEFT), CNN, LSTM, BiLSTM
-            \item \textbf{Infrastructure and Tools:} AWS (EC2, Lambda, S3, Bedrock, SAM), Azure, GCP, Docker, Git, PostgreSQL, VLLM, OpenAI/Anthropic/Gemini APIs, Together AI, Selenium, FFmpeg
+            \item \textbf{LLMs and Techniques:} GPT-4o, Gemini 2.5 Pro, Llama, Qwen3-Coder; RAG, Agentic AI, LLM Orchestration, Prompt Engineering, NLP, CNN, LSTM, BiLSTM, GRU
+            \item \textbf{Languages and Frameworks:} Python, C++, SQL; PyTorch, TensorFlow/Keras, Hugging Face Transformers, LangChain, LangGraph, FastAPI, Pydantic
+            \item \textbf{Vector DBs and Retrieval:} Milvus, FAISS, Qdrant; OpenAI Embeddings, BGE-M3, Cohere Embed/Rerank, SPLADE, Stella
+            \item \textbf{Infrastructure and Tools:} AWS (EC2, Lambda, S3, SAM), Docker, Git, PostgreSQL, VLLM, OpenAI/Gemini/Anthropic APIs, Together AI, ElevenLabs, FFmpeg
         \end{highlightsforbulletentries}
     \end{onecolentry}
+
+    % ==================== PROJECTS ====================
+    \section{Projects}
+
+        \begin{twocolentry}{
+            2023
+        }
+            \textbf{Voicer -- Sign Language to Speech Device} (\hrefWithoutArrow{https://github.com/amit-gohel/voicer}{GitHub})
+        \end{twocolentry}
+
+        \vspace{0.02 cm}
+        \begin{onecolentry}
+            \begin{highlights}
+                \item Wearable device translating Indian Sign Language to speech using 10 IMU sensors + NodeMCU with on-device TinyML inference in \textbf{2ms}, \textbf{94.1\% accuracy} across 12 gesture classes; \textbf{Samsung Solve for Tomorrow Top 10 among 70,000+ participants}, featured on CNN News18
+            \end{highlights}
+        \end{onecolentry}
+
+        \vspace{0.05 cm}
+
+        \begin{twocolentry}{
+            2024
+        }
+            \textbf{SAP Analytics Bot -- Natural Language to SQL + Auto-Dashboard}
+        \end{twocolentry}
+
+        \vspace{0.02 cm}
+        \begin{onecolentry}
+            \begin{highlights}
+                \item Production Text-to-SQL system letting business users query live SAP-connected databases in plain English; auto-generates dashboard charts from results; handles multi-step clarification, large result preprocessing, and statistical summaries -- no SQL knowledge required
+            \end{highlights}
+        \end{onecolentry}
 
     % ==================== EDUCATION ====================
     \section{Education}
@@ -227,8 +261,7 @@
     \begin{onecolentry}
         \begin{highlightsforbulletentries}
             \item \textbf{Microsoft Azure AI Engineer Associate} -- Certified in designing and implementing Azure AI solutions
-            \item \textbf{Samsung Solve for Tomorrow} -- Top 10 among 70,000+ participants nationwide; featured on CNN News18
-            \item \textbf{Smart India Hackathon 2023} -- Top 5 among 44,000+ teams nationwide (MIT Karnataka)
+            \item \textbf{Smart India Hackathon 2023} -- Top 5 among 44,000+ teams nationwide (Hardware Edition, MIT Karnataka)
             \item \textbf{Competitive Programming:} 370+ problems solved in Python
         \end{highlightsforbulletentries}
     \end{onecolentry}

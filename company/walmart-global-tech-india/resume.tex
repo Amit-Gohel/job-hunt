@@ -148,7 +148,7 @@
     \section{Professional Summary}
 
     \begin{onecolentry}
-        AI/ML Engineer with 2+ years shipping production AI systems at scale. Built RAG chatbots (95\% MRR, 50,000+ queries/month), AI form and video course generation pipelines, and on-premise document processing systems. Expertise in multi-model architectures, vector databases, embedding optimization, and edge ML. Microsoft Azure AI Engineer Associate certified.
+        AI/ML Engineer with 2+ years building production agentic AI and enterprise RAG systems. Designed multi-agent LangGraph/LangChain architectures, Milvus-based hybrid retrieval serving 50,000+ queries/month (95\% MRR), and permission-aware RAG with 250+ RBAC rules for 500+ concurrent enterprise users. Expertise in agentic AI, vector databases, and production ML. Azure AI Engineer Associate certified.
     \end{onecolentry}
 
     % ==================== WORK EXPERIENCE ====================
@@ -199,8 +199,7 @@
         \vspace{0.02 cm}
         \begin{onecolentry}
             \begin{highlights}
-                \item Built end-to-end \textbf{air writing recognition system}: ESP32 + MPU6050 wearable capturing 6-axis IMU data at 60Hz, classifying 62 alphanumeric characters via CNN-BiLSTM with \textbf{75\% user-dependent accuracy}
-                \item Collected 12,400 labeled samples from 20 participants; evaluated \textbf{1,000+ model configurations} across 5 architecture families (Dense, CNN, LSTM, BiLSTM, hybrids) using TensorFlow/Keras with leave-one-subject-out cross-validation; collaborated with IISc Bangalore and Howard University researchers
+                \item Evaluated \textbf{1,000+ model configurations} across 5 architecture families (Dense, CNN, LSTM, BiLSTM, hybrids) in TensorFlow/Keras for 62-class gesture classification; selected CNN-BiLSTM via leave-one-subject-out cross-validation; collected 12,400 labeled samples from 20 participants
             \end{highlights}
         \end{onecolentry}
 
@@ -209,11 +208,10 @@
 
     \begin{onecolentry}
         \begin{highlightsforbulletentries}
-            \item \textbf{Languages and Frameworks:} Python, C++, SQL; PyTorch, TensorFlow/Keras, Hugging Face Transformers, LangChain, LangGraph, FastAPI, Pydantic
-            \item \textbf{LLMs and Techniques:} GPT-4o, Gemini 2.5 Pro, Llama, Qwen3-Coder; RAG, Agentic AI, Prompt Engineering, NLP, CNN, LSTM, BiLSTM, GRU, TinyML
+            \item \textbf{LLMs and Techniques:} GPT-4o, Gemini 2.5 Pro, Llama, Qwen3-Coder; Agentic AI, LangGraph, RAG, Prompt Engineering, NLP, CNN, LSTM, BiLSTM, GRU
             \item \textbf{Vector DBs and Retrieval:} Milvus, FAISS, Qdrant; OpenAI Embeddings, BGE-M3, Cohere Embed/Rerank, SPLADE, Stella
-            \item \textbf{Infrastructure and Tools:} AWS (EC2, Lambda, S3, SAM), Docker, Git, PostgreSQL, VLLM, OpenAI/Gemini/Anthropic APIs, Together AI, ElevenLabs, Selenium, FFmpeg
-            \item \textbf{Hardware/IoT:} Arduino, ESP32, NodeMCU, IMU Sensors, Raspberry Pi, Edge Impulse
+            \item \textbf{Languages and Frameworks:} Python, C++, SQL; PyTorch, TensorFlow/Keras, Hugging Face Transformers, LangChain, LangGraph, FastAPI, Pydantic
+            \item \textbf{Infrastructure and Tools:} AWS (EC2, Lambda, S3, SAM), Docker, Git, PostgreSQL, VLLM, OpenAI/Gemini/Anthropic APIs, Together AI, ElevenLabs, FFmpeg
         \end{highlightsforbulletentries}
     \end{onecolentry}
 
@@ -236,15 +234,15 @@
         \vspace{0.05 cm}
 
         \begin{twocolentry}{
-            2023
+            2024
         }
-            \textbf{WeepScope -- Infant Cry Classifier} (\hrefWithoutArrow{https://github.com/amit-gohel/Weep-Scope}{GitHub})
+            \textbf{SAP Analytics Bot -- Natural Language to SQL + Auto-Dashboard}
         \end{twocolentry}
 
         \vspace{0.02 cm}
         \begin{onecolentry}
             \begin{highlights}
-                \item Standalone device classifying infant cries into 5 categories using hybrid 1D CNN + GRU on Arduino Nano 33 BLE Sense (1MB flash); \textbf{86\% test accuracy} with 5-cycle majority voting; co-authored research paper with Dr.\ Kirankumar Trivedi
+                \item Production Text-to-SQL system letting business users query live SAP-connected databases in plain English; auto-generates dashboard charts from results; handles multi-step clarification, large result preprocessing, and statistical summaries -- no SQL knowledge required
             \end{highlights}
         \end{onecolentry}
 

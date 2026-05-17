@@ -30,25 +30,25 @@ Do these in order. Save findings to the files as you go — don't batch.
 Contact targets depend on company size (check LinkedIn employee count or `metadata`):
 
 **Companies >50 employees — minimum 6-8 contacts:**
-- **4-5 employees** from the AI/ML team: `engineering manager`, `ml engineer`, `ai engineer`, `tech lead`, `principal engineer`, `staff engineer`, `senior software engineer`, `ml researcher`, `applied scientist` (Tier 1 and Tier 3)
-- **2-3 HR/recruiters**: `recruiter`, `talent acquisition`, `hr business partner`, `hr manager` (Tier 4)
-- **Hard skip**: Do NOT add any founder, CEO, CTO, or C-suite contact — they do not screen candidates at this scale and emailing them reads as naive
-- Search employees first, then HR. Hit both minimums before stopping.
+- **2-3 senior employees** from AI/ML team: `engineering manager`, `tech lead`, `principal engineer`, `staff engineer`, `ml researcher`, `applied scientist` (Tier 1)
+- **2-3 junior/mid employees** from AI/ML team: `software engineer`, `ml engineer`, `ai engineer`, `data scientist`, `junior ml engineer` (Tier 3 — these reply more often and are closer to the work)
+- **2-3 HR/recruiters who actively hire**: `recruiter`, `talent acquisition`, `hr business partner`, `hr manager`, `technical recruiter` — prioritise people who post job listings or hiring content (Tier 4)
+- **Hard skip**: Do NOT add any founder, CEO, CTO, or C-suite — they do not screen candidates at this scale and emailing them reads as naive
+- Search senior team first, then junior team, then HR. Hit all three group minimums before stopping.
 
-**Companies <=50 employees — aim for 6-10 contacts, mix all three groups:**
-- **2-3 employees** from the team: `engineering manager`, `ml engineer`, `ai engineer`, `tech lead` (Tier 1)
-- **1-2 founders/exec**: `founder`, `ceo`, `cto`, `vp engineering` (Tier 2 — they often interview directly at this size)
-- **1-2 HR/recruiters**: `recruiter`, `talent acquisition` (Tier 4)
-- **Additional ICs** if needed to hit the minimum: `senior software engineer`, `applied scientist` (Tier 3)
+**Companies <=50 employees — aim for 6-10 contacts, mix all four groups:**
+- **1-2 senior employees**: `engineering manager`, `tech lead`, `ml engineer` (Tier 1)
+- **1-2 junior/mid employees**: `software engineer`, `ai engineer`, `data scientist` (Tier 3)
+- **1-2 founders/co-founders/exec**: `founder`, `co-founder`, `ceo`, `cto`, `vp engineering` (Tier 2 — they often interview directly at this size)
+- **1-2 HR/recruiters who actively hire**: `recruiter`, `talent acquisition`, `hr` (Tier 4)
 
 1. Open `metadata.linkedin_company_page` in Chrome.
 2. Use the "People" search and filter using the keywords above in the right order for the company size.
-3. For each named individual, capture in `research.md`:
-   - Name
-   - Role title (exact wording from LinkedIn)
-   - LinkedIn URL
-   - Tier (1/2/3/4)
-   - At least 5 recent posts or activity items from the last 60 days (check their activity page — this is the hook material for the cold email). Note what topics they post about, what they care about, any product announcements, opinions.
+3. For each named individual, do ALL of the following and capture in `research.md`:
+   - Name, exact role title from LinkedIn, LinkedIn URL, Tier
+   - **Read top 4-5 LinkedIn posts on their profile activity page** — note the specific topic, what they argued, any product/team announcements, opinions they expressed. This is the primary hook source.
+   - **Search their name + company on Google News / news.google.com** — capture any interviews, press mentions, conference talks, podcast episodes from the last 6 months. Even one specific mention gives a strong cold-email opener.
+   - Combine LinkedIn posts + news into a 2-3 line `research_hook` note per person.
 4. Do not stop at one or two. Aim for 10-20 with the tier mix above.
 
 ### C. Verify email addresses
@@ -62,10 +62,16 @@ For each named individual found in B:
 
 ### D. Recent activity scan
 
+**Company-level:**
 1. Open the company X/Twitter handle (search company name on x.com). Note last 5 posts in the last 60 days.
-2. Open the founder's X handle. Same.
-3. Search company name on news.ycombinator.com and the company's blog. Note funding rounds, launches, podcasts, conference talks from the last 60 days.
-4. Capture all of this under "## Last 60 days" in `research.md`. This becomes the cold-email opener material.
+2. Search company name on news.ycombinator.com and the company's blog. Note funding rounds, launches, podcasts, conference talks from the last 60 days.
+3. Capture under "## Last 60 days — Company" in `research.md`.
+
+**Per-person (for every contact found in B):**
+4. For each contact, open their LinkedIn activity page and read the top 4-5 posts. Note the post topic, their stance/argument, and any engagement signals (likes, comments from known people in the space).
+5. Google `"<person name>" "<company name>" site:news.google.com OR site:techcrunch.com OR site:yourstory.com OR site:inc42.com OR site:themorningcontext.com` — capture any interview, mention, or talk in the last 12 months.
+6. If the founder/co-founder is in the list, also check their X/Twitter for last 5 posts.
+7. Capture each person's findings under "## Person: <name>" in `research.md` — this feeds the `research_hook` field in tracker.json.
 
 ### E. Wire it into tracker.json
 

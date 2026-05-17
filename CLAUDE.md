@@ -116,8 +116,9 @@ For each company the user wants to work on:
 1. **Open `company/<slug>/tracker.json` and `company/<slug>/research.md`.** Slug derived from `companies_index.json` (sorted by priority).
 2. **Research.** Fill `research.md`:
    - Pull the full JD verbatim from `job_url` and save to `jd_full_text` in tracker.json.
-   - Identify 10-20 named individuals (tier 1 first → hiring managers/EMs/leads on the team → tier 2 founders → tier 3 ICs → tier 4 recruiters only as supplement). Capture name, role, LinkedIn, verified email (Hunter.io / Apollo). **Never use generic `careers@` / `jobs@` / `hello@`.**
-   - Note the last 60 days of public activity: blog posts, X threads, podcast appearances, product launches, funding moves. This becomes the cold-email opener for each contact.
+   - Identify 10-20 named individuals: mix of senior AI/ML employees (Tier 1), junior/mid AI/ML employees (Tier 3), founders/co-founders for small companies (Tier 2), and HR/recruiters who actively hire (Tier 4). Capture name, role, LinkedIn, verified email (Hunter.io / Apollo). **Never use generic `careers@` / `jobs@` / `hello@`.**
+   - For each contact: read their top 4-5 LinkedIn posts (what they argue, what they built, opinions) and Google their name + company in news (interviews, talks, mentions). This per-person research is the source of the cold-email opener.
+   - Note the last 60 days of company-level public activity: blog posts, X threads, podcast appearances, product launches, funding moves.
    - Capture 1+ technical detail of theirs that maps to Amit's work (RAG/Milvus/multi-model orchestration/OCR/TinyML — see `chunks.json` for the canonical list of proof points).
 3. **Tailor the resume.** Edit `company/<slug>/resume.tex` based on the JD:
    - Rewrite the Professional Summary line to mirror their tech stack.
@@ -143,8 +144,9 @@ These come from the user's standing feedback and the strategy doc:
 - **No AI tells.** Every email is screened against the anti-AI vocabulary list in `templates and ai avoidance.md`. The list is the spec, not a suggestion. Read it before writing any email.
 - **No placeholder leftovers.** Search for `[`, `{`, "Company Name", "First name" before any send. Cardinal sin.
 - **Contact targets are company-size-dependent with hard minimums.**
-  - **Companies >50 employees:** Find 4-5 employees from the AI/ML team (EMs, ML engineers, tech leads, senior ICs) AND 2-3 HR/recruiters (recruiter, talent acquisition, HR business partner). Hard minimum: 6 contacts. Never add a founder, CEO, CTO, or any C-suite — they don't screen candidates at this scale.
-  - **Companies <=50 employees:** Find 2-3 AI/ML team employees (Tier 1), 1-2 founders/CTO (Tier 2 — they often interview directly at this size), and 1-2 recruiters/HR (Tier 4). Aim for 6-10 contacts total mixing all three groups.
+  - **Companies >50 employees:** Find 2-3 senior AI/ML employees (EMs, tech leads, principal/staff engineers, ML researchers) AND 2-3 junior/mid AI/ML employees (SWEs, ML engineers, data scientists — they reply more and are closer to daily work) AND 2-3 HR/recruiters who actively hire (technical recruiter, talent acquisition, HR business partner). Hard minimum: 6 contacts across all three groups. Never add a founder, CEO, CTO, or any C-suite — they don't screen candidates at this scale.
+  - **Companies <=50 employees:** Find 1-2 senior team employees (Tier 1), 1-2 junior/mid team employees (Tier 3), 1-2 founders/co-founders/CTO (Tier 2 — they often interview directly at this size), and 1-2 recruiters/HR (Tier 4). Aim for 6-10 contacts mixing all four groups.
+  - For every contact, read their top 4-5 LinkedIn posts and search them in news. The research_hook must come from something specific they wrote or said — not generic company facts.
   - Never cold-email a CEO or founder at a >50-person company.
 - **15-25 emails per week, max.** Mass sends collapse reply rates to spam baseline. Hand-tailoring is the whole point.
 - **No new docs, plans, or summary files unless the user asks.** Work happens in the existing tracker.json + research.md per company.
@@ -174,7 +176,7 @@ These wrap the per-company workflow so you can drive everything from chat. They 
 | `/research-company <slug>` | Chrome-driven deep research. Pulls JD verbatim, maps the team, finds 10-20 named contacts with tier + LinkedIn + best-guess email, captures last-60-days activity. Writes to `tracker.json` + `research.md`. |
 | `/tailor-resume <slug>` | Edits `company/<slug>/resume.tex` to mirror the captured JD. Records the diff in `tailoring_notes`. Compiles to `resume.pdf`. |
 | `/draft-outreach <slug>` | Writes initial + 2 follow-ups per contact. Runs the anti-AI vocabulary scan as a blocking pre-save check. Leaves status at `queued` for user approval. |
-| `/work-company [slug]` | Full pipeline: research → tailor → draft, with blocking user-review gates between stages. Auto-picks the next target if no slug given. |
+| `/work-company [slug]` | Full pipeline: research → tailor → draft, runs end-to-end without stopping. Only live sending remains for the user. Auto-picks the next target if no slug given. |
 | `/outreach-status` | Read-only dashboard. Counts research / drafted / approved / sent / replied across all 166 companies and suggests the next concrete action. |
 
 The canonical workflow on a fresh machine: `claude --chrome`, then `/work-company`. That command does the rest.

@@ -148,7 +148,7 @@
     \section{Professional Summary}
 
     \begin{onecolentry}
-        AI/ML Engineer with 2+ years shipping production AI systems at scale. Built RAG chatbots (95\% MRR, 50,000+ queries/month), AI form and video course generation pipelines, and on-premise document processing systems. Expertise in multi-model architectures, vector databases, embedding optimization, and edge ML. Microsoft Azure AI Engineer Associate certified.
+        AI/ML Engineer with 2+ years building production ML engineering platforms at scale. Designed and shipped inferencing pipelines, feature engineering systems, and multi-model orchestration architectures serving 50,000+ queries/month; improved model retrieval MRR from 45\% to 95\% through systematic embedding evaluation and pipeline optimization. Strong Python, AWS, SQL, and cloud ML deployment experience. Microsoft Azure AI Engineer Associate certified.
     \end{onecolentry}
 
     % ==================== WORK EXPERIENCE ====================
@@ -199,8 +199,7 @@
         \vspace{0.02 cm}
         \begin{onecolentry}
             \begin{highlights}
-                \item Built end-to-end \textbf{air writing recognition system}: ESP32 + MPU6050 wearable capturing 6-axis IMU data at 60Hz, classifying 62 alphanumeric characters via CNN-BiLSTM with \textbf{75\% user-dependent accuracy}
-                \item Collected 12,400 labeled samples from 20 participants; evaluated \textbf{1,000+ model configurations} across 5 architecture families (Dense, CNN, LSTM, BiLSTM, hybrids) using TensorFlow/Keras with leave-one-subject-out cross-validation; collaborated with IISc Bangalore and Howard University researchers
+                \item Evaluated \textbf{1,000+ model configurations} across 5 architecture families (Dense, CNN, LSTM, BiLSTM, hybrids) in TensorFlow/Keras for 62-class gesture classification; selected CNN-BiLSTM via leave-one-subject-out cross-validation; collected 12,400 labeled samples from 20 participants
             \end{highlights}
         \end{onecolentry}
 
@@ -209,11 +208,11 @@
 
     \begin{onecolentry}
         \begin{highlightsforbulletentries}
-            \item \textbf{Languages and Frameworks:} Python, C++, SQL; PyTorch, TensorFlow/Keras, Hugging Face Transformers, LangChain, LangGraph, FastAPI, Pydantic
-            \item \textbf{LLMs and Techniques:} GPT-4o, Gemini 2.5 Pro, Llama, Qwen3-Coder; RAG, Agentic AI, Prompt Engineering, NLP, CNN, LSTM, BiLSTM, GRU, TinyML
+            \item \textbf{Languages and Frameworks:} Python, SQL, C++; PyTorch, TensorFlow/Keras, Hugging Face Transformers, LangChain, LangGraph, FastAPI, Pydantic
+            \item \textbf{ML Engineering and MLOps:} Feature engineering, inferencing pipelines, model performance tracking, retrieval pipeline optimization; VLLM (model serving), Docker, Git
+            \item \textbf{Cloud and Infrastructure:} AWS (EC2, Lambda, S3, SAM), Azure (AI Engineer Associate certified); PostgreSQL, on-premise GPU deployment
+            \item \textbf{LLMs and AI Techniques:} GPT-4o, Gemini 2.5 Pro, Llama, Qwen3-Coder; RAG, Agentic AI, Prompt Engineering, NLP, CNN, LSTM, BiLSTM, GRU
             \item \textbf{Vector DBs and Retrieval:} Milvus, FAISS, Qdrant; OpenAI Embeddings, BGE-M3, Cohere Embed/Rerank, SPLADE, Stella
-            \item \textbf{Infrastructure and Tools:} AWS (EC2, Lambda, S3, SAM), Docker, Git, PostgreSQL, VLLM, OpenAI/Gemini/Anthropic APIs, Together AI, ElevenLabs, Selenium, FFmpeg
-            \item \textbf{Hardware/IoT:} Arduino, ESP32, NodeMCU, IMU Sensors, Raspberry Pi, Edge Impulse
         \end{highlightsforbulletentries}
     \end{onecolentry}
 
@@ -221,30 +220,30 @@
     \section{Projects}
 
         \begin{twocolentry}{
-            2023
+            2024
         }
-            \textbf{Voicer -- Sign Language to Speech Device} (\hrefWithoutArrow{https://github.com/amit-gohel/voicer}{GitHub})
+            \textbf{On-Premise OCR + Document Entity Extraction Pipeline}
         \end{twocolentry}
 
         \vspace{0.02 cm}
         \begin{onecolentry}
             \begin{highlights}
-                \item Wearable device translating Indian Sign Language to speech using 10 IMU sensors + NodeMCU with on-device TinyML inference in \textbf{2ms}, \textbf{94.1\% accuracy} across 12 gesture classes; \textbf{Samsung Solve for Tomorrow Top 10 among 70,000+ participants}, featured on CNN News18
+                \item Built hybrid OCR pipeline for sensitive government documents (200+ page PDFs, zero cloud APIs): ran DocTR + DocLink per page and used on-premise Llama-3.1-Nemotron-70b to merge outputs; achieved \textbf{\textasciitilde90\% entity extraction accuracy} on Aadhaar, PAN, and GST numbers; fully self-hosted on client's 250GB server
             \end{highlights}
         \end{onecolentry}
 
         \vspace{0.05 cm}
 
         \begin{twocolentry}{
-            2023
+            2024
         }
-            \textbf{WeepScope -- Infant Cry Classifier} (\hrefWithoutArrow{https://github.com/amit-gohel/Weep-Scope}{GitHub})
+            \textbf{SAP Analytics Bot -- Natural Language to SQL + Auto-Dashboard}
         \end{twocolentry}
 
         \vspace{0.02 cm}
         \begin{onecolentry}
             \begin{highlights}
-                \item Standalone device classifying infant cries into 5 categories using hybrid 1D CNN + GRU on Arduino Nano 33 BLE Sense (1MB flash); \textbf{86\% test accuracy} with 5-cycle majority voting; co-authored research paper with Dr.\ Kirankumar Trivedi
+                \item Production Text-to-SQL system letting business users query live SAP-connected databases in plain English; auto-generates dashboard charts from results; handles multi-step clarification, large result preprocessing, and statistical summaries -- no SQL knowledge required
             \end{highlights}
         \end{onecolentry}
 

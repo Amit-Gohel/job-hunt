@@ -148,7 +148,7 @@
     \section{Professional Summary}
 
     \begin{onecolentry}
-        AI/ML Engineer with 2+ years shipping production AI systems at scale. Built RAG chatbots (95\% MRR, 50,000+ queries/month), AI form and video course generation pipelines, and on-premise document processing systems. Expertise in multi-model architectures, vector databases, embedding optimization, and edge ML. Microsoft Azure AI Engineer Associate certified.
+        AI/ML Engineer with 2+ years building production LLM systems at scale. Built agentic RAG pipelines (LangChain/LangGraph, 95\% MRR, 50,000+ queries/month), multi-model orchestration systems, and on-premise document processing pipelines. Expertise in agentic workflows, vector database optimization, embedding benchmarking, and LLMOps. Microsoft Azure AI Engineer Associate certified.
     \end{onecolentry}
 
     % ==================== WORK EXPERIENCE ====================
@@ -209,11 +209,10 @@
 
     \begin{onecolentry}
         \begin{highlightsforbulletentries}
-            \item \textbf{Languages and Frameworks:} Python, C++, SQL; PyTorch, TensorFlow/Keras, Hugging Face Transformers, LangChain, LangGraph, FastAPI, Pydantic
-            \item \textbf{LLMs and Techniques:} GPT-4o, Gemini 2.5 Pro, Llama, Qwen3-Coder; RAG, Agentic AI, Prompt Engineering, NLP, CNN, LSTM, BiLSTM, GRU, TinyML
-            \item \textbf{Vector DBs and Retrieval:} Milvus, FAISS, Qdrant; OpenAI Embeddings, BGE-M3, Cohere Embed/Rerank, SPLADE, Stella
-            \item \textbf{Infrastructure and Tools:} AWS (EC2, Lambda, S3, SAM), Docker, Git, PostgreSQL, VLLM, OpenAI/Gemini/Anthropic APIs, Together AI, ElevenLabs, Selenium, FFmpeg
-            \item \textbf{Hardware/IoT:} Arduino, ESP32, NodeMCU, IMU Sensors, Raspberry Pi, Edge Impulse
+            \item \textbf{LLMs and Techniques:} GPT-4o, Gemini 2.5 Pro, Llama, Qwen3-Coder; RAG, Agentic AI, LangChain, LangGraph, Prompt Engineering, NLP, CNN, LSTM, BiLSTM, GRU
+            \item \textbf{Vector DBs and Retrieval:} Milvus, FAISS, Qdrant; BGE-M3, Cohere Embed/Rerank, OpenAI Embeddings, SPLADE, Stella
+            \item \textbf{Infrastructure and Tools:} AWS (EC2, Lambda, S3, SAM), Docker, Kubernetes, Git, PostgreSQL, VLLM, FastAPI, Pydantic, OpenAI/Gemini/Anthropic APIs, ElevenLabs, FFmpeg
+            \item \textbf{Languages and Frameworks:} Python, C++, SQL; PyTorch, TensorFlow/Keras, Hugging Face Transformers
         \end{highlightsforbulletentries}
     \end{onecolentry}
 
@@ -221,30 +220,30 @@
     \section{Projects}
 
         \begin{twocolentry}{
-            2023
+            2024--2025
         }
-            \textbf{Voicer -- Sign Language to Speech Device} (\hrefWithoutArrow{https://github.com/amit-gohel/voicer}{GitHub})
+            \textbf{Multi-Tenant RAG Chatbot -- Permission-Aware Enterprise AI}
         \end{twocolentry}
 
         \vspace{0.02 cm}
         \begin{onecolentry}
             \begin{highlights}
-                \item Wearable device translating Indian Sign Language to speech using 10 IMU sensors + NodeMCU with on-device TinyML inference in \textbf{2ms}, \textbf{94.1\% accuracy} across 12 gesture classes; \textbf{Samsung Solve for Tomorrow Top 10 among 70,000+ participants}, featured on CNN News18
+                \item Production RAG chatbot serving \textbf{50,000+ queries/month} across 10+ tenants; enforced \textbf{250+ permissions per query} via 2-stage Milvus + PostgreSQL RBAC; improved MRR from \textbf{45\% to 95\%} through benchmarking 6 embedding models and custom BGE-M3 + reranker pipeline
             \end{highlights}
         \end{onecolentry}
 
         \vspace{0.05 cm}
 
         \begin{twocolentry}{
-            2023
+            2025
         }
-            \textbf{WeepScope -- Infant Cry Classifier} (\hrefWithoutArrow{https://github.com/amit-gohel/Weep-Scope}{GitHub})
+            \textbf{AI Video Course Generation Pipeline -- 99\% Faster EHS Training Production}
         \end{twocolentry}
 
         \vspace{0.02 cm}
         \begin{onecolentry}
             \begin{highlights}
-                \item Standalone device classifying infant cries into 5 categories using hybrid 1D CNN + GRU on Arduino Nano 33 BLE Sense (1MB flash); \textbf{86\% test accuracy} with 5-cycle majority voting; co-authored research paper with Dr.\ Kirankumar Trivedi
+                \item Reduced course production from \textasciitilde1 week to \textasciitilde10 minutes (\textbf{99\% reduction}) via RAG-based video selection (Milvus + Cohere), Gemini 2.5 Pro for visual-audio alignment, ElevenLabs narration, and serverless FFmpeg rendering on AWS Lambda
             \end{highlights}
         \end{onecolentry}
 
