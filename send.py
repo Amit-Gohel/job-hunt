@@ -240,29 +240,19 @@ def discover_sends(
                     to_addr = (contact.get("to") or "").strip()  # may be empty
                 cc = [c.strip() for c in (contact.get("cc") or []) if isinstance(c, str) and c.strip()]
 
-                # Build one SendUnit per address: primary + all permutations
-                all_addresses = [to_addr] if to_addr else []
-                for perm in (contact.get("to_permutations") or []):
-                    perm = perm.strip()
-                    if perm and perm not in all_addresses:
-                        all_addresses.append(perm)
-                if not all_addresses:
-                    all_addresses = [""]  # keep one empty slot for test-mode preview
-
-                for addr in all_addresses:
-                    units.append(SendUnit(
-                        company_slug=slug,
-                        company_name=company_name,
-                        folder=folder,
-                        tracker_path=tracker_path,
-                        contact_index=idx,
-                        contact=contact,
-                        email_type=email_type,
-                        subject=subject.strip(),
-                        body=body,
-                        to_addr=addr,
-                        cc=cc,
-                    ))
+                units.append(SendUnit(
+                    company_slug=slug,
+                    company_name=company_name,
+                    folder=folder,
+                    tracker_path=tracker_path,
+                    contact_index=idx,
+                    contact=contact,
+                    email_type=email_type,
+                    subject=subject.strip(),
+                    body=body,
+                    to_addr=to_addr,
+                    cc=cc,
+                ))
     return units, skips
 
 
@@ -326,7 +316,8 @@ def build_message(unit: SendUnit, live_mode: bool, pdf_path: Path | None) -> tup
             filename=filename,
         )
 
-    envelope_to = [to_addr, *cc]
+    bcc = [FROM_EMAIL] if live_mode else []
+    envelope_to = [to_addr, *cc, *bcc]
     return msg, envelope_to
 
 
